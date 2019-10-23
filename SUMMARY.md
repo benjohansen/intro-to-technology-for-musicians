@@ -15,6 +15,7 @@
   * [Finale](unit-2-music/notation-software/finale.md)
 * [Digital Audio](unit-2-music/untitled/README.md)
   * [Podcast Assignment](unit-2-music/untitled/podcast-assignment.md)
+  * [Recording](unit-2-music/untitled/recording.md)
 
 ## Unit 3: Pictures
 
