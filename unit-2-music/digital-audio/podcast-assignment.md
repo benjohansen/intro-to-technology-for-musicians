@@ -40,5 +40,11 @@ Export as an uncompressed \(lossless\)  audio file \(WAV or AIFF\) to later edit
 Aim for -16LUFS and -1TP to prepare your tracks for streaming services \(Youtube, Spotify, iTunes, etc.\)
 
 Checkout the article on [Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/) for more details.
+
+["In short LUFS is calculated by taking the RMS, through a EQ filter that approximates the bias of human hearing and gates out any quiet content, or non foreground content, from the calculation. It is an attempt to put a reproducible value or measure on Loudness, which is inherently subjective. At this time it is the best way of doing this."](http://reaproducer.com/index.php/rt14/)
 {% endhint %}
+
+
+
+
 
