@@ -13,9 +13,9 @@
   * [Dorico](unit-2-music/notation-software/dorico.md)
   * [MuseScore](unit-2-music/notation-software/musescore.md)
   * [Finale](unit-2-music/notation-software/finale.md)
-* [Digital Audio](unit-2-music/untitled/README.md)
-  * [Podcast Assignment](unit-2-music/untitled/podcast-assignment.md)
-  * [Recording](unit-2-music/untitled/recording.md)
+* [Digital Audio](unit-2-music/digital-audio/README.md)
+  * [Podcast Assignment](unit-2-music/digital-audio/podcast-assignment.md)
+  * [Recording](unit-2-music/digital-audio/recording.md)
 
 ## Unit 3: Pictures
 
