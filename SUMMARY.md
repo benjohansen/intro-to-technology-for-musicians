@@ -16,6 +16,8 @@
 * [Digital Audio](unit-2-music/digital-audio/README.md)
   * [Podcast Assignment](unit-2-music/digital-audio/podcast-assignment.md)
   * [Recording](unit-2-music/digital-audio/recording.md)
+  * [Audio Editing](unit-2-music/digital-audio/audio-editing/README.md)
+    * [Mixing](unit-2-music/digital-audio/audio-editing/mixing.md)
 
 ## Unit 3: Pictures
 
