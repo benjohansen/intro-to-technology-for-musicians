@@ -12,13 +12,13 @@ description: Create a 3-5min original podcast.
 
 Record yourself speaking the content of your podcast using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp\)
 
-Use Audacity.
+Use Audacity for recording.
 
 Make sure you set the input device to the Focusrite Scarlett and the number of channels to 1 \(mono\)  
 
 ![](../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png)
 
-To have proper [gain staging](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), set the gain on the Focusrite to peak at around -18dB  
+To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
 
 ![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png)
 
@@ -34,7 +34,7 @@ Export as an uncompressed \(lossless\)  audio file \(WAV or AIFF\) to later edit
 4. add at least one virtual instrument sound \(sound effect or musical … sampler or synthesizer\)
 5. add at least one recording of yourself performing on your main instrument \(that may be voice or instrument\)
 6. apply the proper loudness level conversion for streaming audio online
-7. export as a compressed audio format \(MP3 or AAC\)
+7. export as a compressed audio format \(AAC is better sounding compression than MP3\)
 
 {% hint style="info" %}
 Aim for -16LUFS and -1TP to prepare your tracks for streaming services \(Youtube, Spotify, iTunes, etc.\)
