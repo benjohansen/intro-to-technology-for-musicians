@@ -19,7 +19,9 @@
 
 ## **Gain Staging**
 
-* 
+* have -6dB as the ceiling for recording \(peak below -6dB … not near 0dB\)
+* average the recording around -18dB
+
 ## **Computer**
 
 * lossless audio files \(WAV, AIFF, CAF\) = highest quality
