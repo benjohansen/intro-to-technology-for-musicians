@@ -5,18 +5,26 @@
 {% endhint %}
 
 1. Open Logic Pro and make it function as Logic rather than GarageBand
+   * click "ok" for Logic to access the microphone
+   * choose "empty project"
+   * add a track of any type \(you will delete this track after you add the stems\)
    * In the top left of Logic … go to **Logic Pro X** &gt; Preferences &gt; Advanced Tools …
    * put a checkmark on “Show Advanced Tools”
-   * click the “Enable All” button at the bottom
-2. Go to File &gt; New … then add 1 Audio Track and click the “Create” button
-3. Save \(somewhere you can find it, like the Desktop\) … and save often; Logic saves everything, including imported audio, in one convenient folder \(called a package\)
-4. add the stem tracks
+   * click the “Enable All” button at the bottom and close the window
+2. Save \(somewhere you can find it, like the Desktop\) … and save often; Logic saves everything, including imported audio, in one convenient folder \(called a package\) ... when you are done with a working session and need to leave the school lab, completely close Logic and right click on the package of the project you are working on and choose "compress" - then you can upload that .zip file to Box or Google Drive, etc.
+3. add the stem tracks
    * [Download the 13 tracks to mix here.](https://baylor.box.com/shared/static/vsv0r2qy3iteulvnp2us93hrsfn8obm5.zip)
    * Double click the ZIP file you downloaded to unzip it
    * Drag all the tracks into Logic \(measure 1, below the empty audio track\) and check next to “Create new tracks” \(you can now delete the empty audio track if you want\)
 
 {% hint style="info" %}
 [Here is a great resource teaching "How to Mix"](https://www.landr.com/en/how-to-mix/)
+{% endhint %}
+
+{% hint style="warning" %}
+If you want to see time rather than measures in the timeline = go to File &gt; Project Settings &gt; General ... and uncheck "Use musical grid."
+
+You can also view the time in top middle display by clicking on the display's drop down arrow and choosing "time."
 {% endhint %}
 
 ### Begin Mixing
