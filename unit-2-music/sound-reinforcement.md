@@ -17,12 +17,11 @@ In order from performer’s mouth or instrument ⇨ audience
 
 1. mic
 2. channel strip \(top to bottom = signal path\)
-   1. preamp = boosts mic level to line level
-   2. EQ = shapes tone 
-   3. auxiliary sends = additional outputs
-      * \(to stage monitors for example\)
-   4. fader = adjust channel line level volume
-   5. pan
+   * preamp = boosts mic level to line level
+   * EQ = shapes tone 
+   * auxiliary sends = additional outputs \(to stage monitors for example\)
+   * fader = adjust channel line level volume
+   * pan
 3. main output
 4. amplifier = boosts signal from line level to very high levels designed for passive speakers ONLY
    * active \(powered\) speakers have amplifiers built into them
@@ -31,8 +30,8 @@ In order from performer’s mouth or instrument ⇨ audience
 
 ### **Effects processors:**
 
-* * [compressors](https://www.youtube.com/watch?v=5pXbd1QcdcU&list=PLRwSxn6RVkVIM9443VFgYHNkYuqbmEakk&index=3)/[limiters](https://www.youtube.com/watch?v=l85nH_kWfK0&index=4&list=PLRwSxn6RVkVIM9443VFgYHNkYuqbmEakk) = boost quiet sounds and attenuate loud sounds \(keep distortion from occurring further down signal chain\)
-  * special effects processors = add ambience \(reverb\), flange, delay, distortion, etc.
+* [compressors](https://www.youtube.com/watch?v=5pXbd1QcdcU&list=PLRwSxn6RVkVIM9443VFgYHNkYuqbmEakk&index=3)/[limiters](https://www.youtube.com/watch?v=l85nH_kWfK0&index=4&list=PLRwSxn6RVkVIM9443VFgYHNkYuqbmEakk) = boost quiet sounds and attenuate loud sounds \(keep distortion from occurring further down signal chain\)
+* special effects processors = add ambience \(reverb\), flange, delay, distortion, etc.
 * feedback = mic too close to PA speaker, mic too far from source being amplified, and/or too many mics
   * directional mics help minimize feedback by isolating sounds being picked up
   * rooms with less hard surfaces have fewer feedback issues … no or full audience is very different too
