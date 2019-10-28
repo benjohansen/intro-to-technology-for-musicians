@@ -22,7 +22,7 @@ To have proper gain staging \([video](https://www.youtube.com/watch?time_continu
 
 ![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png)
 
-Export as an uncompressed \(lossless\)  audio file \(WAV or AIFF\) to later edit in Logic Pro or Reaper
+Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit in Logic Pro or Reaper
 
 ![](../../.gitbook/assets/img_1679-81.jpg)
 
@@ -37,11 +37,15 @@ Export as an uncompressed \(lossless\)  audio file \(WAV or AIFF\) to later edit
 7. export as a compressed audio format \(AAC is better sounding compression than MP3\)
 
 {% hint style="info" %}
+### Loudness
+
 Aim for -16LUFS and -1TP to prepare your tracks for streaming services \(Youtube, Spotify, iTunes, etc.\)
 
 Checkout the article on [Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/) for more details.
 
-["In short LUFS is calculated by taking the RMS, through a EQ filter that approximates the bias of human hearing and gates out any quiet content, or non foreground content, from the calculation. It is an attempt to put a reproducible value or measure on Loudness, which is inherently subjective. At this time it is the best way of doing this."](http://reaproducer.com/index.php/rt14/)
+> LUFS stands for Loudness Units Full Scale, and is a way of measuring the overall volume of a song in a way that’s much closer to the way the human ear detects volume changes.
+
+> TP in this case stands for True Peak, and is used to measure the actual peak loudness of the file when played back in the analog realm \(ie, a speaker\).
 {% endhint %}
 
 
