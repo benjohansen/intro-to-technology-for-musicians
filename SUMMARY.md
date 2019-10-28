@@ -13,9 +13,10 @@
   * [Dorico](unit-2-music/notation-software/dorico.md)
   * [MuseScore](unit-2-music/notation-software/musescore.md)
   * [Finale](unit-2-music/notation-software/finale.md)
+* [Sound Reinforcement](unit-2-music/sound-reinforcement.md)
 * [Digital Audio](unit-2-music/digital-audio/README.md)
-  * [Podcast Assignment](unit-2-music/digital-audio/podcast-assignment.md)
-  * [Recording](unit-2-music/digital-audio/recording.md)
+  * [Recording](unit-2-music/digital-audio/recording/README.md)
+    * [Podcast Assignment](unit-2-music/digital-audio/recording/podcast-assignment.md)
   * [Audio Editing](unit-2-music/digital-audio/audio-editing/README.md)
     * [Mixing Assignment](unit-2-music/digital-audio/audio-editing/mixing-assignment.md)
 

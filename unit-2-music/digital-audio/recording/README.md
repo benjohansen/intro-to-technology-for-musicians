@@ -1,5 +1,7 @@
 # Recording
 
+![](../../../.gitbook/assets/screen-shot-2019-10-28-at-2.46.08-pm.png)
+
 ## **Mic Placement** \(requires experimentation and adjustment\)
 
 * mono \(single\) mic individual instruments:
@@ -9,6 +11,10 @@
   * further away for more of the room’s natural reverberation sound
   * the further your mic is away from your source, the more preamp gain you need, and thus you end up raising your noise floor
   * classical music stereo mic placement = 4-20 feet away and 7-10 feet above performers’ floor level
+
+{% hint style="info" %}
+[Microphone Polar Patterns](https://en.wikipedia.org/wiki/Microphone#Polar_patterns)
+{% endhint %}
 
 ## **Audio Interface**
 
