@@ -41,11 +41,15 @@ Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit 
 
 Aim for -16LUFS and -1TP to prepare your tracks for streaming services \(Youtube, Spotify, iTunes, etc.\)
 
-Checkout the article on [Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/) for more details.
+Checkout the article "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)" for more details.
 
 > LUFS stands for Loudness Units Full Scale, and is a way of measuring the overall volume of a song in a way that’s much closer to the way the human ear detects volume changes.
 
 > TP in this case stands for True Peak, and is used to measure the actual peak loudness of the file when played back in the analog realm \(ie, a speaker\).
+
+Also checkout the article "[The End of Loudness War?](https://www.soundonsound.com/techniques/end-loudness-war)"
+
+> Instead, loudness normalisation positively encourages the use of dynamics and transients. Tracks are made punchy by being dynamic rather than just loud, and compression and limiting become musical effects rather than essential competitive processing. Headroom is restored, inter-sample clipping is banished, and the digital environment finally achieves the sonic quality and dynamic range of which it is capable.
 {% endhint %}
 
 
