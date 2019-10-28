@@ -34,6 +34,9 @@ Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit 
 4. add at least one virtual instrument sound \(sound effect or musical … sampler or synthesizer\)
 5. add at least one recording of yourself performing on your main instrument \(that may be voice or instrument\)
 6. apply the proper loudness level conversion for streaming audio online
+   1. add a gain plugin
+   2. add a True Peak meter
+   3. add a Loudness meter
 7. export as a compressed audio format \(AAC is better sounding compression than MP3\)
 
 {% hint style="info" %}
