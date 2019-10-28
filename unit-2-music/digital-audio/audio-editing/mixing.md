@@ -22,13 +22,20 @@
 ### Begin Mixing
 
 1. **Institute proper Gain Staging** \(every mixing session should begin with this ... [here is a helpful video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0) ... and [here is a helpful article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\)
-   1. add a gain plugin to every track
-   2. one by one, lower gain using the gain plugin until each track averages around -18dB and never goes beyond -6dB \(your ceiling should be -6dB \*not\* 0dB\)
+   * add a gain plugin to every track
+   * one by one, lower gain using the gain plugin until each track averages around -18dB and never goes beyond -6dB \(your ceiling should be -6dB \*not\* 0dB\)
+   * Instituting proper gain staging first is the first step in making sure each tracks' input stays at a good level throughout the signal chain. The volume of a tracks' signal should be the same going in as it is going out of each plugin. Here is a basic signal chain for a DAW:
+     1. preamp gain knob
+     2. audio effects \(add gain plugin first\) including EQ
+     3. fader
+     4. pan
 2. [Use Automation](https://support.apple.com/kb/PH24489?locale=en_US&viewlocale=en_US) \(press “a” to toggle on/off\) … click on the lines to add points
 3. Pan \(especially mono tracks\) - consider the dialogue between drums and psaltery … try    panning the drums left of center and the psaltery right of center
-   1. a circle indicates a track is mono \(recorded with one mic\)
-   2. two circles overlapped \(like a venn diagram\) indicates a track is stereo \(recorded with two microphones\)
+   * a circle indicates a track is mono \(recorded with one mic\)
+   * two circles overlapped \(like a venn diagram\) indicates a track is stereo \(recorded with two microphones\)
 4. EQ \([Logic Channel EQ help document](https://support.apple.com/kb/PH27553?locale=en_US&viewlocale=en_US)\)
 5. Add compression \(due to the ability to choose a threshold and compression ratio, compression functions very differently than normalizing\)
 6. Add reverb as a plugin where needed \(Space Designer presets are amazing!\) … add to brass
+
+### 
 
