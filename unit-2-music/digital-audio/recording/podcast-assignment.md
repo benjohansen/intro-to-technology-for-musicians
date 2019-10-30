@@ -42,7 +42,7 @@ Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit 
 {% hint style="info" %}
 ### Loudness
 
-Aim for -16LUFS and -1TP to prepare your tracks for streaming services \(Youtube, Spotify, iTunes, etc.\)
+Aim for -16LUFS \(integrated\) and -1TP to prepare your tracks for streaming services \(Youtube, Spotify, iTunes, etc.\)
 
 Checkout the article "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)" for more details.
 
@@ -54,6 +54,8 @@ Also checkout the article "[The End of Loudness War?](https://www.soundonsound.c
 
 > Instead, loudness normalisation positively encourages the use of dynamics and transients. Tracks are made punchy by being dynamic rather than just loud, and compression and limiting become musical effects rather than essential competitive processing. Headroom is restored, inter-sample clipping is banished, and the digital environment finally achieves the sonic quality and dynamic range of which it is capable.
 {% endhint %}
+
+Finally, watch the following videos to understand Logic's loudness meters - [Part 1](https://youtu.be/A52ZNmk0S4g), [Part 2](https://youtu.be/lcTk6BK-fYc), [Part3](https://youtu.be/hGMLLalZPo0).
 
 
 
