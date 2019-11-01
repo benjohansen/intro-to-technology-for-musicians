@@ -45,6 +45,7 @@ Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit 
    * File &gt; Bounce &gt; Project or Section ...
      * MP4: ACC
      * Normalize: Off
+   * rename your file your name and upload it here.
 
 {% hint style="info" %}
 ### Loudness
