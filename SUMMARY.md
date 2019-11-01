@@ -14,7 +14,6 @@
 * [Notation Software](unit-2-music/notation-software/README.md)
   * [Dorico](unit-2-music/notation-software/dorico.md)
   * [MuseScore](unit-2-music/notation-software/musescore.md)
-  * [Finale](unit-2-music/notation-software/finale.md)
 * [Analog Sound Reinforcement](unit-2-music/sound-reinforcement.md)
 * [Digital Audio \(How it Works\)](unit-2-music/digital-audio.md)
 * [Audio Recording](unit-2-music/audio-recording/README.md)
