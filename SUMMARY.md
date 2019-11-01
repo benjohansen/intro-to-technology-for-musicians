@@ -12,6 +12,7 @@
 * [Physics of Sound](unit-2-music/physics-of-sound.md)
 * [Audio Synthesis](unit-2-music/audio-synthesis.md)
 * [Notation Software](unit-2-music/notation-software/README.md)
+  * [Introduction to Notation Software Exercise](unit-2-music/notation-software/introduction-to-notation-software-exercise.md)
   * [Dorico](unit-2-music/notation-software/dorico.md)
   * [MuseScore](unit-2-music/notation-software/musescore.md)
 * [Analog Sound Reinforcement](unit-2-music/sound-reinforcement.md)
