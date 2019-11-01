@@ -4,7 +4,7 @@ description: a creative task! there is no right way!
 
 # Analog Sound Reinforcement
 
-{% hint style="info" %}
+{% hint style="success" %}
 Resource = “[Microphone Techniques for Live Sound Reinforcement](https://baylor.box.com/shared/static/g1rxbu1vysmfx2u530gwjdc9rhoyjrij.pdf)” a [Shure Educational Publication](https://www.shure.com/en-US/support/educational)
 {% endhint %}
 
@@ -26,9 +26,18 @@ In order from performer’s mouth or instrument ⇨ audience
    * some mixers have amplifiers built in \(called power mixers\) and are sold along with passive speakers \(a complete kit\)
 5. loudspeakers \(active or passive “main” speakers\)
 
+{% hint style="info" %}
+* **mic level** = a few thousandths of a volt; 1-50mV \(requires a preamp to boost to line level\)
+* **instrument level** = between mic and line level in strength; 70-150mV \(the level that comes out of guitar is instrument level and must be amplified by a preamp\)
+* **line level** = about 1000 times the level of mic level
+  * consumer line level = -10dB \(750mV\)
+  * professional line level = +4dB \(1-1.5V\)
+* **speaker level** = the level that comes out of an amplifier \(no max voltage limit\)
+{% endhint %}
+
 ## **Setup system and run sound check \(proper gain staging … also known as proper gain structure\):**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Powering on/off = turn amplifiers \(powered speakers\) **on last** and **off first**
 {% endhint %}
 
@@ -44,7 +53,7 @@ Powering on/off = turn amplifiers \(powered speakers\) **on last** and **off fir
 3. after all channels have been setup individually, have everyone perform together
 4. with volume knob of amplifiers \(main speakers and stage monitors\) turned all the way down, slowly turn up volume knobs on amplifiers until you reach the desired volume in the space
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Analog equipment is different than digital equipment. Analog equipment has a completely different \(much higher\) headroom. The "magic" -18dB target is really for the digital world \(0dB is more of a target for the analog world\), but developing a habit of aiming for -18dB is best when you work with both analog and digital equipment \(especially if you are combining the two\).
 {% endhint %}
 
