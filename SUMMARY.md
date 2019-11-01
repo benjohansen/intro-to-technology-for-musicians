@@ -24,9 +24,10 @@
 
 ## Unit 3: Pictures
 
-* [Untitled](unit-3-pictures/untitled.md)
+* [Copyright and Licensing](unit-3-pictures/copyright-and-licensing.md)
+* [Photography](unit-3-pictures/photography.md)
+* [Graphics](unit-3-pictures/graphics.md)
+* [Video](unit-3-pictures/video.md)
 
 ## Final Exam
-
-* [computer hardware questions](final-exam/computer-hardware-questions.md)
 

@@ -14,7 +14,7 @@ In order from performer’s mouth or instrument ⇨ audience
 
 1. mic
 2. channel strip \(top to bottom = signal path\)
-   * preamp = boosts mic level to line level
+   * preamp = boosts mic level to line level using a **gain knob**
    * EQ = shapes tone 
    * auxiliary sends = additional outputs \(to stage monitors for example\)
    * fader = adjust channel line level volume
@@ -27,10 +27,14 @@ In order from performer’s mouth or instrument ⇨ audience
 5. loudspeakers \(active or passive “main” speakers\)
 
 {% hint style="info" %}
+[Microphone Polar Patterns](https://en.wikipedia.org/wiki/Microphone#Polar_patterns)
+{% endhint %}
+
+{% hint style="info" %}
 * **mic level** = a few thousandths of a volt; 1-50mV \(requires a preamp to boost to line level\)
 * **instrument level** = between mic and line level in strength; 70-150mV \(the level that comes out of guitar is instrument level and must be amplified by a preamp\)
 * **line level** = about 1000 times the level of mic level
-  * consumer line level = -10dB \(750mV\)
+  * consumer line level = -10dB \(320mV\)
   * professional line level = +4dB \(1-1.5V\)
 * **speaker level** = the level that comes out of an amplifier \(no max voltage limit\)
 {% endhint %}
