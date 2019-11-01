@@ -2,7 +2,7 @@
 description: a creative task! there is no right way!
 ---
 
-# Sound Reinforcement
+# Analog Sound Reinforcement
 
 {% hint style="info" %}
 Resource = “[Microphone Techniques for Live Sound Reinforcement](https://baylor.box.com/shared/static/g1rxbu1vysmfx2u530gwjdc9rhoyjrij.pdf)” a [Shure Educational Publication](https://www.shure.com/en-US/support/educational)

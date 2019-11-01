@@ -16,15 +16,15 @@ Use Audacity for recording.
 
 Make sure you set the input device to the Focusrite Scarlett and the number of channels to 1 \(mono\)  
 
-![](../../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png)
+![](../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png)
 
 To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
 
-![](../../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png)
+![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png)
 
 Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit in Logic Pro or Reaper
 
-![](../../../.gitbook/assets/img_1679-81.jpg)
+![](../../.gitbook/assets/img_1679-81.jpg)
 
 ## Project Requirements
 
