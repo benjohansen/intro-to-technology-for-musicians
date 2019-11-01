@@ -34,10 +34,17 @@ Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit 
 4. add at least one virtual instrument sound \(sound effect or musical … sampler or synthesizer\)
 5. add at least one recording of yourself performing on your main instrument \(that may be voice or instrument\)
 6. apply the proper loudness level conversion for streaming audio online
-   1. add a gain plugin
-   2. add a True Peak meter
-   3. add a Loudness meter
+   * Add the following Audio FX \(plugins\) to the "stereo out" track in the order given:
+     1. gain plugin
+     2. Level Meter \(select True Peak and drag yellow line to -1dB\)
+     3. Loudness Meter \(drag yellow line to -16dB\)
+   * press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
+     * "Integrated" on the Loudness Meter should be less than -16dB \(raise or lower the gain plugin accordingly and analyze again\)
+     * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
 7. export as a compressed audio format \(AAC is better sounding compression than MP3\)
+   * File &gt; Bounce &gt; Project or Section ...
+     * MP4: ACC
+     * Normalize: Off
 
 {% hint style="info" %}
 ### Loudness
