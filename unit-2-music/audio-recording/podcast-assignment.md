@@ -36,8 +36,8 @@ Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit 
 6. apply the proper loudness level conversion for streaming audio online
    * Add the following Audio FX \(plugins\) to the "stereo out" track in the order given:
      1. gain plugin
-     2. Level Meter \(select True Peak and drag yellow line to -1dB\)
-     3. Loudness Meter \(drag yellow line to -16dB\)
+     2. Level Meter \(select True Peak and drag yellow line to -1\)
+     3. Loudness Meter \(drag yellow line to -14\)
    * press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
      * "Integrated" on the Loudness Meter should be less than -16dB \(raise or lower the gain plugin accordingly and analyze again\)
      * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
@@ -50,7 +50,7 @@ Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit 
 {% hint style="info" %}
 ### Loudness
 
-Aim for -16LUFS \(integrated\) and -1TP to prepare your tracks for streaming services \(Youtube, Spotify, iTunes, etc.\)
+Aim for -14LUFS \(integrated\) and -1TP to prepare your tracks for streaming services \(Youtube = -13LUFS, Spotify = -14LUFS, iTunes = -16LUFS, etc.\)
 
 Checkout the article "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)" for more details.
 

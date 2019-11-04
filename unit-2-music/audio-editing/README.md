@@ -22,9 +22,11 @@ Record at a quality as close to what you want for a final mix as possible \(spen
 
 > Fine tune each completed song to fit best with all other songs in an album; many times, those that master are only given stereo mix downs of tracks \(rather than multitrack DAW files or stems\)
 
-1. Slight adjustments to EQ, compression, limiting, stereo image, and reverb
-2. Spacing and fades are added to the beginning and ending of each song
-3. Make each song able to sound well played on any device
+1. Slight adjustments to EQ, stereo image, and reverb
+2. dynamic processing to deliver to a service:
+   * overall gain changes, compression, and limiting
+3. Spacing and fades are added to the beginning and ending of each song
+4. Make each song able to sound well played on any device
 
 ## **Computer**
 
