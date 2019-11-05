@@ -1,2 +1,0 @@
-# Copyright and Licensing
-
