@@ -24,11 +24,12 @@
 
 ## Unit 3: Pictures
 
-* [Copyright & Licensing](unit-3-pictures/copyright-and-licensing-1/README.md)
-  * [Copyright & Licensing Resources](unit-3-pictures/copyright-and-licensing-1/copyright-and-licensing.md)
+* [Copyright & Licensing](unit-3-pictures/copyright-and-licensing/README.md)
+  * [Copyright & Licensing Resources](unit-3-pictures/copyright-and-licensing/copyright-and-licensing-resources.md)
 * [Photography](unit-3-pictures/photography.md)
 * [Graphics](unit-3-pictures/graphics.md)
-* [Video](unit-3-pictures/video.md)
+* [Video](unit-3-pictures/video/README.md)
+  * [Video Recording Concerts \(3+ Cameras\)](unit-3-pictures/video/video-recording-concerts-3+-cameras.md)
 
 ## Final Exam
 
