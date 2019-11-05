@@ -10,8 +10,10 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 * use Audacity in the recording booth
 * use Logic or Reaper during the mixing and mastering \(and for adding the virtual instrument\)
 * mix and master the project in Logic Pro or Reaper
-* add at least one virtual instrument sound that cleverly fit seamlessly with the podcast speaking \(sound effect or musical … sampler or synthesizer\)
-* add at least one recording of yourself performing on your main instrument and cleverly fit it in with your podcast speaking/content
+* add the following:
+  * recording of you discussing a topic of your choice
+  * at least one virtual instrument sound that cleverly fit seamlessly with the podcast speaking \(sound effect or musical … sampler or synthesizer\)
+  * at least one recording of yourself performing on your main instrument and cleverly fit it in with your podcast speaking/content
 
 ## Recording Process
 
