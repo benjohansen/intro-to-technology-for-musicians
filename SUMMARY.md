@@ -25,7 +25,7 @@
 ## Unit 3: Pictures
 
 * [Copyright & Licensing](unit-3-pictures/copyright-and-licensing/README.md)
-  * [Copyright & Licensing Resources](unit-3-pictures/copyright-and-licensing/copyright-and-licensing-resources.md)
+  * [Copyright & Licensing Resources](unit-3-pictures/copyright-and-licensing/resources.md)
 * [Photography](unit-3-pictures/photography.md)
 * [Graphics](unit-3-pictures/graphics.md)
 * [Video](unit-3-pictures/video/README.md)
