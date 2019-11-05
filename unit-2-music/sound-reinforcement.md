@@ -52,7 +52,7 @@ Powering on/off = turn amplifiers \(powered speakers\) **on last** and **off fir
    3. with headphones \(or just visually\) set proper gain structure for each channel:
       1. press PFL/SOLO button on the channel
       2. engage HPF if source has no low end \(always engage for vocals\)
-      3. slowly bring up preamp gain knob as performer sounds into the mic until the VU meter averages around -18dB and never peaks at higher than -6dB
+      3. slowly bring up preamp gain knob as performer sounds into the mic until the VU meter averages **around -18dB** and never peaks at higher than -6dB
       4. unSOLO the track and perform these three steps with the next channel, etc.
 3. after all channels have been setup individually, have everyone perform together
 4. with volume knob of amplifiers \(main speakers and stage monitors\) turned all the way down, slowly turn up volume knobs on amplifiers until you reach the desired volume in the space
