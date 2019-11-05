@@ -1,51 +1,76 @@
 ---
-description: Create a 3-5min original podcast.
+description: 'record, mix, and master a micro-podcast (topic of your choice)'
 ---
 
 # Podcast Assignment
 
-## Recording
+## Project Requirements
+
+* 2-5min in length for the total podcast
+* use Audacity in the recording booth
+* use Logic or Reaper during the mixing and mastering \(and for adding the virtual instrument\)
+* mix and master the project in Logic Pro or Reaper
+* add at least one virtual instrument sound that cleverly fit seamlessly with the podcast speaking \(sound effect or musical … sampler or synthesizer\)
+* add at least one recording of yourself performing on your main instrument and cleverly fit it in with your podcast speaking/content
+
+## Recording Process
 
 {% hint style="info" %}
 [Reserve an Audio Booth](https://techpoint.libcal.com/spaces?lid=4700) in the Moody Media Lab
 {% endhint %}
 
-Record yourself speaking the content of your podcast using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp\)
+1. Login to the computer
+2. Open Audacity
+3. Make sure you set the input device to the Focusrite Scarlett and the number of channels to 1 \(mono\).
 
-Use Audacity for recording.
+   ![](../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png) 
 
-Make sure you set the input device to the Focusrite Scarlett and the number of channels to 1 \(mono\)  
+4. Record yourself speaking the content of your podcast using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp ... see diagram below\)
+5. To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
 
-![](../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png)
+   ![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png) 
 
-To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
-
-![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png)
-
-Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit in Logic Pro or Reaper
+6. Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit in Logic Pro or Reaper
 
 ![](../../.gitbook/assets/img_1679-81.jpg)
 
-## Project Requirements
+## Mixing/Mastering Process
 
-1. 3-5min in length
-2. work on the project in Logic Pro or Reaper
-3. discuss any topic of your choice
-4. add at least one virtual instrument sound \(sound effect or musical … sampler or synthesizer\)
-5. add at least one recording of yourself performing on your main instrument \(that may be voice or instrument\)
-6. apply the proper loudness level conversion for streaming audio online
-   * Add the following Audio FX \(plugins\) to the "stereo out" track in the order given:
-     1. gain plugin
-     2. Level Meter \(select True Peak and drag yellow line to -1\)
-     3. Loudness Meter \(drag yellow line to -14\)
-   * press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
-     * "Integrated" on the Loudness Meter should be less than -16dB \(raise or lower the gain plugin accordingly and analyze again\)
-     * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
-7. export as a compressed audio format \(AAC is better sounding compression than MP3\)
-   * File &gt; Bounce &gt; Project or Section ...
-     * MP4: ACC
-     * Normalize: Off
-   * rename your file your name and [**upload it here**](https://baylor.box.com/s/djir4jpn84u2pffszts477tmbwp3fcws).
+1. Open Logic Pro and make it function as Logic rather than GarageBand
+   * click "ok" for Logic to access the microphone
+   * choose "empty project"
+   * add a track of any type \(you will delete this track after you add the stems\)
+   * In the top left of Logic … go to **Logic Pro X** &gt; Preferences &gt; Advanced Tools …
+   * put a checkmark on “Show Advanced Tools”
+   * click the “Enable All” button at the bottom and close the window
+2. Save \(somewhere you can find it, like the Desktop\) … and save often; Logic saves everything, including imported audio, in one convenient folder \(called a package\) ... when you are done with a working session and need to leave the school lab, completely close Logic and right click on the package of the project you are working on and choose "compress" - then you can upload that .zip file to Box or Google Drive, etc.
+3. mix your tracks together so that the volume is consistent across the entire podcast \(horizontally as you transition, for example, from your virtual instrument to your speaking\)  
+4.  remove mistakes in your speaking:
+   1. select the region
+   2. place the playhead at the beginning of the mistake in the region and press ⌘t
+   3. place the playhead to the end of the mistake and press ⌘t
+   4. select the mistake and press delete
+   5. finally pull the regions together to fill the silence gap
+
+### We will do the following during class together:
+
+5. apply the proper loudness level conversion for streaming audio online
+
+* Add the following Audio FX \(plugins\) to the "stereo out" track in the order given:
+  1. gain plugin
+  2. Level Meter \(select True Peak and drag yellow line to -1\)
+  3. Loudness Meter \(drag yellow line to -14\)
+* press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
+
+  * "Integrated" on the Loudness Meter should be less than -16dB \(raise or lower the gain plugin accordingly and analyze again\)
+  * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
+
+6. export as a compressed audio format \(AAC is better sounding compression than MP3\)
+
+* File &gt; Bounce &gt; Project or Section ...
+  * MP4: ACC
+  * Normalize: Off
+* rename your file your name and [**upload it here**](https://baylor.box.com/s/djir4jpn84u2pffszts477tmbwp3fcws).
 
 {% hint style="info" %}
 ### Loudness
