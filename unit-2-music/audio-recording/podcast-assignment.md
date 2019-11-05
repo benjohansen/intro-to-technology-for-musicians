@@ -85,9 +85,13 @@ Checkout the article "[Current Trends in Mastering](https://www.warpacademy.com/
 
 > TP in this case stands for True Peak, and is used to measure the actual peak loudness of the file when played back in the analog realm \(ie, a speaker\).
 
-Also checkout the article "[The End of Loudness War?](https://www.soundonsound.com/techniques/end-loudness-war)"
+Also, checkout the article "[The End of Loudness War?](https://www.soundonsound.com/techniques/end-loudness-war)"
 
 > Instead, loudness normalisation positively encourages the use of dynamics and transients. Tracks are made punchy by being dynamic rather than just loud, and compression and limiting become musical effects rather than essential competitive processing. Headroom is restored, inter-sample clipping is banished, and the digital environment finally achieves the sonic quality and dynamic range of which it is capable.
+
+Also, checkout Sweetwater's article "[What is LUFS, and Why Should I Care?](https://www.sweetwater.com/insync/what-is-lufs-and-why-should-i-care/)"
+
+> In theory, two pieces of music that register identical LUFS readings should sound like they’re at the same level, and in practice, they do indeed sound like they’re at the same level, regardless of whatever the peak or RMS readings say. So we have an immediate, practical benefit — if you’re mastering and want consistent levels among tracks, check their LUFS readings.
 {% endhint %}
 
 Finally, watch the following videos to understand Logic's loudness meters - [Part 1](https://youtu.be/A52ZNmk0S4g), [Part 2](https://youtu.be/lcTk6BK-fYc), [Part3](https://youtu.be/hGMLLalZPo0).
