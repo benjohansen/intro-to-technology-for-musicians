@@ -67,7 +67,7 @@ Compiled by [Clayton Crenshaw](https://www.baylor.edu/music/index.php?id=952188)
 
 #### **Music Licensing - General**
 
-* Passman, Donald S., and Randy Glass. All You Need to Know about the Music Business. Ninth edition. New York: Simon & Schuster, 2015.  \([ML3790 .P35 2015](http://bearcat.baylor.edu/search~S10?/cML3790+.P35+2015/cml+3790+p35+2015/-3,-1,,B/browse)\)
+* Passman, Donald S., and Randy Glass. All You Need to Know about the Music Business. Ninth edition. New York: Simon & Schuster, 2015.  \([ML3790 .P35 2015](https://baylor.primo.exlibrisgroup.com/permalink/01BUL_INST/ruu4v0/alma991000691559705576)\)
 
 #### **Performance Licensing**
 
