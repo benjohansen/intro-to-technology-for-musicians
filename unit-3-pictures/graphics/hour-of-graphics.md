@@ -7,7 +7,7 @@ description: Take about 30 minutes to complete
 ## 2D Raster
 
 * Open Adobe Photoshop
-* complete the following tutorials:
+* complete the following tutorials \(note that you have to download the sample files to follow along with the tutorial videos\):
   1. [https://helpx.adobe.com/photoshop/how-to/photo-retouching-basics.html](https://helpx.adobe.com/photoshop/how-to/photo-retouching-basics.html)
   2. [https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
   3. [https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html](https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html)
@@ -19,7 +19,7 @@ In your free time, checkout [**Gimp**](https://www.gimp.org/), an open source al
 ## 2D Vector
 
 * Open Adobe Illustrator
-  * complete the following tutorial = [https://helpx.adobe.com/illustrator/how-to/draw-buildings.html](https://helpx.adobe.com/illustrator/how-to/draw-buildings.html)
+  * complete the following tutorial \(note that you have to download the sample files to follow along with the tutorial videos\) = [https://helpx.adobe.com/illustrator/how-to/draw-buildings.html](https://helpx.adobe.com/illustrator/how-to/draw-buildings.html)
 * _**Try**_ creating some of the same graphics in [Gravit](https://designer.gravit.io/) that you did in Illustrator \(log in with your Facebook or Google account and continue with free version\)
   * [This video](https://vimeo.com/230680836) will help you with curving the triangle point \(shown in older version\)
 
