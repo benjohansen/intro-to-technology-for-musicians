@@ -9,7 +9,7 @@
   3. [https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html](https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html)
 
 {% hint style="info" %}
-[Gimp](https://www.gimp.org/) is an open source alternative to Adobe Photoshop
+[**Gimp**](https://www.gimp.org/) is an open source alternative to Adobe Photoshop
 {% endhint %}
 
 ## 2D Vector
@@ -18,6 +18,13 @@
   * complete the following tutorial = [https://helpx.adobe.com/illustrator/how-to/draw-buildings.html](https://helpx.adobe.com/illustrator/how-to/draw-buildings.html)
 * _**Try**_ creating some of the same graphics in [Gravit](https://designer.gravit.io/) that you did in Illustrator \(log in with your Facebook or Google account and continue with free version\)
   * [This video](https://vimeo.com/230680836) will help you with curving the triangle point \(shown in older version\)
+
+{% hint style="success" %}
+\*\*\*\*[**Canva**](https://www.canva.com/) \(free, online design tool\)
+
+* [Create a Canva account](https://www.canva.com/) \(and login\)
+* Go through [this tutorial](https://www.canva.com/design/DAAXvpKfSy4/remix?minichallenge) to get a feel for what Canva can do
+{% endhint %}
 
 ## 3D \(mix of raster and vector\)
 
