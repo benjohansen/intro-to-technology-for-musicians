@@ -1,5 +1,5 @@
 ---
-description: Take about 30 minutes to complete
+description: Take about 20 minutes to complete each of the 3 sections.
 ---
 
 # Hour of Graphics
