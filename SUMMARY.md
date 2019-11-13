@@ -34,3 +34,5 @@
 
 ## Final Exam
 
+* [Finale Exam Questions](finale-exam-questions.md)
+
