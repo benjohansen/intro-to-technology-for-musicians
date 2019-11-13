@@ -1,3 +1,7 @@
+---
+description: Take about 30 minutes to complete
+---
+
 # Hour of Graphics
 
 ## 2D Raster
@@ -9,7 +13,7 @@
   3. [https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html](https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html)
 
 {% hint style="info" %}
-[**Gimp**](https://www.gimp.org/) is an open source alternative to Adobe Photoshop
+In your free time, checkout [**Gimp**](https://www.gimp.org/), an open source alternative to Adobe Photoshop.
 {% endhint %}
 
 ## 2D Vector
@@ -20,10 +24,7 @@
   * [This video](https://vimeo.com/230680836) will help you with curving the triangle point \(shown in older version\)
 
 {% hint style="success" %}
-\*\*\*\*[**Canva**](https://www.canva.com/) \(free, online design tool\)
-
-* [Create a Canva account](https://www.canva.com/) \(and login\)
-* Go through [this tutorial](https://www.canva.com/design/DAAXvpKfSy4/remix?minichallenge) to get a feel for what Canva can do
+In your free time, checkout ****[**Canva**](https://www.canva.com/)**,** a free, online design tool. Go through [this tutorial](https://www.canva.com/design/DAAXvpKfSy4/remix?minichallenge) to get a feel for what Canva can do.
 {% endhint %}
 
 ## 3D \(mix of raster and vector\)
