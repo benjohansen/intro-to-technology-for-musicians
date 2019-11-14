@@ -20,6 +20,9 @@ description: >-
 7. List a few different mediums on which media and/or information has been stored in analog format.
 8. List a few different mediums on which binary \(digital\) data has been stored.
 9. How would your name be stored in binary? The ASCII chart below lists decimal codes \(**\*not binary\***\); you will need to convert the decimal code to binary. \(during the Final Exam, you will be given a word to convert\)
+
+   ![](.gitbook/assets/screen-shot-2019-11-14-at-4.39.42-pm.png) 
+
 10. How many **\*bits\*** would it take to store your name in a plain text file?
 11. What is a transistor, what did it replace, and why is it the most important invention of the 20th Century?
 12. Define motherboard and explain its function.
@@ -186,4 +189,6 @@ description: >-
     **Your Major:**
 
 100. Identify and discuss technology uses that are unique to your field. Music educators: discuss ways technology greatly supports you in your teaching \(in and out of the classroom\). Music performance majors: speak to how you will use technology both on and off “the stage.” Music composition majors: focus on the use of technology for creating and for marketing your work. 
+
+
 
