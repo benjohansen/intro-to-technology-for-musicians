@@ -19,9 +19,9 @@ description: >-
 6. Define binary \(use the following terms in your definition: machine language, high-level, low-level\).
 7. List a few different mediums on which media and/or information has been stored in analog format.
 8. List a few different mediums on which binary \(digital\) data has been stored.
-9. How would your name be stored in binary? The ASCII chart below lists decimal codes \(**\*not binary\***\); you will need to convert the decimal code to binary. \(during the Final Exam, you will be given a word to convert\)
+9. How would your name be stored in binary with lowercase letters? The ASCII chart below lists decimal codes \(**\*not binary\***\); you will need to convert the decimal code to binary. \(during the Final Exam, you will be given a word to convert\)
 
-   ![](.gitbook/assets/screen-shot-2019-11-14-at-4.39.42-pm.png) 
+   ![](.gitbook/assets/screen-shot-2019-11-14-at-4.49.45-pm.png) 
 
 10. How many **\*bits\*** would it take to store your name in a plain text file?
 11. What is a transistor, what did it replace, and why is it the most important invention of the 20th Century?
