@@ -30,8 +30,9 @@
 * [Graphics](unit-3-pictures/graphics/README.md)
   * [Hour of Graphics](unit-3-pictures/graphics/hour-of-graphics.md)
 * [Video](unit-3-pictures/video/README.md)
-  * [Audition/Screening Video \(one camera\)](unit-3-pictures/video/audition-screening-video-one-camera.md)
+  * [Audition/Screening Video \(1 camera\)](unit-3-pictures/video/audition-screening-video-one-camera.md)
   * [Video Recording Concerts \(3+ Cameras\)](unit-3-pictures/video/video-recording-concerts-3+-cameras.md)
+  * [Multicam Video Editing \(2+ Cameras\)](unit-3-pictures/video/multicam-video-editing-2+-cameras.md)
   * [Live Streaming Video \(+ Audio\)](unit-3-pictures/video/live-streaming-video-+-audio.md)
 
 ## Final Exam
@@ -42,5 +43,4 @@
 
 * [Raster \(or Bitmap\) Activity](under-construction/raster-or-bitmap-activity.md)
 * [Vector \(2D & 3D\) Activity](under-construction/vector-2d-and-3d-activity.md)
-* [Multicam Video Editing \(2+ Cameras\)](multicam-video-editing-2+-cameras.md)
 

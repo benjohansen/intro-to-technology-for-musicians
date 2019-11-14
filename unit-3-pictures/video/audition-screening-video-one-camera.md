@@ -1,4 +1,4 @@
-# Audition/Screening Video \(one camera\)
+# Audition/Screening Video \(1 camera\)
 
 **General tips:**
 
