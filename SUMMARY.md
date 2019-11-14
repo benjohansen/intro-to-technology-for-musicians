@@ -34,9 +34,11 @@
 
 ## Final Exam
 
+* [Finale Exam Questions](finale-exam-questions.md)
+
 ## Under Construction
 
-* [Finale Exam Questions](under-construction/finale-exam-questions.md)
 * [Raster \(or Bitmap\) Activity](under-construction/raster-or-bitmap-activity.md)
 * [Vector \(2D & 3D\) Activity](under-construction/vector-2d-and-3d-activity.md)
+* [Live Streaming Video \(+ Audio\)](live-streaming-video-+-audio.md)
 
