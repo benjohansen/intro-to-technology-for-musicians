@@ -33,7 +33,7 @@ Resource = [How Digital Audio Works](https://docs.cycling74.com/max8/tutorials/0
 |  | 21 | 2,097,152 | Million | mega |
 |  | 22 | 4,194,304 | Million | mega |
 |  | 23 | 8,388,608 | Million | mega |
-| suggested bit depth for recording | **24** | 16,777,216 | Million | mega |
+| suggested bit depth for audio recording; RGB is often 24-bit color \(8bits \[or 1byte\] for each of the three colors\) | **24** | 16,777,216 | Million | mega |
 |  | 25 | 33,554,432 | Million | mega |
 |  | 26 | 67,108,864 | Million | mega |
 |  | 27 | 134,217,728 | Million | mega |

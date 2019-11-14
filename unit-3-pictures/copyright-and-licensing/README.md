@@ -18,7 +18,7 @@ This page was created with the assistance of [Clayton Crenshaw](https://www.bayl
   * sound recordings
   * architectural works
 * sifting process for using others’ works:
-  * Is it in the Public Domain? \(in U.S. = all works published before 1924\)
+  * Is it in the Public Domain? \(in U.S. = cut-off for [public domain](https://en.wikipedia.org/wiki/Public_domain_in_the_United_States) moves forward every year; some later works are in the public domain too\)
   * Is the planned use covered by an exception? \(performance exceptions for   teaching, concerts, and worship\)
   * Is the planned use covered by a Fair Use exception? \(complete a Fair Use Analysis\)
   * What type of permission or license will have to be acquired?
@@ -27,9 +27,9 @@ This page was created with the assistance of [Clayton Crenshaw](https://www.bayl
 
 * Licensing is the mechanism by which to get written permission to use someone’s copyrighted music. There are different kinds of licenses to cover different kinds of uses, and there are a number of organizations that serve as the middleman in this process.
 * A license is a type of contract that describes what you can do with a copyrighted work and how much you will pay for the privilege. It’s important to know that a contract supersedes the copyright law. So, if you have a license that allows you to do either more or less than you could normally do under the law, it’s the license that you should follow.
-* Live performance = Performing Rights Organizations \(PRO\) collect royalties on behalf of composers, songwriters, and music publishers when their works are performed publicly, then periodically pay everyone their fair share. \(PROs = ASCAP, BMI, SESAC, GMR\)
-  * Note: most performances in schools are covered by the Concert Performance Exception, so PROs will not be involved in those \(unless you charge admission, etc.\)
 * Types of licenses you need depending on your project:
+  * live performance = you'll need a license from a Performing Rights Organizations \(PRO\), they collect royalties on behalf of composers, songwriters, and music publishers when their works are performed publicly, then periodically pay everyone their fair share. \(PROs = ASCAP, BMI, SESAC, GMR\)
+    * Note: most performances in schools are covered by the Concert Performance Exception, so PROs will not be involved in those \(unless you charge admission, etc.\)
   * audio recording = [mechanical license](https://www.easysonglicensing.com/pages/help/articles/music-licensing/what-is-a-mechanical-license.aspx)
   * arranging = [music for all resource](https://www.musicforall.org/resources/copyright/request-permission-to-arrange-/-adapt) , [arrange for hire resource](https://arrangerforhire.com/music-arranging-copyright-licensing/)
   * video project = [synchronization license](https://www.easysonglicensing.com/pages/help/articles/music-licensing/what-is-a-synchronization-license.aspx)

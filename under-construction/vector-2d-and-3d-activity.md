@@ -1,20 +1,4 @@
----
-description: Take about 20 minutes to complete each of the 3 sections.
----
-
-# Hour of Graphics
-
-## 2D Raster \(or Bitmap\)
-
-* Open Adobe Photoshop
-* complete the following tutorials \(note that you have to download the sample files to follow along with the tutorial videos\):
-  1. [https://helpx.adobe.com/photoshop/how-to/photo-retouching-basics.html](https://helpx.adobe.com/photoshop/how-to/photo-retouching-basics.html)
-  2. [https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
-  3. [https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html](https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html)
-
-{% hint style="info" %}
-In your free time, checkout [**Gimp**](https://www.gimp.org/), an open source alternative to Adobe Photoshop.
-{% endhint %}
+# Vector \(2D & 3D\) Activity
 
 ## 2D Vector
 

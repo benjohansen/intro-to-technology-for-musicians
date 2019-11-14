@@ -36,3 +36,8 @@
 
 * [Finale Exam Questions](finale-exam-questions.md)
 
+## Under Construction
+
+* [Raster \(or Bitmap\) Activity](under-construction/raster-or-bitmap-activity.md)
+* [Vector \(2D & 3D\) Activity](under-construction/vector-2d-and-3d-activity.md)
+
