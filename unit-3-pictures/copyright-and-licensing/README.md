@@ -19,7 +19,7 @@ This page was created with the assistance of [Clayton Crenshaw](https://www.bayl
   * architectural works
 * sifting process for using others’ works:
   * Is it in the Public Domain? \(in U.S. = cut-off for [public domain](https://en.wikipedia.org/wiki/Public_domain_in_the_United_States) moves forward every year; some later works are in the public domain too\)
-  * Is the planned use covered by an exception? \(performance exceptions for   teaching, concerts, and worship\)
+  * Is the planned use covered by an exception? \(performance exceptions for teaching, concerts, and worship\)
   * Is the planned use covered by a Fair Use exception? \(complete a Fair Use Analysis\)
   * What type of permission or license will have to be acquired?
 
