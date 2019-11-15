@@ -6,6 +6,7 @@
 
 * [Computer Hardware](unit-1-computers/untitled.md)
 * [Computer Software](unit-1-computers/computer-software.md)
+* [Computer Networks](unit-1-computers/computer-networks.md)
 
 ## Unit 2: Music
 
@@ -28,7 +29,8 @@
   * [Copyright & Licensing Resources](unit-3-pictures/copyright-and-licensing/resources.md)
 * [Photography](unit-3-pictures/photography.md)
 * [Graphics](unit-3-pictures/graphics/README.md)
-  * [Hour of Graphics](unit-3-pictures/graphics/hour-of-graphics.md)
+  * [Raster \(or Bitmap\) Activity](unit-3-pictures/graphics/raster-or-bitmap-activity.md)
+  * [Vector \(2D & 3D\) Activity](unit-3-pictures/graphics/vector-2d-and-3d-activity.md)
 * [Video](unit-3-pictures/video/README.md)
   * [Audition/Screening Video \(1 camera\)](unit-3-pictures/video/audition-screening-video-one-camera.md)
   * [Video Recording Concerts \(3+ Cameras\)](unit-3-pictures/video/video-recording-concerts-3+-cameras.md)
@@ -40,7 +42,4 @@
 * [Finale Exam Questions](finale-exam-questions.md)
 
 ## Under Construction
-
-* [Raster \(or Bitmap\) Activity](under-construction/raster-or-bitmap-activity.md)
-* [Vector \(2D & 3D\) Activity](under-construction/vector-2d-and-3d-activity.md)
 
