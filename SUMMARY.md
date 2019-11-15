@@ -27,9 +27,9 @@
 
 * [Copyright & Licensing](unit-3-pictures/copyright-and-licensing/README.md)
   * [Copyright & Licensing Resources](unit-3-pictures/copyright-and-licensing/resources.md)
-* [Photography](unit-3-pictures/photography.md)
+* [Photography](unit-3-pictures/photography/README.md)
+  * [Raster \(or Bitmap\) Activity](unit-3-pictures/photography/raster-or-bitmap-activity.md)
 * [Graphics](unit-3-pictures/graphics/README.md)
-  * [Raster \(or Bitmap\) Activity](unit-3-pictures/graphics/raster-or-bitmap-activity.md)
   * [Vector \(2D & 3D\) Activity](unit-3-pictures/graphics/vector-2d-and-3d-activity.md)
 * [Video](unit-3-pictures/video/README.md)
   * [Audition/Screening Video \(1 camera\)](unit-3-pictures/video/audition-screening-video-one-camera.md)
