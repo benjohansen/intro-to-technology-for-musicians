@@ -5,7 +5,8 @@
 ## Unit 1: Computers
 
 * [Computer Hardware](unit-1-computers/untitled.md)
-* [Computer Software](unit-1-computers/computer-software.md)
+* [Computer Software](unit-1-computers/computer-software/README.md)
+  * [Software Suggestions](unit-1-computers/computer-software/software-suggestions.md)
 * [Computer Networks](unit-1-computers/computer-networks.md)
 
 ## Unit 2: Music
@@ -42,6 +43,4 @@
 * [Finale Exam Questions](finale-exam-questions.md)
 
 ## Under Construction
-
-* [Software Suggestions](software-suggestions.md)
 
