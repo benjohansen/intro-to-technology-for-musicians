@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Technology for Musicians](README.md)
+* [Introduction to Technology for Musicians](README.md)
 
 ## Unit 1: Computers
 
