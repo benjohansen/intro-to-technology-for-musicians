@@ -6,8 +6,11 @@
 
 * [Computer Hardware](unit-1-computers/untitled.md)
 * [Computer Software](unit-1-computers/computer-software/README.md)
+  * [Command Line Activity](unit-1-computers/computer-software/command-line-activity.md)
+  * [Coding Tutorials](unit-1-computers/computer-software/coding-tutorials.md)
   * [Software Suggestions](unit-1-computers/computer-software/software-suggestions.md)
-* [Computer Networks](unit-1-computers/computer-networks.md)
+* [Computer Networks](unit-1-computers/computer-networks/README.md)
+  * [Create a Website](unit-1-computers/computer-networks/create-a-website.md)
 
 ## Unit 2: Music
 
