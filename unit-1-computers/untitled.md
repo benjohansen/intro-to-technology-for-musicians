@@ -6,7 +6,7 @@
   * [Arduino projects](https://create.arduino.cc/projecthub/projects/tags/iot)
 * [Microcontroller \(Arduino\) vs. SoC \(Raspberry Pi\)](https://appcodelabs.com/microcontroller-microprocessor-socs) \(2,612 words / 20 minutes\)
 
-## The following is from [ComputerHope.com](https://www.computerhope.com/issues/ch001262.htm)
+## The following is "15 Computer Topics" from [ComputerHope.com](https://www.computerhope.com/issues/ch001262.htm)
 
 1. **Transistors** - The computer contains millions of [transistors](https://www.computerhope.com/jargon/t/transist.htm), which are used to create machine language using [logic gates](https://www.computerhope.com/jargon/l/logicgat.htm) that turn on and off the [circuits](https://www.computerhope.com/jargon/c/circuit.htm).
 2. **Machine language** - All computers and electronic devices communicate in [binary](https://www.computerhope.com/jargon/b/binary.htm), which is a series of 0's and 1's or Off and On electrical signals. All software written on your computer is created in a [high-level programming language](https://www.computerhope.com/jargon/h/highll.htm) that humans can understand. When complete, the program is [compiled](https://www.computerhope.com/jargon/c/compile.htm) into a low-level [machine language](https://www.computerhope.com/jargon/m/machlang.htm) that computers understand.
