@@ -10,23 +10,29 @@ This technology course, designed specifically for musicians, balances quantitati
 
 ## Course Objective: **empower musicians with digital and media literacy.**
 
-### **Literacy**
+{% hint style="success" %}
+## **Literacy**
 
 Defined by the [Oxford English Dictionary Online](http://www.oed.com/view/Entry/109054?redirectedFrom=literacy) \(Oxford University Press\) as:
 
 > The quality, condition, or state of being literate; the ability to read and write.
+{% endhint %}
 
-### **Digital literacy**
+{% hint style="success" %}
+## **Digital literacy**
 
 Defined by a 2013 American Library Association \(ALA\) Digital Literacy, Libraries, and Public Policy, [Report of the Office for Information Technology Policy’s Digital Literacy Task Force](http://www.districtdispatch.org/wp-content/uploads/2013/01/2012_OITP_digilitreport_1_22_13.pdf) as:
 
 > the ability to use information and communication technologies to find, understand, evaluate, create, and communicate digital information, an ability that requires both cognitive and technical skills.
+{% endhint %}
 
-### **Media Literacy**
+{% hint style="success" %}
+## **Media Literacy**
 
 Defined by the [Center for Media Literacy \(CML\)](http://www.medialit.org/media-literacy-definition-and-more%20) as:
 
 > \[providing\] a framework to access, analyze, evaluate, create and participate with messages in a variety of forms — from print to video to the Internet. Media literacy builds an understanding of the role of media in society as well as essential skills of inquiry and self-expression necessary for citizens of a democracy.
+{% endhint %}
 
 ## Learning Objectives
 
