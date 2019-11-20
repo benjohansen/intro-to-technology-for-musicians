@@ -6,9 +6,9 @@ description: MUS1331 at Baylor University
 
 ## Description
 
-This technology course, designed specifically for musicians, balances quantitative technology knowledge with practical technology experience. There are **no** technological skill prerequisites _and_ I do not assume you have any technology skills or knowledge. This course includes fundamentals of: computer science, sound synthesis, notation software, sound reinforcement, digital audio recording/mixing/editing, copyright/licensing, graphic design, photography, and videography.
+This technology course, designed specifically for musicians, balances quantitative technology knowledge with practical technology experience. There are **no** technological skill prerequisites _and_ I do not assume you have any technology skills or knowledge. This course includes fundamentals of: computer science, sound synthesis, notation software, sound reinforcement, digital audio recording/mixing/editing, copyright/licensing, graphic design, photography, and videography. You may question at some points during this course _why_ you are learning a specific topic - the answer will often be in order for you to be empowered with digital and media literacies: fundamental abilities that will help you navigate technology in ways I cannot predict \(and the reason I work towards teaching future-proof concepts rather than trending applications and hardware\).
 
-## Course Objective: **empower musicians with digital and media literacy.**
+## Course Objective: E**mpower musicians with digital and media literacy.**
 
 {% hint style="success" %}
 ## **Literacy**

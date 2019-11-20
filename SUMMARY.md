@@ -8,7 +8,6 @@
 * [Computer Software](unit-1-computers/computer-software/README.md)
   * [Command Line Activity](unit-1-computers/computer-software/command-line-activity.md)
   * [Coding Tutorials](unit-1-computers/computer-software/coding-tutorials.md)
-  * [Software Suggestions](unit-1-computers/computer-software/software-suggestions.md)
 * [Computer Networks](unit-1-computers/computer-networks/README.md)
   * [Create a Website](unit-1-computers/computer-networks/create-a-website.md)
 
@@ -31,10 +30,10 @@
 
 * [Copyright & Licensing](unit-3-pictures/copyright-and-licensing/README.md)
   * [Copyright & Licensing Resources](unit-3-pictures/copyright-and-licensing/resources.md)
-* [Photography](unit-3-pictures/photography/README.md)
-  * [Raster \(or Bitmap\) Activity](unit-3-pictures/photography/raster-or-bitmap-activity.md)
 * [Graphics](unit-3-pictures/graphics/README.md)
   * [Vector \(2D & 3D\) Activity](unit-3-pictures/graphics/vector-2d-and-3d-activity.md)
+* [Photography](unit-3-pictures/photography/README.md)
+  * [Raster \(or Bitmap\) Activity](unit-3-pictures/photography/raster-or-bitmap-activity.md)
 * [Video](unit-3-pictures/video/README.md)
   * [Audition/Screening Video \(1 camera\)](unit-3-pictures/video/audition-screening-video-one-camera.md)
   * [Video Recording Concerts \(3+ Cameras\)](unit-3-pictures/video/video-recording-concerts-3+-cameras.md)
@@ -44,6 +43,11 @@
 ## Final Exam
 
 * [Finale Exam Questions](finale-exam-questions.md)
+
+## Appendix
+
+* [Software Suggestions](appendix/software-suggestions.md)
+* [Hardware Suggestions](appendix/hardware-suggestions.md)
 
 ## Under Construction
 

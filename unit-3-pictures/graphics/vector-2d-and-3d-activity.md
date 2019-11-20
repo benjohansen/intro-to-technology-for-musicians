@@ -16,7 +16,11 @@ In your free time, checkout ****[**Canva**](https://www.canva.com/)**,** a reall
 * login to Sketchup's free online app = [https://app.sketchup.com/app](https://app.sketchup.com/app)
 * complete the following tutorial \(23min\) = [https://www.youtube.com/watch?v=sQSyofKyKIQ](https://www.youtube.com/watch?v=sQSyofKyKIQ)
 
-{% hint style="success" %}
+{% hint style="info" %}
 In your free time, checkout [**Blender**](https://www.blender.org/), an open source 3d modeling application.
+{% endhint %}
+
+{% hint style="success" %}
+[Baylor has a Makerspace in the Garden Level of Moody Library where you can print objects you create in Sketchup on a 3d printer.](https://www.baylor.edu/lib/techpoint/index.php?id=928247)
 {% endhint %}
 
