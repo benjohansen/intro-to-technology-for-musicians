@@ -45,7 +45,7 @@
 
 ## Final Exam
 
-* [MUS1331 Final Exam Questions](final-exam-1.md)
+* [MUS1331 Final Exam Questions](final-exam-questions.md)
 
 ## Appendix
 
