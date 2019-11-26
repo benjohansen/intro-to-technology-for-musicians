@@ -4,7 +4,7 @@ description: >-
   your answers with the number corresponding to the question you are answering.
 ---
 
-# Finale Exam Questions
+# MUS1331 Final Exam Questions
 
 1. Define: literacy, digital literacy, and media literacy.
 
