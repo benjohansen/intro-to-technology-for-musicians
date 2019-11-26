@@ -8,16 +8,4 @@
     * **HTML** provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript.
     * **CSS** is used to control presentation, formatting, and layout.
     * **JavaScript** is used to control the behavior of different elements.
-  * Creating a website:
-    * create a webpage on [**wordpress.com**](http://wordpress.com)\*\*\*\*
-
-      **OR** / AND \(maybe\) create a webpage on **GitHub Pages** = [https://pages.github.com/](https://pages.github.com/)
-
-      * git learning = [https://try.github.io/](https://try.github.io/) especially [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
-      * github hello world = [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
-      * [https://github.com/codepath/ios\_guides/wiki/Using-Git-with-Terminal](https://github.com/codepath/ios_guides/wiki/Using-Git-with-Terminal)\*\*\*\*
-
-      **OR** / AND \(maybe\) gain an understand of HTML, CSS, and JavaScript = [https://jsfiddle.net/isoundart/a7m9v1bz/](https://jsfiddle.net/isoundart/a7m9v1bz/)  
-
-Github: index.html = [https://github.com/benjohansen/benjohansen.github.io/blob/master/index.html](https://github.com/benjohansen/benjohansen.github.io/blob/master/index.html)
 

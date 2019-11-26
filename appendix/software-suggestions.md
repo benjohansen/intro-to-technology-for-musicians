@@ -85,7 +85,9 @@
 
 * Paid Online = [Charms Office Assistant](https://www.charmsoffice.com/)
 
-### **Password Managers**: [Wirecutter Article](https://thewirecutter.com/reviews/best-password-managers/)
+### **Password Managers**: 
 
-* [**Setting up a Secure Home Network**](https://www.pcmag.com/article2/0,2817,2409751,00.asp)
+* [Wirecutter Article](https://thewirecutter.com/reviews/best-password-managers/)
+
+### [**Setting up a Secure Home Network**](https://www.pcmag.com/article2/0,2817,2409751,00.asp)
 

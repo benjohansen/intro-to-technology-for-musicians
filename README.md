@@ -1,12 +1,16 @@
 ---
-description: MUS1331 at Baylor University
+description: Baylor University MUS1331 course syllabus and e-textbook.
 ---
 
 # Introduction to Technology for Musicians
 
 ## Description
 
-This technology course, designed specifically for musicians, balances quantitative technology knowledge with practical technology experience. There are **no** technological skill prerequisites _and_ I do not assume you have any technology skills or knowledge. This course includes fundamentals of: computer science, sound synthesis, notation software, sound reinforcement, digital audio recording/mixing/editing, copyright/licensing, graphic design, photography, and videography. You may question at some points during this course _why_ you are learning a specific topic - the answer will often be in order for you to be empowered with digital and media literacies: fundamental abilities that will help you navigate technology in ways I cannot predict \(and the reason I work towards teaching future-proof concepts rather than trending applications and hardware\).
+This technology course, designed specifically for musicians, balances quantitative technology knowledge with practical technology experience. 
+
+There are **no technological skill prerequisites** _and_ I do not assume you have any technology skills or knowledge. 
+
+This course includes fundamentals of: computer science, sound synthesis, notation software, sound reinforcement, digital audio recording/mixing/editing, copyright/licensing, graphic design, photography, and videography with the means to empower musicians with digital and media literacy.
 
 ## Course Objective: E**mpower musicians with digital and media literacy.**
 
@@ -33,6 +37,10 @@ Defined by the [Center for Media Literacy \(CML\)](http://www.medialit.org/media
 
 > \[providing\] a framework to access, analyze, evaluate, create and participate with messages in a variety of forms — from print to video to the Internet. Media literacy builds an understanding of the role of media in society as well as essential skills of inquiry and self-expression necessary for citizens of a democracy.
 {% endhint %}
+
+The following quotes are from Bauer, William I. "A Conceptual Framework for Technology-Assisted Music Learning." In Music Learning Today: Digital Pedagogy for Creating, Performing, and Responding to Music. New York: Oxford University Press, 2014. Oxford Scholarship Online, 2014. doi: [10.1093/acprof:oso/9780199890590.003.0001](https://dx.doi.org/10.1093/acprof:oso/9780199890590.001.0001). Chapter 1, pg. 6.
+
+> Like every other facet of life, music too has been greatly affected by technology. Technology is an integral part of the way much music in today's world is created, performed, preserved, and consumed, and it can be an authentic aspect of the expression of individual musicianship. Performing musicians use instruments, both digital and otherwise, that have been enhanced through technology. Popular musicians in particular have taken advantage of digital technologies to utilize unique sounds and effects in their concerts. Performances are recorded using sophisticated software and hardware that enable the captured sound to be easily mixed and edited. Composers and arrangers use sequencing and notation software to create printed notation and compositions. Some of these applications have experienced a remarkable transformation; as they grow more and more powerful, they also become easier to use—for example, professional-sounding recordings can now be created in basement music studios.
 
 ## Learning Objectives
 

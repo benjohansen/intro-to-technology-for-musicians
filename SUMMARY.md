@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction to Technology for Musicians](README.md)
+* [Fall 2019 Details](fall-2019-details.md)
+* [Fall 2019 Schedule](fall-2019-schedule.md)
 
 ## Unit 1: Computers
 
@@ -8,6 +10,7 @@
 * [Computer Software](unit-1-computers/computer-software/README.md)
   * [Command Line Activity](unit-1-computers/computer-software/command-line-activity.md)
   * [Coding Tutorials](unit-1-computers/computer-software/coding-tutorials.md)
+  * [Presenting with Slides](unit-1-computers/computer-software/presenting-with-slides.md)
 * [Computer Networks](unit-1-computers/computer-networks/README.md)
   * [Create a Website](unit-1-computers/computer-networks/create-a-website.md)
 
@@ -50,4 +53,7 @@
 * [Hardware Suggestions](appendix/hardware-suggestions.md)
 
 ## Under Construction
+
+* [Email Etiquette](email-etiquette.md)
+* [iPad](ipad.md)
 
