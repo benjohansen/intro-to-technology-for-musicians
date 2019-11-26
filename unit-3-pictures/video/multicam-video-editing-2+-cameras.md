@@ -10,7 +10,7 @@ tutorial = [https://youtu.be/S2yxFcm-te8?t=43s](https://youtu.be/S2yxFcm-te8?t=4
 
 sync audio = [https://www.youtube.com/watch?time\_continue=202&v=wUlxpk67Qaw](https://www.youtube.com/watch?time_continue=202&v=wUlxpk67Qaw)
 
-demo files \(Baylor students only\) = 
+demo files \(Baylor students only\) = [https://baylor.box.com/s/peq6pt10si0jj6zlh1im32y2mq95n2mk](https://baylor.box.com/s/peq6pt10si0jj6zlh1im32y2mq95n2mk)
 
 {% hint style="info" %}
 Better performance while editing = Playback &gt; Proxy Mode &gt; Half \(or Quarter\) Resolution
