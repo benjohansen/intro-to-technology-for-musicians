@@ -19,7 +19,7 @@ description: >-
 6. Define binary \(use the following terms in your definition: machine language, high-level, low-level\).
 7. List a few different mediums on which media and/or information has been stored in analog format.
 8. List a few different mediums on which binary \(digital\) data has been stored.
-9. How would your name be stored in binary with lowercase letters? The ASCII chart below lists decimal codes \(**\*not binary\***\); you will need to convert the decimal code to binary. \(during the Final Exam, you will be given a word to convert\)
+9. During the exam your instructor will give you a word with all lowercase letter to convert to binary. The ASCII chart below lists decimal codes for each letter \(**\*not binary\***\); you will need to convert the decimal code to binary.
 
    ![](.gitbook/assets/screen-shot-2019-11-14-at-4.49.45-pm.png) 
 
