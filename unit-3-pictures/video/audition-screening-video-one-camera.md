@@ -5,6 +5,7 @@
 * 👏 visually clap \(slate\) three times to assist in later synching audio and video
 * use a tripod \(holding the camera with your hand is too shaky\)
 * use only optical zoom \(don’t use digital zoom\)
+* never stop recording on the camera or external audio recorder so you just have to sync the two once
 
 **Camera settings:**
 
