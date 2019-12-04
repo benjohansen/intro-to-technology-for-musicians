@@ -7,7 +7,8 @@
 * use tripods \(holding the camera with your hand is too shaky\)
 * use only optical zoom \(don’t use digital zoom\); buy camera with 20x or more optical zoom
 * never stop recording on any of the cameras so aligning camera footage is easy
-* don’t shoot like spraying a garden hose = zoom/pan only _between_ shots \(**hold a shot for at least 10 seconds**\)
+* ⏱**hold a shot for at least 10 seconds**
+* don’t shoot like spraying a garden hose = zoom/pan only _between_ shots
 
 #### **Editing software Suggestions**
 
