@@ -15,8 +15,6 @@
   * audio = AAC
   * video = H.264
 
-## **Multi-camera shooting**
-
 #### **Camera settings**
 
 * use a separate audio recorder from the camera \(cameras have bad microphones\)
@@ -28,18 +26,18 @@
 * [develop understanding of](https://www.youtube.com/watch?v=zd9oNggNqjQ): [shutter speed](https://www.youtube.com/watch?v=kGud8vGwp-Y) vs. [frame rate](https://vimeo.com/blog/post/frame-rate-vs-shutter-speed-setting-the-record-str), [ISO \(“gain”\)](https://youtu.be/WEApLA-YNko), and [aperture](https://www.flickr.com/photos/jaredpolin/sets/72157626710263148/) \([f-stop](https://www.flickr.com/photos/vox/5367295420/)\)
   * [exposuretool.com](http://exposuretool.com)
 
-#### **Shooting**
+## **Shooting**
+
+### **Setup**
 
 * never stop recording on any of the cameras so aligning camera footage is easy
-* don’t shoot like spraying a garden hose = zoom/pan only between shots
+* don’t shoot like spraying a garden hose = zoom/pan only _between_ shots
 * don’t put all your eggs in one basket; here is a 3 camera setup:
   * **Cam1** = “Safety” = fixed, wide angle camera that gets everything \(**turn off autofocus**\)
   * **Cam2** = manned camera hunting for medium & close up shots of performer\(s\)
-  * **Cam3** = both:
-    1. manned camera hunting for medium & close up shots of performer\(s\)
-    2. b-roll footage = timeless reaction shots \(of the audience, for example\)
+  * **Cam3** = manned camera hunting for medium & close up shots of performer\(s\) **AND** b-roll footage = timeless reaction shots \(of the audience, for example\)
 
-## **Composition**
+### **Composition**
 
 * use rule of thirds \(turn on grid\)
   * use lead space = space in front of where subject is facing
@@ -47,7 +45,7 @@
 * avoid too much headroom \(or person looks to be sinking\)
 * avoid too little headroom \(or focus will be on the person’s chin and neck\)
 
-#### [**Shot types**](https://www.bhphotovideo.com/explora/video/tips-and-solutions/filmmaking-101-camera-shot-types) \(hold for 5-10 seconds\)
+### [**Shot types**](https://www.bhphotovideo.com/explora/video/tips-and-solutions/filmmaking-101-camera-shot-types) \(hold for 5-10 seconds\)
 
 * extreme long shot \(XLS\) = establishing shot - context for shots to follow
 * long shot \(LS\) = person from head to feet
