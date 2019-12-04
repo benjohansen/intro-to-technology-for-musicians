@@ -35,9 +35,9 @@
 * don’t put all your eggs in one basket; here is a 3 camera setup:
   * **Cam1** = “Safety” = fixed, wide angle camera that gets everything \(**turn off autofocus**\)
   * **Cam2** = manned camera hunting for medium & close up shots of performer\(s\)
-  * **Cam3** =
-    * manned camera hunting for medium & close up shots of performer\(s\)
-    * b-roll footage = timeless reaction shots \(of the audience, for example\)
+  * **Cam3** = both:
+    1. manned camera hunting for medium & close up shots of performer\(s\)
+    2. b-roll footage = timeless reaction shots \(of the audience, for example\)
 
 ## **Composition**
 
