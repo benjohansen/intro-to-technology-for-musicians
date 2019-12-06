@@ -56,4 +56,5 @@
 
 * [Email Etiquette](email-etiquette.md)
 * [iPad](ipad.md)
+* [Simple Programming Problems](simple-programming-problems.md)
 
