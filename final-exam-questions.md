@@ -190,7 +190,3 @@ description: >-
 
 100. Identify and discuss technology uses that are unique to your field. Music educators: discuss ways technology greatly supports you in your teaching \(in and out of the classroom\). Music performance majors: speak to how you will use technology both on and off “the stage.” Music composition majors: focus on the use of technology for creating and for marketing your work. 
 
-## Review Session
-
-[Download PDF of one question per page](https://www.dropbox.com/s/mabi95g9v60mu46/1331final-review-session.pdf?dl=1)
-
