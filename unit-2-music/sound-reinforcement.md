@@ -14,7 +14,7 @@ In order from performer’s mouth or instrument ⇨ audience
 
 1. mic
 2. channel strip \(top to bottom = signal path\)
-   * preamp = boosts mic level to line level using a **gain knob**
+   * preamp = boosts mic level to line level using a [**gain knob**](https://www.sweetwater.com/insync/gain-vs-trim/)\*\*\*\*
    * EQ = shapes tone 
    * auxiliary sends = additional outputs \(to stage monitors for example\)
    * fader = adjust channel line level volume

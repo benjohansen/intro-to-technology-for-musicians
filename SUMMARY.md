@@ -6,7 +6,7 @@
 
 ## Unit 1: Computers
 
-* [Computer Hardware](unit-1-computers/untitled.md)
+* [Computer Hardware](unit-1-computers/computer-hardware.md)
 * [Computer Software](unit-1-computers/computer-software/README.md)
   * [Command Line Activity](unit-1-computers/computer-software/command-line-activity.md)
   * [Coding Tutorials](unit-1-computers/computer-software/coding-tutorials.md)
