@@ -51,14 +51,13 @@ Your final grade will be calculated out of the following. Notice half your grade
 
 ### Grade Scale:
 
-* A  = 96-100 
-* A- = 90-95
-* B  = 83-86 
-* C  = 73-76
-* B- = 80-82
-* C- = 70-72
+* A  = 90-100
 * B+ = 87-89
+* B  = 83-86 
+* B- = 80-82
 * C+ = 77-79
+* C  = 73-76
+* C- = 70-72
 * F  =  0-69
 
 Late projects/assignments will receive half credit. No exceptions. So, find a way to turn in an assignment if you know you will be missing class.

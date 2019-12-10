@@ -32,7 +32,7 @@ description: >-
 16. How many cycles \(steps of instructions\) per second can a quad core 2.4 GHz processor perform?
 17. Define memory \(RAM\), explain its function, and discuss how it differs from storage.
 18. What is the “Internet of Things” \(IoT\)?
-19. What are microcontrollers & SoCs? Provide an example real-life application for each.
+19. What are microcontrollers & SoCs? ~~Provide an example real-life application for each.~~
 
 
 
@@ -158,7 +158,7 @@ description: >-
     **Copyright and Licensing:**
 
 89. Define copyright.
-90. Describe Public Domain, Fair Use, and Creative Commons.
+90. Describe Public Domain, ~~Fair Use, and Creative Commons.~~
 91. Discuss the purpose of licenses.
 
     \*\*\*\*
@@ -182,7 +182,7 @@ description: >-
 
 97. Discuss the differences between frame rate and shutter speed. What is the industry standard film frame rate?
 98. What is gain? What term is used for the same thing in photography?
-99. Discuss why optical zoom better than digital zoom.
+99. Discuss why optical zoom is better than digital zoom.
 
     \*\*\*\*
 
