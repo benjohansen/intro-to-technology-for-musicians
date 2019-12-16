@@ -37,11 +37,12 @@
   * [Vector \(2D & 3D\) Activity](unit-3-pictures/graphics/vector-2d-and-3d-activity.md)
 * [Photography](unit-3-pictures/photography/README.md)
   * [Raster \(or Bitmap\) Activity](unit-3-pictures/photography/raster-or-bitmap-activity.md)
-* [Video](unit-3-pictures/video/README.md)
+* [Video Recording](unit-3-pictures/video/README.md)
   * [Audition/Screening Video \(1 camera\)](unit-3-pictures/video/audition-screening-video-one-camera.md)
   * [Video Recording Concerts \(3+ Cameras\)](unit-3-pictures/video/video-recording-concerts-3+-cameras.md)
-  * [Multicam Video Editing \(2+ Cameras\)](unit-3-pictures/video/multicam-video-editing-2+-cameras.md)
   * [Live Streaming Video \(+ Audio\)](unit-3-pictures/video/live-streaming-video-+-audio.md)
+* [Video Editing](unit-3-pictures/video-editing/README.md)
+  * [Multicam Video Editing \(2+ Cameras\)](unit-3-pictures/video-editing/multicam-video-editing-2+-cameras.md)
 
 ## Final Exam
 
