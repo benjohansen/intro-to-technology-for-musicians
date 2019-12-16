@@ -1,4 +1,4 @@
-# Video Recording Concerts \(3+ Cameras\)
+# Multicam Video Recording \(3+ Cameras\)
 
 #### **General tips**
 
