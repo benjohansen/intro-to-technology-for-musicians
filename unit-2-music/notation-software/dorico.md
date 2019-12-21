@@ -37,6 +37,7 @@
 * delete extra measures:
   * Write &gt; Trim Flow
 * [enharmonic respelling](https://steinberg.help/dorico/v1/en/dorico/topics/write_mode/write_mode_accidentals_respelling_t.html) = press \[ALT +\] or \[ALT - \]
+* move a note by an octave division = press \[SHIFT ALT uparrow\]
 
 ## [Engrave Mode](https://steinberg.help/dorico/v1/en/dorico/topics/engrave_mode/engrave_mode_introduction_c.html) \[ctrl/cmd + 3\] = point and click to adjust items \( [video](https://www.youtube.com/watch?v=-BYsKNIhP9A&list=PLoyaeouPUsdvy438lfsc78RZxhKTdOcKN) \)
 
