@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction to Technology for Musicians](README.md)
-* [Fall 2019 Details](fall-2019-details.md)
-* [Fall 2019 Schedule](fall-2019-schedule.md)
+* [Course Details](fall-2019-details.md)
+* [Course Schedule](fall-2019-schedule.md)
 
 ## Unit 1: Computers
 
