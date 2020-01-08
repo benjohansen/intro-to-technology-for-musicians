@@ -1,5 +1,5 @@
 ---
-description: Baylor University MUS1331 course syllabus and e-textbook.
+description: Baylor University MUS1331 Spring 2020 course syllabus and e-textbook.
 ---
 
 # Introduction to Technology for Musicians
