@@ -56,3 +56,7 @@ Don’t put all your eggs in one basket: use more than one camera!
   * extreme closeup shot \(XCU\) = one detail of a person
   * cut in = closeup shot of an object \(such as the face of a watch or an instrument key\)
 
+{% hint style="info" %}
+more shot types = [https://www.instagram.com/p/B6DZWA9ChDB/?igshid=pbgpx0ctas8h](https://www.instagram.com/p/B6DZWA9ChDB/?igshid=pbgpx0ctas8h)
+{% endhint %}
+

@@ -1,4 +1,4 @@
-# MUS1331 Course Schedule
+# Course Schedule
 
 | Section 1 | Section 2 | Location | Topic |
 | :--- | :--- | :--- | :--- |
