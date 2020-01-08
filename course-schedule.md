@@ -35,8 +35,8 @@
 | 04/27 | 04/28 |  |  |
 | 04/29 | 04/30 |  | \[last class\] |
 |  |  |  |  |
-| 05/8 |  | 2-4pm Final Exam |  |
-|  | 05/11 | 9-11am Final Exam |  |
+| 05/8 |  | 2-4pm Final Exam | Location: Alinea |
+|  | 05/11 | 9-11am Final Exam | Location Alinea |
 
 ## Exam Review Session:
 

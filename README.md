@@ -16,17 +16,17 @@ There are **no technological skill prerequisites** _and_ I do not assume you hav
 
 This course includes fundamentals of: computer science, sound synthesis, notation software, sound reinforcement, digital audio recording/mixing/editing, copyright/licensing, graphic design, photography, and videography with the means to empower musicians with digital and media literacy.
 
-## Time/Location
+## When/Where
 
-* Spring 2020
+* Spring 2020 class meeting times:
   * Section 1 = Mondays and Wednesdays 1:00-2:15pm
   * Section 2 = Tuesdays and Thursdays 12:30-1:45pm
-
-We will meet in a variety of places around campus:
-
-* **First meeting**: [Crouch Music lab](http://www.baylor.edu/Library/FineArts/index.php?id=47550) \(3rd floor of Moody Library\)
-* Alinea \([Marrs McLean Science Building Room 330](https://www.google.com/maps/place/Marrs+McLean+Science+Bldg,+Baylor+University,+Waco,+TX+76706/@31.548535,-97.1192904,17z/data=!3m1!4b1!4m2!3m1!1s0x864f824135e40acf:0x17e3f661d034adf2)\)
-* Roxy Grove, Meadows Hall, etc.
+* **Locations:**
+  * **First meeting**: [Crouch Music lab](http://www.baylor.edu/Library/FineArts/index.php?id=47550) \(3rd floor of Moody Library\)
+  * Alinea \([Marrs McLean Science Building Room 330](https://www.google.com/maps/place/Marrs+McLean+Science+Bldg,+Baylor+University,+Waco,+TX+76706/@31.548535,-97.1192904,17z/data=!3m1!4b1!4m2!3m1!1s0x864f824135e40acf:0x17e3f661d034adf2)\)
+  * Roxy Grove, Meadows Hall, etc.
+* [Spring 2020 Final Exam Schedule](https://benjohansen.gitbook.io/musictech/course-schedule#final-exam-times)
+  * [Final Exam Questions](https://benjohansen.gitbook.io/musictech/final-exam-questions)
 
 {% page-ref page="course-schedule.md" %}
 
