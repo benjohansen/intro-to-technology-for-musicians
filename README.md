@@ -28,6 +28,8 @@ We will meet in a variety of places around campus:
 * Alinea \([Marrs McLean Science Building Room 330](https://www.google.com/maps/place/Marrs+McLean+Science+Bldg,+Baylor+University,+Waco,+TX+76706/@31.548535,-97.1192904,17z/data=!3m1!4b1!4m2!3m1!1s0x864f824135e40acf:0x17e3f661d034adf2)\)
 * Roxy Grove, Meadows Hall, etc.
 
+{% page-ref page="course-schedule.md" %}
+
 ## Required Attendance Outside of Scheduled Class Time
 
 None.
