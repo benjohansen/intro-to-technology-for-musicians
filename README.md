@@ -36,6 +36,8 @@ None.
 
 All course materials \(textbooks, equipment, supplies, etc.\) will be supplied for you.
 
+Course Online Resource = [https://benjohansen.gitbook.io/musictech/](https://benjohansen.gitbook.io/musictech/)
+
 ## Course Objective: E**mpower musicians with digital and media literacy.**
 
 {% hint style="success" %}
