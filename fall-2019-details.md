@@ -1,4 +1,4 @@
-# Fall 2019 Details
+# MUS1331 Course Details
 
 ## Instructor
 
@@ -6,9 +6,6 @@
 
 ## Time/Location
 
-* Fall 2019
-  * Section 1 = Mondays and Wednesdays 3:35-4:50pm
-  * Section 2 = Tuesdays and Thursdays 2:00-3:15pm
 * Spring 2020
   * Section 1 = Mondays and Wednesdays 1:00-2:15pm
   * Section 2 = Tuesdays and Thursdays 12:30-1:45pm
@@ -38,16 +35,10 @@ The following is straight from the School of Music Undergraduate Handbook:
 
 ## Grading
 
-Your final grade will be calculated out of the following. Notice half your grade is based on technology experiences \(creative technology projects\) and half your grade is based on quantitative measures \(quizzes/final exam\).
+Your final grade will be calculated out of the following. Notice half your grade is based on technology experiences \(creative technology projects\) and half your grade is based on quantitative measures \(final exam\).
 
 * 50% Creative Technology Projects
-* 25% Quizzes \(from portions of Final Exam printed at the end of this syllabus;                   lowest quiz grade will be dropped\)
-* 25% Cumulative Final Exam \(provided at the end of this syllabus\)
-
-### Fall 2019 Final Exam:
-
-* 12/12 9:00-11:00am = Section 1 \(MW class\) Final Exam in Alinea
-* 12/16 4:30- 6:30pm = Section 2 \(TR class\) Final Exam in Alinea
+* 50% Cumulative Final Exam \(provided at the end of this syllabus\)
 
 ### Grade Scale:
 
@@ -61,8 +52,6 @@ Your final grade will be calculated out of the following. Notice half your grade
 * F  =  0-69
 
 Late projects/assignments will receive half credit. No exceptions. So, find a way to turn in an assignment if you know you will be missing class.
-
-If you are not present to take a quiz, you receive zero credit for the quiz. No exceptions. You may, though, take a quiz early if you know you will miss class. Note: lowest quiz grade \(even a non-taken quiz\) will be dropped.
 
 ## Academic Success
 
