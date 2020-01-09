@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Introduction to Technology for Musicians](README.md)
-* [Course Schedule](course-schedule.md)
+
+## MUS1331
+
+* [Course Details](mus1331/course-details.md)
+* [Course Schedule](mus1331/course-schedule.md)
 
 ## Unit 1: Computers
 
