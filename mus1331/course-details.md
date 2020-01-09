@@ -87,8 +87,13 @@ The following is straight from the School of Music Undergraduate Handbook:
 
 > School of Music policy requires that to earn credit in a course a student must be officially enrolled by the end of the second full week of the semester and attend at least 75% of all class meetings. Faculty members may establish additional attendance requirements as outlined in course syllabi. Any student who is not present for at least 75% of the scheduled class sessions for any course will automatically receive a grade of “F” in the course. Any University-related activity necessitating an absence from class **will count** as an absence when determining whether a student has attended the required 75% of class meetings.
 
-* Missing 20min of any portion of a class meeting will result in a 1/2 absence.
-* Attendance is not calculated in your grade \(but you must attend at least 75% of class meetings to be eligible pass the course\).
+{% hint style="warning" %}
+Missing 20min of any portion of a class meeting will result in a 1/2 absence.
+{% endhint %}
+
+{% hint style="danger" %}
+Attendance is not calculated in your grade, _**but**_ you must attend at least 75% of class meetings in order to be eligible pass the course.
+{% endhint %}
 
 ## Grading
 
