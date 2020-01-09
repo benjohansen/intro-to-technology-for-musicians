@@ -11,7 +11,7 @@
 | 02/03 | 02/04 |  |  |
 | 02/05 | 02/06 |  |  |
 | **02/10** | **02/11** | \*\*\*\* | \*\*\*\* |
-| **02/12** | **02/13** |  |  |
+| **02/12** | **02/13** | **NO CLASS** | **\[TMEA\]** |
 | 02/17 | 02/18 |  |  |
 | 02/19 | 02/20 |  |  |
 | **02/24** | **02/25** | \*\*\*\* | \*\*\*\* |
@@ -47,7 +47,7 @@
 * **Section 1 \(MW class\)** = Friday, May 8th 2:00 p.m. - 4:00 p.m. in Alinea
 * **Section 2 \(TR class\)** = Monday, May 11th 9:00 a.m. - 11:00 a.m. in Alinea
 
-{% page-ref page="final-exam-questions.md" %}
+{% page-ref page="../final-exam-questions.md" %}
 
 
 
