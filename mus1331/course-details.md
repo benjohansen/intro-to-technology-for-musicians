@@ -6,7 +6,7 @@ description: Baylor University MUS1331 Spring 2020 course syllabus and online co
 
 ## Instructor
 
-[Dr. Ben Johansen](https://www.baylor.edu/music/johansen)
+[**Dr. Ben Johansen**](https://www.baylor.edu/music/johansen)\*\*\*\*
 
 ## Course Description
 
