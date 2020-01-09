@@ -5,7 +5,7 @@
 ## MUS1331
 
 * [Course Details](mus1331/course-details.md)
-* [Course Schedule](mus1331/course-schedule.md)
+* [Course Schedule](course-schedule.md)
 
 ## Unit 1: Computers
 
