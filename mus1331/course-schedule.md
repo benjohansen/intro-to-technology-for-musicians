@@ -1,5 +1,14 @@
 # Course Schedule
 
+### First Day of Class Discussion: Who is involved in the following?:
+
+* Mon, February 10—Wind Ensemble will depart for TMEA around 1:30pm
+* Thurs, February 13—BSO/Choirs depart around 11:00am
+* Wed, April 1—A Cappella bus departure from campus approx. 2:00pm
+* Thurs, April 2—A Cappella bus departure from campus approx. 3:45pm
+* Fri, April 3 and Sat, April 4—A Cappella bus departure from campus approx. 5:00pm
+* Sun, April 5—A Cappella bus departure from campus approx. 12:00pm
+
 | Section 1 | Section 2 | Location | Topic |
 | :--- | :--- | :--- | :--- |
 | **01/13** | **01/14** | \*\*\*\* | \*\*\*\* |
