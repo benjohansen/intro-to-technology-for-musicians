@@ -2,6 +2,8 @@
 
 * [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) \(27min of short videos in a playlist\)
 * [Understanding Binary](https://www.youtube.com/watch?v=vc-9uASeU7I) \(video\)
+  * denary = base 10 \(0, 1, 2, 3, 4, 5, 6, 7, 8, 9\)
+  * binary = base 2 \(0, 1\)
 * [Introduction to IoT](https://www.leverege.com/iot-ebook/what-is-iot) \(article\)
   * [Arduino projects](https://create.arduino.cc/projecthub/projects/tags/iot)
 * [Microcontroller \(Arduino\) vs. SoC \(Raspberry Pi\)](https://appcodelabs.com/microcontroller-microprocessor-socs) \(2,612 words / 20 minutes\)

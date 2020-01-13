@@ -1,4 +1,4 @@
-# First Audio Recording Assignment
+# Audio Recording Assignment
 
 ## Assignment
 

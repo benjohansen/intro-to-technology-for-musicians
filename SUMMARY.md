@@ -28,7 +28,7 @@
 * [Analog Sound Reinforcement](unit-2-music/sound-reinforcement.md)
 * [Digital Audio \(How it Works\)](unit-2-music/digital-audio.md)
 * [Audio Recording](unit-2-music/audio-recording/README.md)
-  * [First Audio Recording Assignment](unit-2-music/audio-recording/first-audio-recording-assignment.md)
+  * [Audio Recording Assignment](unit-2-music/audio-recording/audio-recording-assignment.md)
   * [Podcast Assignment](unit-2-music/audio-recording/podcast-assignment.md)
 * [Audio Editing](unit-2-music/audio-editing/README.md)
   * [Mixing Assignment](unit-2-music/audio-editing/mixing-assignment.md)
