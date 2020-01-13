@@ -1,5 +1,7 @@
 # Digital Audio \(How it Works\)
 
+lossy example = [https://www.youtube.com/watch?v=icruGcSsPp0](https://www.youtube.com/watch?v=icruGcSsPp0)
+
 ![](../.gitbook/assets/longwaysviewelectronmicroscopeimageofvinlyrecordgroove1.jpg)
 
 ![](../.gitbook/assets/441b5e1cfe9e03bd1705327983a07cec.gif)
