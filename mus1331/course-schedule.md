@@ -12,7 +12,7 @@
 | Section 1 | Section 2 | Location | Due |
 | :--- | :--- | :--- | :--- |
 | **01/13** | **01/14** | **Crouch** | \*\*\*\* |
-| **01/15** | **01/16** | Crouch | [Audio Recording Assignment](../unit-2-music/audio-recording/audio-recording-assignment.md) |
+| **01/15** | **01/16** | **Crouch** | \*\*\*\*[**Audio Recording Assignment**](../unit-2-music/audio-recording/audio-recording-assignment.md)\*\*\*\* |
 | 01/20 | 01/21 | NO CLASS | \[Martin Luther King Jr. Holiday\] |
 | 01/22 | 01/23 |  |  |
 | **01/27** | **01/28** | \*\*\*\* | \*\*\*\* |

@@ -12,7 +12,6 @@
 * github hello world = [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 * [https://github.com/codepath/ios\_guides/wiki/Using-Git-with-Terminal](https://github.com/codepath/ios_guides/wiki/Using-Git-with-Terminal)\*\*\*\*
 * \*\*\*\*[https://github.com/benjohansen/benjohansen.github.io/blob/master/index.html](https://github.com/benjohansen/benjohansen.github.io/blob/master/index.html)
-* embed video = [https://github.com/etianen/html5media/wiki/embedding-video](https://github.com/etianen/html5media/wiki/embedding-video)
 
 ## HTML, CSS, and JavaScript
 

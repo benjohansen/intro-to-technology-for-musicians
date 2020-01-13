@@ -27,12 +27,12 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 
    ![](../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png) 
 
-4. Record yourself using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp ... see diagram below\)
-5. To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the \[preamp\] gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
+4. Record yourself speaking the content of your podcast using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp ... see diagram below\)
+5. To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
 
    ![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png) 
 
-6. Export as an uncompressed \(lossless\) audio file to edit later.
+6. Export as an uncompressed \(lossless\) audio file \(WAV or AIFF\) to later edit in Logic Pro or Reaper
 
 ![](../../.gitbook/assets/img_1679-81.jpg)
 
@@ -67,7 +67,7 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
   * "Integrated" on the Loudness Meter should be less than -16dB \(raise or lower the gain plugin accordingly and analyze again\)
   * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
 
-6. export as a compressed \(lossy\) audio format \(AAC is better sounding compression than MP3\)
+6. export as a compressed audio format \(AAC is better sounding compression than MP3\)
 
 * File &gt; Bounce &gt; Project or Section ...
   * MP4: ACC

@@ -1,6 +1,7 @@
 # Computer Hardware
 
 * [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) \(27min of short videos in a playlist\)
+  * [Fetch Exicute Cycle: What's Your Computer Actually Doing?](https://youtu.be/Z5JC9Ve1sfI) \(9min video\)
 * [Understanding Binary](https://www.youtube.com/watch?v=vc-9uASeU7I) \(video\)
   * denary = base 10 \(0, 1, 2, 3, 4, 5, 6, 7, 8, 9\)
   * binary = base 2 \(0, 1\)
