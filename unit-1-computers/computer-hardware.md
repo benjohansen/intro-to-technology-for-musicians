@@ -9,6 +9,10 @@
   * [Arduino projects](https://create.arduino.cc/projecthub/projects/tags/iot)
 * [Microcontroller \(Arduino\) vs. SoC \(Raspberry Pi\)](https://appcodelabs.com/microcontroller-microprocessor-socs) \(2,612 words / 20 minutes\)
 
+![](https://bam.files.bbci.co.uk/bam/live/content/z87yvcw/large)
+
+graphic credit = [https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/2](https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/2)
+
 ## The following is "15 Computer Topics" from [ComputerHope.com](https://www.computerhope.com/issues/ch001262.htm)
 
 1. **Transistors** - The computer contains millions of [transistors](https://www.computerhope.com/jargon/t/transist.htm), which are used to create machine language using [logic gates](https://www.computerhope.com/jargon/l/logicgat.htm) that turn on and off the [circuits](https://www.computerhope.com/jargon/c/circuit.htm).
