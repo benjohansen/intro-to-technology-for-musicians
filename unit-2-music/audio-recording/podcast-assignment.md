@@ -27,7 +27,7 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 
    ![](../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png) 
 
-4. Record yourself speaking the content of your podcast using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp ... see diagram below\)
+4. Record yourself using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp ... see diagram below\)
 5. To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the \[preamp\] gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
 
    ![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png) 
