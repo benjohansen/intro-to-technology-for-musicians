@@ -12,6 +12,8 @@ lossy example = [https://www.youtube.com/watch?v=icruGcSsPp0](https://www.youtub
 
 a transition from a land to a pit or a pit to a land is interpreted as "1" while the absence of a transition is interpreted as "0"
 
+[https://www.electronics-tutorials.ws/binary/signed-binary-numbers.html](https://www.electronics-tutorials.ws/binary/signed-binary-numbers.html)
+
 What is a sample? = [https://www.sweetwater.com/insync/sample/](https://www.sweetwater.com/insync/sample/)
 
 {% hint style="info" %}
