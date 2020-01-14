@@ -64,3 +64,7 @@
 * [Simple Programming Problems](simple-programming-problems.md)
 * [Analogy](analogy.md)
 
+## Lesson Plans
+
+* [First Day of Class](lesson-plans/first-day-of-class.md)
+
