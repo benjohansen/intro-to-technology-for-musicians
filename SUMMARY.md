@@ -68,5 +68,5 @@
 
 * [Class01](lesson-plans/class01.md)
 * [Class02](lesson-plans/class02.md)
-* [Class03](class03.md)
+* [Class03](lesson-plans/class03.md)
 

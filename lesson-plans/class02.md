@@ -1,3 +1,7 @@
+---
+description: complete Computer Hardware ... begin Software/Networking
+---
+
 # Class02
 
 1. make everyone shut down computer
