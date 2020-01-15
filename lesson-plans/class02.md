@@ -11,6 +11,7 @@ description: complete Computer Hardware ... begin Software/Networking
 2. open Audacity \(discuss all that happens when you open the program\)
    * why audio interface, midi, etc. doesn't work if plugged in _after_ program opens
 3. Check levels, file type, and quality of audio assignment
+   * discuss [copyright](../unit-3-pictures/copyright-and-licensing/)
    * export as mp3
 4. show how to improve \(demo on focusrite\)
 5. begin GitHub pages
