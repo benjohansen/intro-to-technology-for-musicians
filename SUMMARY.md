@@ -66,5 +66,6 @@
 
 ## Lesson Plans
 
-* [First Day of Class](lesson-plans/first-day-of-class.md)
+* [Class01](lesson-plans/class01.md)
+* [Class02](lesson-plans/class02.md)
 

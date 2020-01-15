@@ -1,4 +1,4 @@
-# First Day of Class
+# Class01
 
 lossy example = [https://www.youtube.com/watch?v=icruGcSsPp0](https://www.youtube.com/watch?v=icruGcSsPp0)
 
