@@ -1,11 +1,4 @@
-# Coding Tutorials
-
-## Scratch
-
-Free, browser-based visual programming language developed by the MIT Media Lab.
-
-* Complete the following tutorial = [https://scratch.mit.edu/projects/editor/?tutorial=getStarted](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
-* Complete another tutorial of your choice.
+# Hour of Code
 
 ## Processing \(33min\)
 
