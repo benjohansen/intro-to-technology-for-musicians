@@ -3,14 +3,17 @@
 ## **GitHub Pages**
 
 1. create a GitHub account = [https://github.com/join](https://github.com/join)
-2. go to [https://pages.github.com/](https://pages.github.com/) 
-3. choose "Project site" and "Start from scratch" 
+2. create a new repository
 
-   ![](../../.gitbook/assets/github-pages-setup.png) 
+   ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.48.52-pm.png) 
 
-   ... and follow the instructions
+3. create a new file
 
-4. upgrade the index.html file with a bit more detail and commit changes
+   ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.50.28-pm.png) 
+
+4. name new file "index.html," add the code below, and "commit new file"
+
+   ![](../../.gitbook/assets/index.png) 
 
    ```text
    <!DOCTYPE html>
@@ -22,7 +25,15 @@
    </html>
    ```
 
-5. upload mp3 to repository, add the audio code to your index.html and commit changes \(Note: my mp3 file was named accordion.mp3 ... so replace that in the code to your mp3 file's name\)
+5. upload mp3 to repository
+
+   ![](../../.gitbook/assets/screen-shot-2020-01-15-at-4.02.24-pm.png) 
+
+6. click edit on your index.html file
+
+   ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.53.31-pm%20%281%29.png) 
+
+7. add the following audio code to your index.html and commit changes \(Note: my mp3 file was named accordion.mp3 ... so edit the code to show your mp3 file's name\)
 
    ```
    <!DOCTYPE html>
@@ -42,7 +53,7 @@
    </html>
    ```
 
-6. Add Scratch \(Free, browser-based visual programming language developed by the MIT Media Lab\)
+8. Add Scratch \(Free, browser-based visual programming language developed by the MIT Media Lab\)
    1. Create a Scratch user account = [https://scratch.mit.edu/join](https://scratch.mit.edu/join)
    2. Complete the following tutorial = [https://scratch.mit.edu/projects/editor/?tutorial=getStarted](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
    3. Complete another tutorial of your choice.
