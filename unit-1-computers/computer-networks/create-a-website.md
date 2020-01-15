@@ -1,16 +1,16 @@
-# Create a Website
-
-## Wordpress
-
-{% embed url="https://wordpress.com/" %}
+# Create a Website: GitHub Page
 
 ## **GitHub Pages**
 
-{% embed url="https://pages.github.com/" %}
+1. go to [https://pages.github.com/](https://pages.github.com/) 
+2. choose "Project site" and "Start from scratch" 
+3. follow the instructions
 
-![](../../.gitbook/assets/github-pages-setup.png)
+   ![](../../.gitbook/assets/github-pages-setup.png) 
 
-### Example index.html file:
+4. upgrade the index.html file with a bit more detail
+
+5. add audio
 
 ```text
 <!DOCTYPE html>

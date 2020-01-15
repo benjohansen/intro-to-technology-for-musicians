@@ -9,3 +9,11 @@
     * **CSS** is used to control presentation, formatting, and layout.
     * **JavaScript** is used to control the behavior of different elements.
 
+## Creating a Website
+
+I suggest you begin with Wordpress.com
+
+{% embed url="https://www.wordpress.com" %}
+
+
+

@@ -15,7 +15,7 @@
   * [Coding Tutorials](unit-1-computers/computer-software/coding-tutorials.md)
   * [Presenting with Slides](unit-1-computers/computer-software/presenting-with-slides.md)
 * [Computer Networks](unit-1-computers/computer-networks/README.md)
-  * [Create a Website](unit-1-computers/computer-networks/create-a-website.md)
+  * [Create a Website: GitHub Page](unit-1-computers/computer-networks/create-a-website.md)
 
 ## Unit 2: Music
 
