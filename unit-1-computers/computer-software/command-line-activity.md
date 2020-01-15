@@ -11,10 +11,11 @@
   * ~ means you are in the user’s home folder
   * / means you are in the root of the hard drive
   * **pwd** provides the full path of the current directory you are in
+* **afplay \[filename\]** to play an audio file ... to stop command+c
 * see contents of a director \([**ls**](https://en.wikipedia.org/wiki/Ls)\)
 * create a folder \(**mkdir** “thisnewfolder”\)
-* open an application from the Applications folder \(open Dictionary.app\)
-* open an application from anywhere \(open -a Dictionary.app\)
+* open an application from the Applications folder \(**open Dictionary.app**\)
+* open an application from anywhere \(**open -a Dictionary.app**\)
 * make the computer talk \(**say**\)
 * [Apple Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac)
 * [Apple developer reference](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
