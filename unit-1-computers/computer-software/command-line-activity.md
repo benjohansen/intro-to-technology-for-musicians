@@ -14,6 +14,7 @@
 * **afplay \[filename\]** to play an audio file ... to stop command+c
 * see contents of a director \([**ls**](https://en.wikipedia.org/wiki/Ls)\)
 * create a folder \(**mkdir** “thisnewfolder”\)
+* create a file \(**touch mytextfile.txt**\)
 * open an application from the Applications folder \(**open Dictionary.app**\)
 * open an application from anywhere \(**open -a Dictionary.app**\)
 * make the computer talk \(**say**\)
