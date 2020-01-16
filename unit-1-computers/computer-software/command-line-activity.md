@@ -12,7 +12,7 @@
   * / means you are in the root of the hard drive
   * **pwd** provides the full path of the current directory you are in
 * **afplay \[filename\]** to play an audio file ... to stop command+c
-* see contents of a director \([**ls**](https://en.wikipedia.org/wiki/Ls)\)
+* see contents of a director \([**ls**](https://en.wikipedia.org/wiki/Ls)\) = short for the word "list"
 * create a folder \(**mkdir** “thisnewfolder”\)
 * create a file \(**touch mytextfile.txt**\)
 * open an application from the Applications folder \(**open Dictionary.app**\)

@@ -35,15 +35,27 @@
    >
    > \*\*\*\*
 
-5. upload mp3 to repository
+5. make site published using GitHub Pages
+   * click on your repository "Settings" tab
+
+     ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.52.11-pm.png) 
+
+   * change the "Source" to "master branch"
+
+     ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.52.24-pm.png) 
+
+   * now your URL is displayed
+
+     ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.53.04-pm.png) 
+6. upload mp3 to repository
 
    ![](../../.gitbook/assets/screen-shot-2020-01-15-at-4.02.24-pm.png) 
 
-6. click edit on your index.html file
+7. click edit on your index.html file
 
    ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.53.31-pm%20%281%29.png) 
 
-7. add the following audio code to your index.html and commit changes \(Note: my mp3 file was named accordion.mp3 ... so edit the code to show your mp3 file's name\)
+8. insert the &lt;audio&gt; tag code to your index.html \(including &lt;div&gt; tags\) somewhere in the &lt;body&gt; of your page and commit changes \(Note: my mp3 file was named accordion.mp3 ... so edit the code to show your mp3 file's name\)
 
    ```
    <!DOCTYPE html>
@@ -63,7 +75,7 @@
    </html>
    ```
 
-8. Add Scratch \(Free, browser-based visual programming language developed by the MIT Media Lab\)
+9. Add Scratch \(Free, browser-based visual programming language developed by the MIT Media Lab\)
    1. Create a Scratch user account = [https://scratch.mit.edu/join](https://scratch.mit.edu/join)
    2. Complete the following tutorial = [https://scratch.mit.edu/projects/editor/?tutorial=getStarted](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
    3. Complete another tutorial of your choice.
