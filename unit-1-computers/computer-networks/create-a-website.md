@@ -7,6 +7,12 @@
 
    ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.48.52-pm.png) 
 
+   > \*\*\*\*
+   >
+   > **A "repository" is like a folder for your project.**
+   >
+   > \*\*\*\*
+
 3. create a new file
 
    ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.50.28-pm.png) 
@@ -24,6 +30,10 @@
      </body>
    </html>
    ```
+
+   > **a "commit" is like saving the changes to your files, but GitHub saves all of your commits so you can always go back to any "version" or "revision" of your files**
+   >
+   > \*\*\*\*
 
 5. upload mp3 to repository
 
