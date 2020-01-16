@@ -1,4 +1,4 @@
-# Create a Website: GitHub Page
+# Create a Website: GitHub Pages
 
 ## **GitHub Pages**
 

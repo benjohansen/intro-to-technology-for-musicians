@@ -15,7 +15,7 @@
   * [Hour of Code](unit-1-computers/computer-software/hour-of-code.md)
   * [Presenting with Slides](unit-1-computers/computer-software/presenting-with-slides.md)
 * [Computer Networks](unit-1-computers/computer-networks/README.md)
-  * [Create a Website: GitHub Page](unit-1-computers/computer-networks/create-a-website.md)
+  * [Create a Website: GitHub Pages](unit-1-computers/computer-networks/create-a-website.md)
 
 ## Unit 2: Music
 
