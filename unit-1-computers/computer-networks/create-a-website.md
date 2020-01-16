@@ -2,6 +2,10 @@
 
 ## **GitHub Pages**
 
+{% hint style="danger" %}
+Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ on PC\) as many times as you need to zoom in on this page.
+{% endhint %}
+
 1. create a GitHub account = [https://github.com/join](https://github.com/join)
 2. create a new repository
 
