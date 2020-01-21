@@ -43,7 +43,8 @@
     <tr>
       <td style="text-align:left">01/22</td>
       <td style="text-align:left">01/23</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="../unit-1-computers/computer-software/hour-of-code.md">Hour of Code</a>
+      </td>
       <td style="text-align:left"><a href="../unit-1-computers/computer-networks/create-a-website.md">Create a Website (add audio and Scratch)</a>
       </td>
     </tr>
