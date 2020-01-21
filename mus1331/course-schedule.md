@@ -52,7 +52,10 @@
       <td
       style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
         <td style="text-align:left"></td>
-        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+        <td style="text-align:left">
+          <p>&lt;b&gt;&lt;/b&gt;</p>
+          <p>watch <a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">How the Internet Works</a> (40min)</p>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Jan 29/30</b>
