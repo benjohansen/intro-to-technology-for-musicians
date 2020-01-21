@@ -4,7 +4,6 @@
 
 * \*\*\*\*[**Learning Synths \(Ableton interactive learning\)**](https://learningsynths.ableton.com/)\*\*\*\*
 * \*\*\*\*[**Synthesizer Basics \(Berkley\)**](https://www.youtube.com/watch?v=c3udLCvoCC0)\*\*\*\*
-* [Online Virtual Analog Synth](https://webaudiodemos.appspot.com/midi-synth/index.html)
 * [Understanding Synthesis \(5 minute read\)](https://medium.com/@dennisstoelwinder/understanding-every-synthesizer-in-a-5-minute-read-7af0a4a3a920)
 * [How modulation works](https://www.youtube.com/watch?v=vvBl3YUBUyY&feature=youtu.be&t=3)
 * A few Types of Synthesis:
