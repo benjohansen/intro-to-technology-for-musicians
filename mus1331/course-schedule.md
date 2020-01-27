@@ -50,8 +50,10 @@
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../lesson-plans/class04.md"><b>Jan 27/28</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
-      style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-        <td style="text-align:left"></td>
+      style="text-align:left"><b>Crouch</b>
+        </td>
+        <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/">Audio Synthesis</a>
+        </td>
         <td style="text-align:left">
           <p>&lt;b&gt;&lt;/b&gt;</p>
           <p>watch <a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">How the Internet Works</a> (40min)</p>
@@ -60,15 +62,16 @@
     <tr>
       <td style="text-align:left"><b>Jan 29/30</b>
       </td>
+      <td style="text-align:left">Crouch</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md">Part 1 of Synthesizer Exercise</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Feb 3/4</td>
+      <td style="text-align:left">Crouch</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md">Part 2 of Synthesizer Exercise</a> (maybe)</td>
     </tr>
     <tr>
       <td style="text-align:left">Feb 5/6</td>
