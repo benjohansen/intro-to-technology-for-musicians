@@ -73,10 +73,18 @@ description: >-
 
     **Audio Synthesis:**
 
-38. Describe the difference between a sampler and a synthesizer.
-39. **Draw a diagram of an analog synthesizer including signal/voltage paths \(control voltage, gate, trigger\). Include the following components: analog keyboard controller, VCO \(oscillator\), EG \(envelop generator with ADSR\), VCF \(filter\), LFO \(modulation for tremolo and vibrato\), VCA \(amplifier\), and mixer.**
-40. Why are General MIDI standards helpful?
-41. What is a MIDI controller?
+38. **Draw a diagram of a voltage-controlled \[analog\] synthesizer including signal/voltage paths \(control voltage, gate, trigger\). Include the following components:** 
+    * **1V/octave keyboard controller**
+    * **VCO \(oscillator\)**
+    * **EG \(envelop generator with ADSR\)**
+    * **VCF \(filter\)**
+    * **LFO \(modulation for tremolo and vibrato\)**
+    * **VCA \(amplifier\)**
+    * **mixer**
+    * **output**
+39. Describe the difference between a sampler and a synthesizer.
+40. Describe the difference between subtractive and additive synthesis.
+41. What are some other types of synthesis?
 42. What is a MIDI sequencer?
 
     \*\*\*\*

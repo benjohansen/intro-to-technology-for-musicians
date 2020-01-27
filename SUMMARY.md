@@ -20,7 +20,8 @@
 ## Unit 2: Music
 
 * [Physics of Sound](unit-2-music/physics-of-sound.md)
-* [Audio Synthesis](unit-2-music/audio-synthesis.md)
+* [Audio Synthesis](unit-2-music/audio-synthesis/README.md)
+  * [Synthesis Exercise \(2 parts\)](unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md)
 * [Notation Software](unit-2-music/notation-software/README.md)
   * [Introduction to Notation Software Exercise](unit-2-music/notation-software/introduction-to-notation-software-exercise.md)
   * [Dorico](unit-2-music/notation-software/dorico.md)
