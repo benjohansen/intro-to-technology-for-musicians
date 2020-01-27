@@ -4,5 +4,5 @@ description: begin Physics of Sound
 
 # Class04
 
-maybe begin with analog synthesis \(that describes sound pretty well and ties to electricity\)
+[Audio synthesis](../unit-2-music/audio-synthesis/) describes sound pretty well and ties to electricity
 
