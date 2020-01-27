@@ -4,6 +4,7 @@
   * [Internet Service Providers](https://www.speedcheck.org/#chapter2)
   * [Here is a summary of how the internet works](https://www.rexsoftware.com/blog/how-does-the-internet-work/)
   * [Another great explanation of how networks work](https://www.freecodecamp.org/news/computer-networks-and-how-to-actually-understand-them-c1401908172d/)
+  * [difference between modems and router](https://www.lifewire.com/difference-between-modem-and-router-4159854)
   * [HTML vs CSS vs JavaScript:](https://blog.hubspot.com/marketing/web-design-html-css-javascript)
     * **HTML** provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript.
     * **CSS** is used to control presentation, formatting, and layout.
