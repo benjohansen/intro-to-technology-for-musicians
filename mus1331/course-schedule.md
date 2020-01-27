@@ -60,12 +60,12 @@
         </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Jan 29/30</b>
-      </td>
-      <td style="text-align:left">Crouch</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md">Part 1 of Synthesizer Exercise</a>
-      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../lesson-plans/class05.md"><b>Jan 29/30</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:left">Crouch</td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md">Part 1 of Synthesizer Exercise</a>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">Feb 3/4</td>
