@@ -71,13 +71,14 @@
       <td style="text-align:left">Feb 3/4</td>
       <td style="text-align:left">Crouch</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md">Part 2 of Synthesizer Exercise</a> (maybe)</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Feb 5/6</td>
+      <td style="text-align:left">Crouch</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md">Part 2 of Synthesizer Exercise</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Feb 10/11</b>
