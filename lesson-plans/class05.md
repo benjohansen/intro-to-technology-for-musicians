@@ -12,6 +12,8 @@ description: intro to Logic
 
 {% hint style="info" %}
 **MIDI Sequencing**: synthesizers \(virtual instruments\) in Logic are controlled by MIDI and record the MIDI data rather than audio - that makes it easy to keep editing **\*anything\*** at any time
+
+What is MIDI?
 {% endhint %}
 
 * **start with ES E \(virtual instrument\)**

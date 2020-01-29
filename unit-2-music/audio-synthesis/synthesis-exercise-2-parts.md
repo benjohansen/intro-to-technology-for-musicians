@@ -30,8 +30,9 @@ To produce a video quickly that will allow for a wider range of musical possibil
 3. create a soundtrack to the video using only synthesizers \(no virtual samplers\)
    * to find out more about each synthesizer within Logic Pro, within Logic Pro go to Help &gt; Logic Pro Instruments
 4. you must automate some parameters of the synthesizers
-5. save your work often!
-6. export video + music
+5. you must use at least 5 different synthesizers and have at least 10 tracks \(vertically\)
+6. save your work often!
+7. export video + music
 
    * File &gt; Movie &gt; Export Audio to Movie ...
    * choose the video in the popup browser, click "Save" and then "Replace"
@@ -39,8 +40,8 @@ To produce a video quickly that will allow for a wider range of musical possibil
 
    ![](../../.gitbook/assets/screen-shot-2020-01-27-at-12.18.23-pm.png) 
 
-7. post to Youtube publicly \(if the video is private, it will not embed in your GitHub site\)
-8. [Embed the video in your GitHub site](https://github.com/etianen/html5media/wiki/embedding-video)
+8. post to Youtube publicly \(if the video is private, it will not embed in your GitHub site\)
+9. [Embed the video in your GitHub site](https://github.com/etianen/html5media/wiki/embedding-video)
    * below the video on your GitHub site, list the synthesizers you used along with the type of synthesizer they are \(for example: ES M = subtractive synthesis\)
 
 ## To be assigned at a later date:
