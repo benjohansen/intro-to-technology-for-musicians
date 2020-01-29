@@ -37,7 +37,5 @@ recreate the patch below \(turn on digital signal processing \(DSP\) and play th
 
 ![](http://benjohansen.com/images/pd_am-monophonic_2x.png?crc=4238217748)
 
-
-
 ![](http://benjohansen.com/images/pd-audio-status_2x.png?crc=372914032)
 
