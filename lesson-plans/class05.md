@@ -1,6 +1,14 @@
+---
+description: intro to Logic
+---
+
 # Class05
 
-## Intro to Logic
+## **Logic Synths**
+
+{% hint style="success" %}
+**Reminder = synthesis is all about creating sound ... foundationally, it is about starting with some sound generated from an oscillator \(sometimes the "oscillator" is actually a wavetable of a sampled sound\) or starting with generating sound based on mathematical models of real life instruments**
+{% endhint %}
 
 * **start with ES E \(virtual instrument\)**
   * vibrato is a modulator LFO changing the pitch of the oscillator at a selected frequency
