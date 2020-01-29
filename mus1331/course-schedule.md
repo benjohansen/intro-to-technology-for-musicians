@@ -63,7 +63,9 @@
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../lesson-plans/class05.md"><b>Jan 29/30</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
       style="text-align:left">Crouch</td>
-        <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/">Audio Synthesis</a>
+        <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/midi-exercise.md">MIDI Exercise</a> +
+          <a
+          href="../unit-2-music/audio-synthesis/">Audio Synthesis</a>
         </td>
         <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md">Part 1 of Synthesizer Exercise</a>
         </td>
