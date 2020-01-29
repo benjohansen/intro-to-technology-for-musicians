@@ -14,7 +14,16 @@
    * click the "Save All Settings" button
    * click the "OK" button
 4. use the keyboard shortcut \[command+N\] to start a new patch
-5. recreate the patch below \(using \[command+1\] to add a new "Object," type the object name, then click the mouse anywhere in the new patch except on the new "Object" in order to finalize the object creation ... then, discover all you can about MIDI protocol:
+5. recreate the patch below
+
+   * use \[command+1\] to add a new "Object"
+     * type the object name
+     * then click the mouse anywhere in the new patch except on the new "Object" in order to finalize the object creation
+   * use \[command+3\] to add a number object
+   * hover over outlet of an object, click and drag to draw patch cable to input of another object
+
+   When you are done with creating the patch, discover all you can about MIDI protocol:
+
    * monitor the values displayed as you experiment with all parts of the MIDI keyboard controller \(keys, notebend, faders, knobs, etc.\)
    * be ready to discuss what you discovered
 
