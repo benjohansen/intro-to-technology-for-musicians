@@ -10,6 +10,10 @@ description: intro to Logic
 **Reminder = synthesis is all about creating sound ... foundationally, it is about starting with some sound generated from an oscillator \(sometimes the "oscillator" is actually a wavetable of a sampled sound\) or starting with generating sound based on mathematical models of real life instruments**
 {% endhint %}
 
+{% hint style="info" %}
+**MIDI Sequencing**: synthesizers \(virtual instruments\) in Logic are controlled by MIDI and record the MIDI data rather than audio - that makes it easy to keep editing **\*anything\*** at any time
+{% endhint %}
+
 * **start with ES E \(virtual instrument\)**
   * vibrato is a modulator LFO changing the pitch of the oscillator at a selected frequency
   * Automation
