@@ -39,5 +39,9 @@ recreate the patch below \(turn on digital signal processing \(DSP\) and play th
 
 ## FM \(Frequency Modulation\)
 
+{% hint style="warning" %}
+How can you control the FM patch below with MIDI?
+{% endhint %}
+
 ![](../../.gitbook/assets/screen-shot-2020-01-30-at-12.23.34-pm.png)
 
