@@ -35,7 +35,9 @@
 
 recreate the patch below \(turn on digital signal processing \(DSP\) and play the MIDI keyboard / turn knobs\):
 
-![](http://benjohansen.com/images/pd_am-monophonic_2x.png?crc=4238217748)
+![](../../.gitbook/assets/pd_am-monophonic.png)
 
-![](http://benjohansen.com/images/pd-audio-status_2x.png?crc=372914032)
+## FM \(Frequency Modulation\)
+
+![](../../.gitbook/assets/screen-shot-2020-01-30-at-12.23.34-pm.png)
 
