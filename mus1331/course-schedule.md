@@ -80,7 +80,8 @@
     <tr>
       <td style="text-align:left">Feb 5/6</td>
       <td style="text-align:left">Crouch</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">work on <a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md#part-3-during-class">Part 3 of Synth Exercise</a>
+      </td>
       <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise-2-parts.md#part-2">Part 2 of Synthesizer Exercise</a>
       </td>
     </tr>
