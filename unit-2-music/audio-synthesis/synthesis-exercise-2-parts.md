@@ -40,7 +40,7 @@ To produce a video quickly that will allow for a wider range of musical possibil
 1. export video + music
 
    * File &gt; Movie &gt; Export Audio to Movie ...
-   * choose the video in the popup browser, click "Save" and then "Replace"
+   * choose the video in the popup window, click "Save" and then "Replace"
    * uncheck the box next the track on the following popup and click "Save"
 
    ![](../../.gitbook/assets/screen-shot-2020-01-27-at-12.18.23-pm.png) 
