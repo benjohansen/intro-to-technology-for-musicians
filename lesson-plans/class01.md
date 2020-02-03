@@ -4,7 +4,16 @@ description: Analog vs. Digital
 
 # Class01
 
+## Summary
+
+* An analog signal is a **continuous** signal; analog signal values are known for **all moments in time**.
+* A digital signal is a **discrete** signal; digital signals are known at **certain specific times**.
+
 ## Analog
+
+how audio works
+
+* timbre = [https://musiclab.chromeexperiments.com/spectrogram-service/](https://musiclab.chromeexperiments.com/spectrogram-service/)
 
 how film works = [https://www.youtube.com/watch?v=rqSbmw9u1CE&feature=youtu.be&t=127](https://www.youtube.com/watch?v=rqSbmw9u1CE&feature=youtu.be&t=127)
 
