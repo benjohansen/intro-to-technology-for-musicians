@@ -34,7 +34,10 @@ To produce a video quickly that will allow for a wider range of musical possibil
 6. save your work often!
    * put a check next to "Movie File" in the save dialogue to include your video file in the Logic file package
    * after completely quitting Logic, you'll need to right click on your Logic \[file\] package and compress it to a zip file in order to upload it to Box
-7. export video + music
+
+## Part 3 \(during class\)
+
+1. export video + music
 
    * File &gt; Movie &gt; Export Audio to Movie ...
    * choose the video in the popup browser, click "Save" and then "Replace"
@@ -42,8 +45,8 @@ To produce a video quickly that will allow for a wider range of musical possibil
 
    ![](../../.gitbook/assets/screen-shot-2020-01-27-at-12.18.23-pm.png) 
 
-8. post to Youtube publicly \(if the video is private, it will not embed in your GitHub site\)
-9. [Embed the video in your GitHub site](https://github.com/etianen/html5media/wiki/embedding-video)
+2. post to Youtube publicly \(if the video is private, it will not embed in your GitHub site\)
+3. [Embed the video in your GitHub site](https://github.com/etianen/html5media/wiki/embedding-video)
    * below the video on your GitHub site, list the synthesizers you used along with the type of synthesizer they are \(for example: ES M = subtractive synthesis\)
 
 
