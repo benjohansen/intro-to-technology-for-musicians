@@ -29,8 +29,8 @@ To produce a video quickly that will allow for a wider range of musical possibil
    * mute the audio track of the movie
 3. create a soundtrack to the video using only synthesizers \(no virtual samplers\)
    * to find out more about each synthesizer within Logic Pro, within Logic Pro go to Help &gt; Logic Pro Instruments
-4. you must automate some parameters of the synthesizers
-5. you must use at least 5 different synthesizers and have at least 10 tracks \(vertically\)
+4. **you must automate some parameters of the synthesizers**
+5. **you must use at least 5 different synthesizers and have at least 10 tracks \(vertically\)**
 6. save your work often!
    * put a check next to "Movie File" in the save dialogue to include your video file in the Logic file package
    * after completely quitting Logic, you'll need to right click on your Logic \[file\] package and compress it to a zip file in order to upload it to Box
