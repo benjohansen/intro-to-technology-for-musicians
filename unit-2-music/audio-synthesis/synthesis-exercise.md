@@ -3,7 +3,7 @@
 ## Part 1
 
 1. Complete [**Learning Synths \(Ableton interactive learning\)**](https://learningsynths.ableton.com/) ****and play a bit in the "playground"
-2. Take a 1min "[long shot](https://en.wikipedia.org/wiki/Long_take)" video recording of anything appropriate for a Baylor course \(you may use your phone\)
+2. Take a **1min** "[long shot](https://en.wikipedia.org/wiki/Long_take)" video recording of anything appropriate for a Baylor course \(you may use your phone\)
    * transfer the video to the computer and convert using QuickTime \(Mac\)
      * open in QuickTime
      * File &gt; Export As ... \(choose size of the original video and uncheck use HEVC; if you don't know what this is then go to Window &gt; Show Movie Inspector\)
@@ -22,16 +22,16 @@ To produce a video quickly that will allow for a wider range of musical possibil
    * check Show Advanced Tools and click "Enable All" button at the bottom
    * close preferences
    * save your work \(as package on desktop\)
-2. import the video from Part 1 into Logic Pro \(the video you converted using QuickTime because Logic doesn't like HEVC\)
+2. import the **1 min** video from Part 1 into Logic Pro \(depending on the original codec of your video, you _may_ need to convert using QuickTime before importing it into Logic\)
    * File &gt; Movie &gt; Open Movie ...
    * go ahead and leave a check next to "Open the Movie" and "Extract the Audio Track"
    * use the frame rate of the video
    * mute the audio track of the movie
 3. create a soundtrack to the video using only synthesizers \(no virtual samplers\)
    * to find out more about each synthesizer within Logic Pro, within Logic Pro go to Help &gt; Logic Pro Instruments
-4. **you must automate some parameters of the synthesizers**
-5. **you must use at least 5 different synthesizers and have at least 10 tracks \(vertically\)**
-6. save your work often!
+   * **you must automate some parameters of the synthesizers**
+   * **you must use at least 5 different synthesizers and have at least 10 tracks \(vertically\)**
+4. save your work often!
    * put a check next to "Movie File" in the save dialogue to include your video file in the Logic file package
    * after completely quitting Logic, you'll need to right click on your Logic \[file\] package and compress it to a zip file in order to upload it to Box
 
