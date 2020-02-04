@@ -63,7 +63,9 @@ To produce a video quickly that will allow for a wider range of musical possibil
    * Using the HTML unordered list tag, list the synthesizers you used along with the type of synthesizer they are \(for example: ES M = subtractive synthesis\)
 5. **Add the URL to your Github Site to** [_**this Box Note**_](https://baylor.box.com/s/vw73z5p2288fj8x39of3oa6b1pxtksju)_\*\*\*\*_
 
+## Video Container
 
+![https://www.w3.org/2008/03/video-on-the-web\#\(11\)](../../.gitbook/assets/video-container.png)
 
 
 
