@@ -1,4 +1,4 @@
-# Synthesis Exercise \(2 parts\)
+# Synthesis Exercise \(3 parts\)
 
 ## Part 1
 
@@ -37,17 +37,30 @@ To produce a video quickly that will allow for a wider range of musical possibil
 
 ## Part 3 \(during class\)
 
-1. export video + music
+1. export video + \[new\] music = **File &gt; Movie &gt; Export Audio to Movie ...**
 
-   * File &gt; Movie &gt; Export Audio to Movie ...
-   * choose the video in the popup window, click "Save" and then "Replace"
-   * uncheck the box next the track on the following popup and click "Save"
+   * choose a name for the video
+   * choose an audio format \(AAC\), sample rate \(44.1k\), and bit rate \(256kbps\)
+   * click "save"
+   * uncheck the box under "Enabled" next the track on the following popup and click "Save" \(if you left a check in that box, it would export the original audio to the video as well\)
 
    ![](../../.gitbook/assets/screen-shot-2020-01-27-at-12.18.23-pm.png) 
 
 2. post to Youtube publicly \(if the video is private, it will not embed in your GitHub site\)
-3. [Embed the video in your GitHub site](https://github.com/etianen/html5media/wiki/embedding-video)
-   * below the video on your GitHub site, list the synthesizers you used along with the type of synthesizer they are \(for example: ES M = subtractive synthesis\)
+3. Embed the video in your GitHub site
+
+   * click "share" under your video in Youtube and choose "embed"
+   * copy the iframe code
+   * paste in your index.html code \(putting it between HTML [div tags](https://www.w3schools.com/tags/tag_div.asp) will help separate it from the rest of the items on your site\) ... for example:
+
+   ```text
+   <div>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/SI65D-E0kls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
+   ```
+
+4. Below your video on your Github site:
+   * Using the HTML unordered list tag, list the synthesizers you used along with the type of synthesizer they are \(for example: ES M = subtractive synthesis\)
 
 
 
