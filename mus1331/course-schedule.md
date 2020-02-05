@@ -114,7 +114,7 @@
         <ul>
           <li>Quiz over <a href="../final-exam-questions.md">&quot;Physic of Sound&quot; and &quot;Audio Synthesis&quot; questions from Final Exam</a> (graded
             as one of the Creative Technology Projects)</li>
-          <li>review first half of Final Exam before moving on</li>
+          <li>review (discuss) first half of Final Exam before moving on (not a grade)</li>
         </ul>
       </td>
       <td style="text-align:left"></td>
