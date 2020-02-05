@@ -89,7 +89,8 @@
       <td style="text-align:left"><b>Feb 10/11</b>
       </td>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">discussion/lecture on the <a href="../final-exam-questions.md">&quot;Physics of Sound&quot; and &quot;Audio Synthesis&quot; questions from the Final Exam</a>
+      </td>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
@@ -104,7 +105,8 @@
     <tr>
       <td style="text-align:left">Feb 17/18</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Quiz over <a href="../final-exam-questions.md">&quot;Physic of Sound&quot; and &quot;Audio Synthesis&quot; questions from Final Exam</a> (graded
+        as one of the Creative Technology Projects)</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
