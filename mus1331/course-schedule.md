@@ -110,8 +110,13 @@
     <tr>
       <td style="text-align:left">Feb 17/18</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Quiz over <a href="../final-exam-questions.md">&quot;Physic of Sound&quot; and &quot;Audio Synthesis&quot; questions from Final Exam</a> (graded
-        as one of the Creative Technology Projects)</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Quiz over <a href="../final-exam-questions.md">&quot;Physic of Sound&quot; and &quot;Audio Synthesis&quot; questions from Final Exam</a> (graded
+            as one of the Creative Technology Projects)</li>
+          <li>review first half of Final Exam before moving on</li>
+        </ul>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
