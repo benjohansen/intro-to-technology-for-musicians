@@ -52,23 +52,24 @@
       <td
       style="text-align:left"><b>Crouch</b>
         </td>
-        <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/">Audio Synthesis</a>
-        </td>
-        <td style="text-align:left">
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/audio-synthesis/"><b>Audio Synthesis</b></a>&lt;b&gt;&lt;/b&gt;</td>
+        <td
+        style="text-align:left">
           <p>&lt;b&gt;&lt;/b&gt;</p>
-          <p>watch <a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">How the Internet Works</a> (40min)</p>
-        </td>
+          <p><b>watch </b><a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7"><b>How the Internet Works</b></a><b> (40min)</b>
+          </p>
+          </td>
     </tr>
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../lesson-plans/class05.md"><b>Jan 29/30</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
-      style="text-align:left">Crouch</td>
-        <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/midi-exercise.md">MIDI Exercise</a> +
+      style="text-align:left"><b>Crouch</b>
+        </td>
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/audio-synthesis/midi-exercise.md"><b>MIDI Exercise</b></a><b> + </b>
           <a
-          href="../unit-2-music/audio-synthesis/">Audio Synthesis</a>
-        </td>
-        <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise.md">Part 1 of Synthesizer Exercise</a>
-        </td>
+          href="../unit-2-music/audio-synthesis/"><b>Audio Synthesis</b>
+            </a>&lt;b&gt;&lt;/b&gt;</td>
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/audio-synthesis/synthesis-exercise.md"><b>Part 1 of Synthesizer Exercise</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:left">Feb 3/4</td>
@@ -89,9 +90,10 @@
       <td style="text-align:left"><b>Feb 10/11</b>
       </td>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left">discussion/lecture on the <a href="../final-exam-questions.md">&quot;Physics of Sound&quot; and &quot;Audio Synthesis&quot; questions from the Final Exam</a>
+      <td style="text-align:left"><b>discussion/lecture on the </b><a href="../final-exam-questions.md"><b>&quot;Physics of Sound&quot; and &quot;Audio Synthesis&quot; questions from the Final Exam</b></a><b> (includes drawing a synthesizer diagram together)</b>
       </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left"><b>Read </b><a href="https://docs.cycling74.com/max8/tutorials/02_mspdigitalaudio"><b>first half of this</b></a><b> in preparation for the class discussion</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Feb 12/13</b>
