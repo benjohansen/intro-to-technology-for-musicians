@@ -37,6 +37,8 @@ recreate the patch below \(turn on digital signal processing \(DSP\) and play th
 
 ![](../../.gitbook/assets/pd_am-monophonic.png)
 
+{% file src="../../.gitbook/assets/am.pd.zip" caption="AM Synth Pure Data patch \(no MIDI control like the above\)" %}
+
 ## FM \(Frequency Modulation\)
 
 {% hint style="warning" %}
@@ -44,4 +46,6 @@ How can you control the FM patch below with MIDI?
 {% endhint %}
 
 ![](../../.gitbook/assets/screen-shot-2020-01-30-at-12.23.34-pm.png)
+
+{% file src="../../.gitbook/assets/fm.pd.zip" caption="FM Synth Pure Data patch" %}
 
