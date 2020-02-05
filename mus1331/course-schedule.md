@@ -72,14 +72,16 @@
         <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/audio-synthesis/synthesis-exercise.md"><b>Part 1 of Synthesizer Exercise</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Feb 3/4</td>
+      <td style="text-align:left"><a href="../lesson-plans/class06.md">Feb 3/4</a>
+      </td>
       <td style="text-align:left">Crouch</td>
       <td style="text-align:left">work on <a href="../unit-2-music/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synth Exercise</a>
       </td>
       <td style="text-align:left">nothing due</td>
     </tr>
     <tr>
-      <td style="text-align:left">Feb 5/6</td>
+      <td style="text-align:left"><a href="../lesson-plans/class07.md">Feb 5/6</a>
+      </td>
       <td style="text-align:left">Crouch</td>
       <td style="text-align:left">work on <a href="../unit-2-music/audio-synthesis/synthesis-exercise.md#part-3-during-class">Part 3 of Synth Exercise</a>
       </td>
