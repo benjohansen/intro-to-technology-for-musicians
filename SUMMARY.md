@@ -73,4 +73,6 @@
 * [Class03](lesson-plans/class03.md)
 * [Class04](lesson-plans/class04.md)
 * [Class05](lesson-plans/class05.md)
+* [Class06](lesson-plans/class06.md)
+* [Class07](lesson-plans/class07.md)
 
