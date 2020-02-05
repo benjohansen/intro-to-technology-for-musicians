@@ -91,7 +91,8 @@
     <tr>
       <td style="text-align:left"><b>Feb 10/11</b>
       </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left"><b>Crouch (seminar room)</b>
+      </td>
       <td style="text-align:left"><b>discussion/lecture on the </b><a href="../final-exam-questions.md"><b>&quot;Physics of Sound&quot; and &quot;Audio Synthesis&quot; questions from the Final Exam</b></a><b> (includes drawing a synthesizer diagram together)</b>
       </td>
       <td style="text-align:left"><b>Read </b><a href="https://docs.cycling74.com/max8/tutorials/02_mspdigitalaudio"><b>first half of this</b></a><b> in preparation for the class discussion</b>
