@@ -21,9 +21,8 @@
 
 * [Physics of Sound](unit-2-music/physics-of-sound.md)
 * [Audio Synthesis](unit-2-music/audio-synthesis/README.md)
-  * [Synthesis Exercise \(3 parts\)](unit-2-music/audio-synthesis/synthesis-exercise.md)
   * [MIDI Exercise](unit-2-music/audio-synthesis/midi-exercise.md)
-  * [Synth Diagram](unit-2-music/audio-synthesis/synth-diagram.md)
+  * [Synthesis Exercise \(3 parts\)](unit-2-music/audio-synthesis/synthesis-exercise.md)
 * [Notation Software](unit-2-music/notation-software/README.md)
   * [Introduction to Notation Software Exercise](unit-2-music/notation-software/introduction-to-notation-software-exercise.md)
   * [Dorico](unit-2-music/notation-software/dorico.md)

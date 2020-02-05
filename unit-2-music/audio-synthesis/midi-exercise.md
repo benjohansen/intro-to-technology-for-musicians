@@ -31,6 +31,12 @@
 
 ## wait to have a class discussion before moving on
 
+## message format
+
+![note on](../../.gitbook/assets/midi-note-on.png)
+
+![pitch bend](../../.gitbook/assets/midi-pitch-ben.png)
+
 ## AM Synth \(Amplitude Modulation Synthesizer\)
 
 recreate the patch below \(turn on digital signal processing \(DSP\) and play the MIDI keyboard / turn knobs\):
