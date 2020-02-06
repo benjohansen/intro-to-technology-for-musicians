@@ -37,6 +37,10 @@ To produce a video quickly that will allow for a wider range of musical possibil
 
 ## Part 3 \(during class\)
 
+{% hint style="danger" %}
+Make sure no region is selected \(if a region is selected, only that portion of the audio is exported to the video\)
+{% endhint %}
+
 1. export video + \[new\] music = **File &gt; Movie &gt; Export Audio to Movie ...**
 
    * choose a name for the video
