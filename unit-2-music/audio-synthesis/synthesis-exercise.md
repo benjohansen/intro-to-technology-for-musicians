@@ -69,7 +69,7 @@ Make sure no region is selected \(if a region is selected, only that portion of 
    * Using the HTML unordered list tag, list the synthesizers you used along with the type of synthesizer they are \(for example: ES M = subtractive synthesis\)
 5. **Add the URL to your Github Site to** [_**this Box Note**_](https://baylor.box.com/s/vw73z5p2288fj8x39of3oa6b1pxtksju)_**.**_
 
-## 
+## Clear Cache
 
 {% hint style="warning" %}
 [https://support.zendesk.com/hc/en-us/articles/219161157-Options-to-clear-cache-and-cookies](https://support.zendesk.com/hc/en-us/articles/219161157-Options-to-clear-cache-and-cookies)
