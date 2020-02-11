@@ -57,23 +57,24 @@ description: >-
     **Physics of Sound:**
 
 26. Define “psychoacoustics” and “acoustics.”
-27. **Describe all that is illustrated in a time-domain representation of a sound wave form \(use the following terms in your answer: compression, rarefaction, zero crossing, wavelength, and amplitude\).**
-28. How is a spectrogram \(frequency domain\) different than a waveform \(time domain\)?
-29. Define “transient.”
-30. What unit is used to indicate a ratio of the following?: _silence to the perceived loudness of a sound_ \[for humans\]
-31. Using the unit from the previous question to provide a range of at least 5 examples of the loudness levels of things/environments \(from nearly silent all the way to the threshold of pain for humans\)
-32. What is the frequency range of human hearing?
-33. What does the equal-loudness contour \(originally called the _Fletcher—Munson curve_\) refer to? What does this have to do with Pink Noise vs. White Noise?
-34. What are the terms aperiodic and periodic used to describe in the sound medium? What is something that produces an aperiodic waveform? What is something that produces a periodic waveform?
-35. Define complex tone \(or complex wave form\) by comparing it to a sine wave \(use the terms = timbre, harmonics, overtones, and partials\)
-36. What is Fourier transform?
-37. Describe how a sound is initially created by \*your\* instrument and all it goes through \(transductions\) for another person to perceive it in their brain \(that means you’ll have to also include how the ear works\).
+27. What does the equal-loudness contour \(originally called the _Fletcher—Munson curve_\) refer to? What does this have to do with Pink Noise vs. White Noise?
+28. What is the frequency range of human hearing?
+29. What unit is used to indicate a ratio of the following?: _silence to the perceived loudness of a sound_ \[for humans\]
+30. Using the unit from the previous question, provide at least 5 examples of the loudness levels of things/environments.
+31. **Provide a drawing that illustrates a time-domain waveform representation of a sound wave \(label the following on your drawing: compression, rarefaction, zero crossing, wavelength, and amplitude\).**
+32. Describe how a sound is initially created by \*your\* instrument and all it goes through \(transductions\) for another person to perceive it in their brain \(that means you’ll have to also include how the ear works\).
+33. How is a spectrogram \(frequency domain\) different than a waveform \(time domain\)?
+34. What is Fourier transform?
+35. Define “transient.”
+36. What are the terms aperiodic and periodic used to describe in the sound medium? What is something that produces an aperiodic waveform? What is something that produces a periodic waveform?
+37. Define complex tone \(or complex wave form\) by comparing it to a sine wave.
+38. Define the following terms = timbre, harmonics, overtones, and partials.
 
 
 
     **Audio Synthesis:**
 
-38. **Draw a diagram of a voltage-controlled \[analog\] synthesizer including signal/voltage paths \(control voltage, gate, trigger\). Include the following components:** 
+39. **Draw a diagram of a voltage-controlled \[analog\] synthesizer including signal/voltage paths \(control voltage, gate, trigger\). Include the following components:** 
     * **1V/octave keyboard controller**
     * **VCO \(oscillator\)**
     * **EG \(envelop generator with ADSR\)**
@@ -82,9 +83,8 @@ description: >-
     * **VCA \(amplifier\)**
     * **mixer**
     * **output**
-39. Describe the difference between a sampler and a synthesizer.
-40. Describe the difference between subtractive and additive synthesis.
-41. What are some other types of synthesis?
+40. Describe the difference between a sampler and a synthesizer.
+41. Describe the difference between subtractive and additive synthesis.
 42. What is a MIDI sequencer?
 
     \*\*\*\*
