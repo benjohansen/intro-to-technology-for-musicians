@@ -64,10 +64,10 @@ description: >-
 31. **Provide a drawing that illustrates a time-domain waveform representation of a sound wave \(label the following on your drawing: compression, rarefaction, zero crossing, wavelength, and amplitude\).**
 32. Describe how a sound is initially created by \*your\* instrument and all it goes through \(transductions\) for another person to perceive it in their brain \(that means you’ll have to also include how the ear works\).
 33. How is a spectrogram \(frequency domain\) different than a waveform \(time domain\)?
-34. What is Fourier transform?
-35. Define “transient.”
-36. What are the terms aperiodic and periodic used to describe in the sound medium? What is something that produces an aperiodic waveform? What is something that produces a periodic waveform?
-37. Define complex tone \(or complex wave form\) by comparing it to a sine wave.
+34. What is Fourier analysis?
+35. What are the terms aperiodic and periodic used to describe in the sound medium? What is something that produces an aperiodic waveform? What is something that produces a periodic waveform?
+36. Define complex tone \(or complex wave form\) by comparing it to a sine wave.
+37. Define "overtone" and "harmonic."
 38. Define "timbre."
 
 

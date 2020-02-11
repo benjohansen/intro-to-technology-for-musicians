@@ -3,6 +3,7 @@
 ## Resources
 
 * [How Digital Audio Works](https://docs.cycling74.com/max8/tutorials/02_mspdigitalaudio) \(MSP documentation by Cycling'74; the beginning discusses how sound works\)
+* [Overtones and Harmonics](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/otone.html)
 * [This Box folder](https://baylor.box.com/s/rrqiyvm3mj4utohgwjyccxohrg6lmmq7) contains a number of resources for students enrolled in this course.
 * [Daniel Russell's acoustics page](https://www.acs.psu.edu/drussell/Demos/waves-intro/waves-intro.html) has many great animations
 * [How the Ear Works](https://health.howstuffworks.com/mental-health/human-nature/perception/hearing.htm)
