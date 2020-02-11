@@ -68,7 +68,7 @@ description: >-
 35. Define “transient.”
 36. What are the terms aperiodic and periodic used to describe in the sound medium? What is something that produces an aperiodic waveform? What is something that produces a periodic waveform?
 37. Define complex tone \(or complex wave form\) by comparing it to a sine wave.
-38. Define the following terms = timbre, harmonics, overtones, and partials.
+38. Define "timbre."
 
 
 
