@@ -23,7 +23,7 @@ description: >-
 5. **What is a transistor, what did it replace, and why is it the most important invention of the 20th Century?**
 6. List 2 different mediums on which media and/or information has been stored in analog format and 2 different mediums on which binary \(digital\) data has been stored.
 7. Is a paper piano roll an analog or digital medium of storage?
-8. Define motherboard and explain its function.
+8. Define motherboard.
 9. Define CPU & GPU \(describe what each does\).
 10. How many cycles \(steps of instructions\) per second can a \*quad core\* 2.4 GHz processor perform? How many cycles per second can a 333 MHz processor perform?
 11. Define memory \(RAM\), explain its function, and discuss how it differs from storage.
