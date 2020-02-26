@@ -143,7 +143,8 @@
       <td style="text-align:left">Mar 2/3</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">record content for <a href="../unit-2-music/audio-recording/podcast-assignment.md#recording-process">Podcast Assignment</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Mar 4/5</td>
