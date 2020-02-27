@@ -109,7 +109,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Feb 17/18</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Crouch</td>
       <td style="text-align:left">
         <ul>
           <li>Quiz over <a href="../final-exam-questions.md">&quot;Physic of Sound&quot; and &quot;Audio Synthesis&quot; questions from Final Exam</a> (graded
@@ -121,35 +121,38 @@
     </tr>
     <tr>
       <td style="text-align:left">Feb 19/20</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Alinea</td>
       <td style="text-align:left">analog sound reinforcement (how it works)</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Feb 24/25</b>
       </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left">hand-on lab with analog sound reinforcement (mic+speaker; mic+guitar+phone
-        through utility mixer to speaker; use large analog mixer)</td>
+      <td style="text-align:left"><b>Alinea</b>
+      </td>
+      <td style="text-align:left"><b>hand-on lab with analog sound reinforcement (mic+speaker; mic+guitar+phone through utility mixer to speaker; use large analog mixer)</b>
+      </td>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Feb 26/27</b>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">begin digital audio (how it works)</td>
+      <td style="text-align:left"><b>Alinea</b>
+      </td>
+      <td style="text-align:left"><b>begin digital audio (how it works)</b>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Mar 2/3</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Crouch</td>
       <td style="text-align:left">mix podcast assignment in Logic (during class)</td>
       <td style="text-align:left">record content for <a href="../unit-2-music/audio-recording/podcast-assignment.md#recording-process">Podcast Assignment</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Mar 4/5</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Crouch</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
