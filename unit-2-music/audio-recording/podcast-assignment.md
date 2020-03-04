@@ -64,7 +64,7 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
   3. Loudness Meter \(drag yellow line to -14\)
 * press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
 
-  * "Integrated" on the Loudness Meter should be less than -16dB \(raise or lower the gain plugin accordingly and analyze again\)
+  * "Integrated" on the Loudness Meter should be less than -14dB \(raise or lower the gain plugin accordingly and analyze again\)
   * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
 
 6. export as a compressed \(lossy\) audio format \(AAC is better sounding compression than MP3\)
