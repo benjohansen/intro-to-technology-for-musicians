@@ -96,6 +96,8 @@ Also, checkout Sweetwater's article "[What is LUFS, and Why Should I Care?](http
 
 Finally, watch the following videos to understand Logic's loudness meters - [Part 1](https://youtu.be/A52ZNmk0S4g), [Part 2](https://youtu.be/lcTk6BK-fYc), [Part3](https://youtu.be/hGMLLalZPo0).
 
+![&quot;Both of these songs have the same apparent loudness&quot; \(pic from &quot;Current Trends in Mastering,&quot; ref above\)](../../.gitbook/assets/image.png)
+
 
 
 
