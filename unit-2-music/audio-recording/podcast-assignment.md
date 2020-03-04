@@ -81,6 +81,8 @@ Aim for -14LUFS \(integrated\) and -1TP to prepare your tracks for streaming ser
 
 Checkout the article "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)" for more details.
 
+![](../../.gitbook/assets/image.png) 
+
 > LUFS stands for Loudness Units Full Scale, and is a way of measuring the overall volume of a song in a way that’s much closer to the way the human ear detects volume changes.
 
 > TP in this case stands for True Peak, and is used to measure the actual peak loudness of the file when played back in the analog realm \(ie, a speaker\).
@@ -96,9 +98,7 @@ Also, checkout Sweetwater's article "[What is LUFS, and Why Should I Care?](http
 
 Finally, watch the following videos to understand Logic's loudness meters - [Part 1](https://youtu.be/A52ZNmk0S4g), [Part 2](https://youtu.be/lcTk6BK-fYc), [Part3](https://youtu.be/hGMLLalZPo0).
 
-![&quot;Both of these songs have the same apparent loudness&quot; \(pic from &quot;Current Trends in Mastering,&quot; ref above\)](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
-
-
-
+"_Both of these songs have the same apparent loudness, but the second track has been turned down considerably to make this happen."_ \(pic above and quote from "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)"\)
 
