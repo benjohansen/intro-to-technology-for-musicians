@@ -70,29 +70,31 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
      * Normalize: Off
   2. rename your file your name and [**upload it here**](https://baylor.app.box.com/upload-widget/view/w031wuulcloqijaa46nxcaxi9h6qysb2/105726715968).
 
+## Loudness
+
+{% hint style="success" %}
+**Aim for -14LUFS \(integrated\) and -1TP** to prepare your tracks for streaming services \(Youtube = -13LUFS, Spotify = -14LUFS, iTunes = -16LUFS, etc.\)
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%281%29.png)
+
+"_Both of these songs have the same apparent loudness, but the second track has been turned down considerably to make this happen."_ \(pic above and quote from "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)"\)
+
 {% hint style="info" %}
-### Loudness
+### Loudness Resources
 
-Aim for -14LUFS \(integrated\) and -1TP to prepare your tracks for streaming services \(Youtube = -13LUFS, Spotify = -14LUFS, iTunes = -16LUFS, etc.\)
-
-Checkout the article "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)" for more details.
+"[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)"
 
 > LUFS stands for Loudness Units Full Scale, and is a way of measuring the overall volume of a song in a way that’s much closer to the way the human ear detects volume changes.
 
 > TP in this case stands for True Peak, and is used to measure the actual peak loudness of the file when played back in the analog realm \(ie, a speaker\).
 
-Also, checkout the article "[The End of Loudness War?](https://www.soundonsound.com/techniques/end-loudness-war)"
+"[The End of Loudness War?](https://www.soundonsound.com/techniques/end-loudness-war)"
 
 > Instead, loudness normalisation positively encourages the use of dynamics and transients. Tracks are made punchy by being dynamic rather than just loud, and compression and limiting become musical effects rather than essential competitive processing. Headroom is restored, inter-sample clipping is banished, and the digital environment finally achieves the sonic quality and dynamic range of which it is capable.
 
-Also, checkout Sweetwater's article "[What is LUFS, and Why Should I Care?](https://www.sweetwater.com/insync/what-is-lufs-and-why-should-i-care/)"
+"[What is LUFS, and Why Should I Care?](https://www.sweetwater.com/insync/what-is-lufs-and-why-should-i-care/)" \(Sweetwater article\)
 
 > In theory, two pieces of music that register identical LUFS readings should sound like they’re at the same level, and in practice, they do indeed sound like they’re at the same level, regardless of whatever the peak or RMS readings say. So we have an immediate, practical benefit — if you’re mastering and want consistent levels among tracks, check their LUFS readings.
 {% endhint %}
-
-
-
-![](../../.gitbook/assets/image%20%281%29.png)
-
-"_Both of these songs have the same apparent loudness, but the second track has been turned down considerably to make this happen."_ \(pic above and quote from "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)"\)
 
