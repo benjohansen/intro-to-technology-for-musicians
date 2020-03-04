@@ -56,23 +56,19 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 
 ### We will do the following during class together:
 
-5. apply the proper loudness level conversion for streaming audio online
-
-* Add the following Audio FX \(plugins\) to the "stereo out" track in the order given:
-  1. gain plugin
-  2. Level Meter \(select True Peak and drag yellow line to -1\)
-  3. Loudness Meter \(drag yellow line to -14\)
-* press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
-
-  * "Integrated" on the Loudness Meter should be less than -14dB \(raise or lower the gain plugin accordingly and analyze again\)
-  * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
-
-6. export as a compressed \(lossy\) audio format \(AAC is better sounding compression than MP3\)
-
-* File &gt; Bounce &gt; Project or Section ...
-  * MP4: ACC
-  * Normalize: Off
-* rename your file your name and [**upload it here**](https://baylor.box.com/s/djir4jpn84u2pffszts477tmbwp3fcws).
+* **Apply the proper loudness level conversion** for streaming audio online
+  1. Add the following Audio FX \(plugins\) to the "stereo out" track in the order given \(top down\):
+     * gain plugin
+     * Level Meter \(select True Peak and drag yellow line to -1\)
+     * Loudness Meter \(drag yellow line to -14\)
+  2. press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
+     * "Integrated" on the Loudness Meter should be less than -14dB \(raise or lower the gain plugin accordingly and analyze again\)
+     * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
+* **Export** as a compressed \(lossy\) audio format \(AAC is better sounding compression than MP3\)
+  1. File &gt; Bounce &gt; Project or Section ...
+     * MP4: ACC
+     * Normalize: Off
+  2. rename your file your name and [**upload it here**](https://baylor.app.box.com/upload-widget/view/w031wuulcloqijaa46nxcaxi9h6qysb2/105726715968).
 
 {% hint style="info" %}
 ### Loudness
@@ -80,8 +76,6 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 Aim for -14LUFS \(integrated\) and -1TP to prepare your tracks for streaming services \(Youtube = -13LUFS, Spotify = -14LUFS, iTunes = -16LUFS, etc.\)
 
 Checkout the article "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)" for more details.
-
-![](../../.gitbook/assets/image.png) 
 
 > LUFS stands for Loudness Units Full Scale, and is a way of measuring the overall volume of a song in a way that’s much closer to the way the human ear detects volume changes.
 
@@ -96,7 +90,7 @@ Also, checkout Sweetwater's article "[What is LUFS, and Why Should I Care?](http
 > In theory, two pieces of music that register identical LUFS readings should sound like they’re at the same level, and in practice, they do indeed sound like they’re at the same level, regardless of whatever the peak or RMS readings say. So we have an immediate, practical benefit — if you’re mastering and want consistent levels among tracks, check their LUFS readings.
 {% endhint %}
 
-Finally, watch the following videos to understand Logic's loudness meters - [Part 1](https://youtu.be/A52ZNmk0S4g), [Part 2](https://youtu.be/lcTk6BK-fYc), [Part3](https://youtu.be/hGMLLalZPo0).
+
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
