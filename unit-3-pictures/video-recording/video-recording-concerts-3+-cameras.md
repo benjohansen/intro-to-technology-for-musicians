@@ -48,7 +48,7 @@ Don’t put all your eggs in one basket: use more than one camera!
 * avoid placing your frame edge on one of the body’s joints
 * avoid too much headroom \(or person looks to be sinking\)
 * avoid too little headroom \(or focus will be on the person’s chin and neck\)
-* use a variety of [**Shot types**](https://www.bhphotovideo.com/explora/video/tips-and-solutions/filmmaking-101-camera-shot-types) \(hold a shot for at least 10 seconds\)
+* use a variety of [**Shot types**](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/) \(hold a shot for at least 10 seconds\)
   * extreme long shot \(XLS\) = establishing shot - context for shots to follow
   * long shot \(LS\) = person from head to feet
   * medium shot \(MS\) = person from about waist up
