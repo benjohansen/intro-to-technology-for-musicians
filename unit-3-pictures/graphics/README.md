@@ -4,5 +4,7 @@
 
 {% embed url="https://www.scantips.com/no72dpi.html" %}
 
+{% embed url="https://www.cia.edu/blog/2017/08/the-difference-between-adobe-photoshop-and-adobe-illustrator" %}
+
 
 
