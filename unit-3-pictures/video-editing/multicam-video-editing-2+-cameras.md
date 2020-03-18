@@ -1,9 +1,5 @@
 # Multicam Video Editing \(2+ Cameras\)
 
-{% hint style="danger" %}
-GarageBand only functions in 44.1kHz sample rate; audio for video is usually recorded at 48kHz.
-{% endhint %}
-
 ## **DaVinci Resolve** \(free, BlackMagicDesign\)
 
 tutorial = [https://youtu.be/S2yxFcm-te8?t=43s](https://youtu.be/S2yxFcm-te8?t=43s) 
@@ -35,5 +31,9 @@ To expand multicam clip to edit cameras/audio individually \(to color grade or a
 
 * right click on multicam clip in timeline, select “Open in Timeline”
 * to exit expanded view: double click timeline name in bottom left \(e.g. Timeline &lt; Multicam\)
+{% endhint %}
+
+{% hint style="danger" %}
+GarageBand only functions in 44.1kHz sample rate; audio for video is usually recorded at 48kHz.
 {% endhint %}
 
