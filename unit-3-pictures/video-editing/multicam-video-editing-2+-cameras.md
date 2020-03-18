@@ -1,12 +1,6 @@
 # Multicam Video Editing \(2+ Cameras\)
 
-## **DaVinci Resolve** \(free, BlackMagicDesign\)
-
-tutorial = [https://youtu.be/S2yxFcm-te8?t=43s](https://youtu.be/S2yxFcm-te8?t=43s) 
-
-sync audio = [https://www.youtube.com/watch?time\_continue=202&v=wUlxpk67Qaw](https://www.youtube.com/watch?time_continue=202&v=wUlxpk67Qaw)
-
-demo files \(Baylor students only\) = [https://baylor.box.com/s/peq6pt10si0jj6zlh1im32y2mq95n2mk](https://baylor.box.com/s/peq6pt10si0jj6zlh1im32y2mq95n2mk)
+## \*\*\*\*[**DaVinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve/) \(free, BlackMagicDesign\)
 
 {% hint style="info" %}
 Better performance while editing = Playback &gt; Proxy Mode &gt; Half \(or Quarter\) Resolution
@@ -24,7 +18,7 @@ Better performance while editing = Playback &gt; Proxy Mode &gt; Half \(or Quart
 8. choose ![](../../.gitbook/assets/video-41.png) hold Option \(Mac\) or Alt \(PC\) and click the first video angle \(the video angle will now have a blue box and the audio "angle" will have a green box\) 
 9. to “direct” = press play and choose camera with the mouse or number keys \(don't ever choose the audio "angle" ... and note, you will leave ![](../../.gitbook/assets/video-41.png) on\) ... you don't need to use the option key any more!
 10. adjust when a camera change occurs: in Selection Mode ![](../../.gitbook/assets/pinclipart-74.png) hover between two clips until you see the Roll Edit cursor ![](../../.gitbook/assets/roll-edit-cursor-72.png) click and drag left or right
-11. When you are done: Deliver tab at bottom \(use MPEG-4 as container, H.264 as compression\)
+11. When you are done: Deliver tab at bottom \(use MPEG-4 as container, H.264 as compression, AAC for audio\)
 
 {% hint style="info" %}
 To expand multicam clip to edit cameras/audio individually \(to color grade or adjust sync\):
@@ -32,6 +26,10 @@ To expand multicam clip to edit cameras/audio individually \(to color grade or a
 * right click on multicam clip in timeline, select “Open in Timeline”
 * to exit expanded view: double click timeline name in bottom left \(e.g. Timeline &lt; Multicam\)
 {% endhint %}
+
+* tutorial = [https://youtu.be/S2yxFcm-te8?t=43s](https://youtu.be/S2yxFcm-te8?t=43s) 
+* sync audio = [https://www.youtube.com/watch?time\_continue=202&v=wUlxpk67Qaw](https://www.youtube.com/watch?time_continue=202&v=wUlxpk67Qaw)
+* demo files \(Baylor students only\) = [https://baylor.box.com/s/peq6pt10si0jj6zlh1im32y2mq95n2mk](https://baylor.box.com/s/peq6pt10si0jj6zlh1im32y2mq95n2mk)
 
 {% hint style="danger" %}
 GarageBand only functions in 44.1kHz sample rate; audio for video is usually recorded at 48kHz.

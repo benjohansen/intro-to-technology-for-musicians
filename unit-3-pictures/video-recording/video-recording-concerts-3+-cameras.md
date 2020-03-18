@@ -10,13 +10,10 @@
 * ⏱**hold a shot for at least 10 seconds**
 * don’t shoot like spraying a garden hose = zoom/pan only _between_ shots
 
-#### **Editing software Suggestions**
+#### **Editing Software Suggestions**
 
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) by BlackMagicDesign \(free \) - [training for DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/training)
 * Adobe Premiere \($$\) - [video tutorials for Adobe Premiere](https://helpx.adobe.com/in/premiere-pro/tutorials.html)
-* DaVinci Resolve \(free - BlackMagicDesign\) - [training for DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/training)
-* after editing, use MPEG-4 as your video container \(see what YouTube, etc. suggest\)
-  * audio = AAC
-  * video = H.264
 
 ## Recording the Concert
 
