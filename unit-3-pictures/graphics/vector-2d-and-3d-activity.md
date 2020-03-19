@@ -1,5 +1,11 @@
 # Vector \(2D & 3D\) Activity
 
+## Adobe Creative Cloud
+
+{% embed url="https://creativecloud.adobe.com" %}
+
+login using Baylor Email ... then you'll be redirected to the DUO login you are used to seeing
+
 ## 2D Vector
 
 * Open Adobe Illustrator
