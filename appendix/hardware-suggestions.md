@@ -10,12 +10,13 @@ description: >-
 ## Audio Interfaces:
 
 * best bang for the buck = [Focusrite](https://focusrite.com/) interfaces
+  * I suggest getting 
 * best professional, "future proof" = [Metric Halo](https://mhsecure.com/) interfaces
 
 ## Portable Audio Recorders:
 
 * best bang for the buck = [Zoom](https://www.zoom-na.com/) H series audio recorders
-  * as of 2019: stick with series numbers 4 and above \(H4n, H5, H6\); the H1 is not good
+  * as of 2019: stick with series numbers 2 and above \(H2n, H4n, H5, H6\); the H1 is not good
 * professional, still affordable, hardware limiters, and blows Zoom recorders out of the water = [Sound Devices](https://www.sounddevices.com/) MixPre series
 
 ## Microphones:
