@@ -42,4 +42,5 @@ I suggest you begin with Wordpress.com
 here are the files to download for the class tutorial:
 
 * [https://baylor.box.com/s/tp1m07wopfjc05gilp9421ikapg6q2h2](https://baylor.box.com/s/tp1m07wopfjc05gilp9421ikapg6q2h2)
+* convert pdf to png = use Preview \(only on a Mac\) or Adobe Acrobat Pro or  [https://www.freepdfconvert.com/pdf-to-png](https://www.freepdfconvert.com/pdf-to-png)
 
