@@ -35,3 +35,11 @@ I suggest you begin with Wordpress.com
 * github hello world = [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 * [https://github.com/codepath/ios\_guides/wiki/Using-Git-with-Terminal](https://github.com/codepath/ios_guides/wiki/Using-Git-with-Terminal)\*\*\*\*
 
+## Score Follower \(creating a video of a score with music\)
+
+{% embed url="https://www.youtube.com/playlist?list=PL7p7IHDRaGu7ZRqg4w\_zs2EZY1-t9jnp-" %}
+
+here are the files to download for the class tutorial:
+
+* [https://baylor.box.com/s/tp1m07wopfjc05gilp9421ikapg6q2h2](https://baylor.box.com/s/tp1m07wopfjc05gilp9421ikapg6q2h2)
+
