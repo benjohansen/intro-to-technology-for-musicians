@@ -291,7 +291,9 @@
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
     </tr>
   </tbody>
-</table>## Exam Review Session:
+</table>
+
+## Exam Review Session:
 
 * TBD
 

@@ -52,6 +52,8 @@
 
 ## Final Exam
 
+---
+
 * [MUS1331 Final Exam Questions](final-exam-questions.md)
 
 ## Appendix
@@ -60,6 +62,8 @@
 * [Hardware Suggestions](appendix/hardware-suggestions.md)
 
 ## Under Construction
+
+---
 
 * [Email Etiquette](email-etiquette.md)
 * [iPad](ipad.md)

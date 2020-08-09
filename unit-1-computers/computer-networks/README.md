@@ -43,4 +43,11 @@ here are the files to download for the class tutorial:
 
 * [https://baylor.box.com/s/tp1m07wopfjc05gilp9421ikapg6q2h2](https://baylor.box.com/s/tp1m07wopfjc05gilp9421ikapg6q2h2)
 * convert pdf to png = use Preview \(only on a Mac\) or Adobe Acrobat Pro or  [https://www.freepdfconvert.com/pdf-to-png](https://www.freepdfconvert.com/pdf-to-png)
+* we'll be using [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) to do this tutorial
+
+## Reloading page \(and empty cache\)
+
+* Chrome:
+  * View &gt; Developer &gt; Developer Tools
+  * right click on the reload button and a menu will drop down
 
