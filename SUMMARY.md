@@ -19,10 +19,10 @@
 
 ## Unit 2: Music
 
-* [Physics of Sound](unit-2-music/physics-of-sound.md)
-* [Audio Synthesis](unit-2-music/audio-synthesis/README.md)
-  * [MIDI Exercise](unit-2-music/audio-synthesis/midi-exercise.md)
-  * [Synthesis Exercise \(3 parts\)](unit-2-music/audio-synthesis/synthesis-exercise.md)
+* [Physics of Sound](unit-2-music/physics-of-sound/README.md)
+  * [Audio Synthesis](unit-2-music/physics-of-sound/audio-synthesis/README.md)
+    * [MIDI Exercise](unit-2-music/physics-of-sound/audio-synthesis/midi-exercise.md)
+    * [Synthesis Exercise \(3 parts\)](unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md)
 * [Notation Software](unit-2-music/notation-software/README.md)
   * [Introduction to Notation Software Exercise](unit-2-music/notation-software/introduction-to-notation-software-exercise.md)
   * [Dorico](unit-2-music/notation-software/dorico.md)

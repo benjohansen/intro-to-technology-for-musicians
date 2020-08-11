@@ -52,7 +52,7 @@
       <td
       style="text-align:left"><b>Crouch</b>
         </td>
-        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/audio-synthesis/"><b>Audio Synthesis</b></a>&lt;b&gt;&lt;/b&gt;</td>
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/physics-of-sound/audio-synthesis/"><b>Audio Synthesis</b></a>&lt;b&gt;&lt;/b&gt;</td>
         <td
         style="text-align:left">
           <p>&lt;b&gt;&lt;/b&gt;</p>
@@ -65,17 +65,17 @@
       <td
       style="text-align:left"><b>Crouch</b>
         </td>
-        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/audio-synthesis/midi-exercise.md"><b>MIDI Exercise</b></a><b> + </b>
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/physics-of-sound/audio-synthesis/midi-exercise.md"><b>MIDI Exercise</b></a><b> + </b>
           <a
-          href="../unit-2-music/audio-synthesis/"><b>Audio Synthesis</b>
+          href="../unit-2-music/physics-of-sound/audio-synthesis/"><b>Audio Synthesis</b>
             </a>&lt;b&gt;&lt;/b&gt;</td>
-        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/audio-synthesis/synthesis-exercise.md"><b>Part 1 of Synthesizer Exercise</b></a>&lt;b&gt;&lt;/b&gt;</td>
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md"><b>Part 1 of Synthesizer Exercise</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="../lesson-plans/class06.md">Feb 3/4</a>
       </td>
       <td style="text-align:left">Crouch</td>
-      <td style="text-align:left">work on <a href="../unit-2-music/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synth Exercise</a>
+      <td style="text-align:left">work on <a href="../unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synth Exercise</a>
       </td>
       <td style="text-align:left">nothing due</td>
     </tr>
@@ -83,9 +83,9 @@
       <td style="text-align:left"><a href="../lesson-plans/class07.md">Feb 5/6</a>
       </td>
       <td style="text-align:left">Crouch</td>
-      <td style="text-align:left">work on <a href="../unit-2-music/audio-synthesis/synthesis-exercise.md#part-3-during-class">Part 3 of Synth Exercise</a>
+      <td style="text-align:left">work on <a href="../unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md#part-3-during-class">Part 3 of Synth Exercise</a>
       </td>
-      <td style="text-align:left"><a href="../unit-2-music/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synthesizer Exercise</a>
+      <td style="text-align:left"><a href="../unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synthesizer Exercise</a>
       </td>
     </tr>
     <tr>

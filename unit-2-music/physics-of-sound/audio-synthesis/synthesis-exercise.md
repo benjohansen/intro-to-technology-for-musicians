@@ -48,7 +48,7 @@ Make sure no region is selected \(if a region is selected, only that portion of 
    * click "save"
    * uncheck the box under "Enabled" next the track on the following popup and click "Save" \(if you left a check in that box, it would export the original audio to the video as well\)
 
-   ![](../../.gitbook/assets/screen-shot-2020-01-27-at-12.18.23-pm.png) 
+   ![](../../../.gitbook/assets/screen-shot-2020-01-27-at-12.18.23-pm.png) 
 
 2. post to Youtube publicly \(if the video is private, it will not embed in your GitHub site\)
 3. Embed the video in your GitHub site
