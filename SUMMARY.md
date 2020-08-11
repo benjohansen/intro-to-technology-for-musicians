@@ -37,7 +37,7 @@
 
 ## Unit 3: Pictures
 
-* [Copyright & Licensing](unit-3-pictures/copyright-and-licensing/README.md)
+* [Music Rights \(Copyright & Licensing\)](unit-3-pictures/copyright-and-licensing/README.md)
   * [Copyright & Licensing Resources](unit-3-pictures/copyright-and-licensing/resources.md)
 * [Graphics](unit-3-pictures/graphics/README.md)
   * [Vector \(2D & 3D\) Activity](unit-3-pictures/graphics/vector-2d-and-3d-activity.md)
