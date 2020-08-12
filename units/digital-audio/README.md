@@ -1,4 +1,4 @@
-# Digital Audio \(How it Works\)
+# Digital Audio
 
 What is a sample? = [https://www.sweetwater.com/insync/sample/](https://www.sweetwater.com/insync/sample/)
 
