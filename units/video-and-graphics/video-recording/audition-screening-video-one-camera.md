@@ -27,7 +27,7 @@ coming soon
 2. drag the video and audio files into the project folder \(“Import media here to start”\)
    * if using AVCHD: you must right click and “import” using the Media Browser
 3. double click the audio file; in the window that is showing the audio waveform
-   * click the wrench and select “Show Audio Time Units” ![](../../.gitbook/assets/asdf-55.png)
+   * click the wrench and select “Show Audio Time Units” ![](../../../.gitbook/assets/asdf-55.png)
    * put playhead on first clap and press “m”
 4. double click the video file; in the window that is displaying the video - click the waveform button to show the video’s audio waveform; put playhead on first clap and press “m”
 5. **choose the Editing tab at the top of the screen**

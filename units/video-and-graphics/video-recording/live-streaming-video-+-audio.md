@@ -1,6 +1,6 @@
 # Live Streaming Video \(+ Audio\)
 
-![](../../.gitbook/assets/screen-shot-2019-11-14-at-3.52.05-pm.png)
+![](../../../.gitbook/assets/screen-shot-2019-11-14-at-3.52.05-pm.png)
 
 * Get a license to broadcast!
 * Get performers’ permission to stream their performance!
