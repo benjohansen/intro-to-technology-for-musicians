@@ -15,7 +15,7 @@ description: intro to Logic
 
 What is MIDI?
 
-### [**MIDI Exercise**](../unit-2-music/physics-of-sound/audio-synthesis/midi-exercise.md)\*\*\*\*
+### [**MIDI Exercise**](../units/analog-audio/audio-synthesis/midi-exercise.md)\*\*\*\*
 {% endhint %}
 
 * **start with ES E \(virtual instrument\)**

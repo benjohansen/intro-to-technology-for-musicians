@@ -1,6 +1,6 @@
 # Audio Recording
 
-![](../../.gitbook/assets/screen-shot-2019-10-28-at-2.46.08-pm.png)
+![](../../../.gitbook/assets/screen-shot-2019-10-28-at-2.46.08-pm.png)
 
 ## **Mic Placement** \(requires experimentation and adjustment\)
 

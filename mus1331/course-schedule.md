@@ -26,7 +26,7 @@
         <td style="text-align:left"></td>
         <td style="text-align:left">
           <ul>
-            <li><a href="../unit-2-music/audio-recording/audio-recording-assignment.md"><b>Audio Recording Assignment</b></a>&lt;b&gt;&lt;/b&gt;</li>
+            <li><a href="../units/digital-audio/audio-recording/audio-recording-assignment.md"><b>Audio Recording Assignment</b></a>&lt;b&gt;&lt;/b&gt;</li>
             <li><b>watch </b><a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-"><b>How Computers Work</b></a><b> (27min)</b>
             </li>
           </ul>
@@ -42,9 +42,9 @@
       <td style="text-align:left"><a href="../lesson-plans/class03.md">Jan 22/23</a>
       </td>
       <td style="text-align:left">Crouch</td>
-      <td style="text-align:left"><a href="../unit-1-computers/computer-software/hour-of-code.md">Hour of Code</a>
+      <td style="text-align:left"><a href="../units/computer-software/hour-of-code.md">Hour of Code</a>
       </td>
-      <td style="text-align:left"><a href="../unit-1-computers/computer-networks/create-a-website.md">Create a Website (add audio and Scratch)</a>
+      <td style="text-align:left"><a href="../units/computer-networks/create-a-website.md">Create a Website (add audio and Scratch)</a>
       </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@
       <td
       style="text-align:left"><b>Crouch</b>
         </td>
-        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/physics-of-sound/audio-synthesis/"><b>Audio Synthesis</b></a>&lt;b&gt;&lt;/b&gt;</td>
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../units/analog-audio/audio-synthesis/"><b>Audio Synthesis</b></a>&lt;b&gt;&lt;/b&gt;</td>
         <td
         style="text-align:left">
           <p>&lt;b&gt;&lt;/b&gt;</p>
@@ -65,17 +65,17 @@
       <td
       style="text-align:left"><b>Crouch</b>
         </td>
-        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/physics-of-sound/audio-synthesis/midi-exercise.md"><b>MIDI Exercise</b></a><b> + </b>
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../units/analog-audio/audio-synthesis/midi-exercise.md"><b>MIDI Exercise</b></a><b> + </b>
           <a
-          href="../unit-2-music/physics-of-sound/audio-synthesis/"><b>Audio Synthesis</b>
+          href="../units/analog-audio/audio-synthesis/"><b>Audio Synthesis</b>
             </a>&lt;b&gt;&lt;/b&gt;</td>
-        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md"><b>Part 1 of Synthesizer Exercise</b></a>&lt;b&gt;&lt;/b&gt;</td>
+        <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../units/analog-audio/audio-synthesis/synthesis-exercise.md"><b>Part 1 of Synthesizer Exercise</b></a>&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="../lesson-plans/class06.md">Feb 3/4</a>
       </td>
       <td style="text-align:left">Crouch</td>
-      <td style="text-align:left">work on <a href="../unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synth Exercise</a>
+      <td style="text-align:left">work on <a href="../units/analog-audio/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synth Exercise</a>
       </td>
       <td style="text-align:left">nothing due</td>
     </tr>
@@ -83,9 +83,9 @@
       <td style="text-align:left"><a href="../lesson-plans/class07.md">Feb 5/6</a>
       </td>
       <td style="text-align:left">Crouch</td>
-      <td style="text-align:left">work on <a href="../unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md#part-3-during-class">Part 3 of Synth Exercise</a>
+      <td style="text-align:left">work on <a href="../units/analog-audio/audio-synthesis/synthesis-exercise.md#part-3-during-class">Part 3 of Synth Exercise</a>
       </td>
-      <td style="text-align:left"><a href="../unit-2-music/physics-of-sound/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synthesizer Exercise</a>
+      <td style="text-align:left"><a href="../units/analog-audio/audio-synthesis/synthesis-exercise.md#part-2">Part 2 of Synthesizer Exercise</a>
       </td>
     </tr>
     <tr>
@@ -147,7 +147,7 @@
       <td style="text-align:left">Mar 2/3</td>
       <td style="text-align:left">Crouch</td>
       <td style="text-align:left">mix podcast assignment in Logic (during class)</td>
-      <td style="text-align:left">record content for <a href="../unit-2-music/audio-recording/podcast-assignment.md#recording-process">Podcast Assignment</a>
+      <td style="text-align:left">record content for <a href="../units/digital-audio/audio-recording/podcast-assignment.md#recording-process">Podcast Assignment</a>
       </td>
     </tr>
     <tr>
