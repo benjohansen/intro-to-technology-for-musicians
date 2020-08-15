@@ -1,19 +1,4 @@
-# 3. Networks
-
-Great Resource: [How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) \(40min worth of videos\) and [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu/current2/html/intro.html) \(textbook\)
-
-1. **In what type of format is everything \(text, photos, videos, etc.\) encoded to transfer them between connections of the internet \(regardless the medium\)? How does that physically travel down a metal wire? How does that physically travel down a fiberoptic \(glass\) wire?**
-2. Define bandwidth. How is the size of bandwidth described?
-3. Define packets \[of information\] - what is included in a packet? \(hint: use mail as an analogy\) Discuss the importance of TCP.
-4. What are modems and routers?
-   * [difference between modems and router](https://www.lifewire.com/difference-between-modem-and-router-4159854)
-5. Discuss the difference between IP and MAC addresses. \(include the term “DNS” in your answer\).
-6. Describe the difference between HTML, CSS, and Javascript.
-   * [HTML vs CSS vs JavaScript:](https://blog.hubspot.com/marketing/web-design-html-css-javascript)
-     * **HTML** provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript.
-     * **CSS** is used to control presentation, formatting, and layout.
-     * **JavaScript** is used to control the behavior of different elements.
-     * [https://jsfiddle.net/isoundart/a7m9v1bz/](https://jsfiddle.net/isoundart/a7m9v1bz/)
+# Assignment \(networks\)
 
 ## Create a Github "Webpage"
 
@@ -28,7 +13,7 @@ Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ o
 1. create a GitHub account = [https://github.com/join](https://github.com/join)
 2. create a new repository
 
-   ![](../.gitbook/assets/screen-shot-2020-01-15-at-3.48.52-pm.png) 
+   ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.48.52-pm.png) 
 
    > \*\*\*\*
    >
@@ -38,11 +23,11 @@ Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ o
 
 3. create a new file
 
-   ![](../.gitbook/assets/screen-shot-2020-01-15-at-3.50.28-pm.png) 
+   ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.50.28-pm.png) 
 
 4. name new file "index.html," add the code below, and "commit new file"
 
-   ![](../.gitbook/assets/index.png) 
+   ![](../../.gitbook/assets/index.png) 
 
    ```text
    <!DOCTYPE html>
@@ -61,22 +46,22 @@ Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ o
 5. make site published using GitHub Pages
    * click on your repository "Settings" tab
 
-     ![](../.gitbook/assets/screen-shot-2020-01-15-at-3.52.11-pm.png) 
+     ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.52.11-pm.png) 
 
    * change the "Source" to "master branch"
 
-     ![](../.gitbook/assets/screen-shot-2020-01-15-at-3.52.24-pm.png) 
+     ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.52.24-pm.png) 
 
    * now your URL is displayed
 
-     ![](../.gitbook/assets/screen-shot-2020-01-15-at-3.53.04-pm.png) 
+     ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.53.04-pm.png) 
 6. upload mp3 to repository
 
-   ![](../.gitbook/assets/screen-shot-2020-01-15-at-4.02.24-pm.png) 
+   ![](../../.gitbook/assets/screen-shot-2020-01-15-at-4.02.24-pm.png) 
 
 7. click edit on your index.html file
 
-   ![](../.gitbook/assets/screen-shot-2020-01-15-at-3.53.31-pm%20%281%29.png) 
+   ![](../../.gitbook/assets/screen-shot-2020-01-15-at-3.53.31-pm%20%281%29.png) 
 
 8. insert the &lt;audio&gt; tag code to your index.html \(including &lt;div&gt; tags\) somewhere in the &lt;body&gt; of your page and commit changes \(Note: my mp3 file was named accordion.mp3 ... so edit the code to show your mp3 file's name\)
 
@@ -104,7 +89,7 @@ Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ o
    3. Complete another tutorial of your choice.
    4. Create something to embed \(it can be from the tutorial you did or something brand new\)
    5. Click "Share"
-   6. click on "copy link" to bring up the embed code ![](../.gitbook/assets/screen-shot-2020-01-15-at-12.14.17-pm.png) 
+   6. click on "copy link" to bring up the embed code ![](../../.gitbook/assets/screen-shot-2020-01-15-at-12.14.17-pm.png) 
    7. add Scratch iframe to your index.html in GitHub and commit the changes
 
       ```
@@ -180,7 +165,7 @@ Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ o
 * embed video = [https://github.com/etianen/html5media/wiki/embedding-video](https://github.com/etianen/html5media/wiki/embedding-video)
 * working with directories \(folders\)
 
-![](../.gitbook/assets/9ifmj.gif)
+![](../../.gitbook/assets/9ifmj.gif)
 
 [https://stackoverflow.com/questions/18773598/creating-folders-inside-a-github-repository-without-using-git](https://stackoverflow.com/questions/18773598/creating-folders-inside-a-github-repository-without-using-git)
 
@@ -189,6 +174,4 @@ Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ o
 * Chrome:
   * View &gt; Developer &gt; Developer Tools
   * right click on the reload button and a menu will drop down
-
-
 
