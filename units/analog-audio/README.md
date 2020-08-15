@@ -26,15 +26,21 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
    * Define complex tone \(or complex wave form\) by comparing it to a sine wave.
    * Define "overtone" and "harmonic." - [Overtones and Harmonics](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/otone.html)
    * Define "timbre."
-6. **Draw a diagram of a voltage-controlled \[analog\] synthesizer including signal/voltage paths \(control voltage, gate, trigger\). Include the following components:** 
-   * **1V/octave keyboard controller**
-   * **VCO \(oscillator\)**
-   * **EG \(envelop generator with ADSR\)**
-   * **VCF \(filter\)**
-   * **LFO \(modulation for tremolo and vibrato\)**
-   * **VCA \(amplifier\)**
-   * **mixer**
-   * **output**
+6. **Draw a diagram of a voltage-controlled \[analog\] synthesizer including signal/voltage paths \(control voltage, gate, trigger\).**
+   * **Include the following components:** 
+     * **1V/octave keyboard controller**
+     * **VCO \(oscillator\)**
+     * **EG \(envelop generator with ADSR\)**
+     * **VCF \(filter\)**
+     * **LFO \(modulation for tremolo and vibrato\)**
+     * **VCA \(amplifier\)**
+     * **mixer**
+     * **output**
+   * [Analog Synth 101](http://musicfromouterspace.com/analogsynth_new/ELECTRONICS/analogsynth101.html) \(diagram\)
+   * \*\*\*\*[**Hans & Clint \| Masters At Work**](https://www.youtube.com/watch?v=NdG5dEfAcxQ)
+   * [**Synthesizer Basics \(Berkley\)**](https://www.youtube.com/watch?v=c3udLCvoCC0)\*\*\*\*
+   * \*\*\*\*[**Learning Synths \(Ableton interactive learning\)**](https://learningsynths.ableton.com/)\*\*\*\*
+   * \*\*\*\*[**Online Virtual Analog Synth**](https://webaudiodemos.appspot.com/midi-synth/index.html)\*\*\*\*
 7. What is proper gain staging \(or proper gain structure\) for live sound? Explain what each part of the system does including pan, EQ \(shapes tone\) and auxiliary sends. Define clipping \(or distortion\) and what it means to attenuate and boost the signal.
    * **\*First\*** turn off amplifiers \(main speakers and stage monitors are often "active" which means they have amplifiers inside the speaker\)
    * on the mixer
