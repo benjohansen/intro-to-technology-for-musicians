@@ -29,6 +29,10 @@ This course includes fundamentals of: computer science, sound synthesis, notatio
 
 None.
 
+## School of Music's COVID Protocols
+
+You must follow the School of Music's COVID Protocols = [https://www.baylor.edu/music/coronavirus](https://www.baylor.edu/music/coronavirus)
+
 ## Course Materials
 
 Online Course-Guide = [https://benjohansen.gitbook.io/musictech/](https://benjohansen.gitbook.io/musictech/)
@@ -146,15 +150,22 @@ Plagiarism or any form of cheating involves a breach of student-teacher trust. T
 
 ## Students Needing Accommodations
 
-Any student who needs academic accommodations related to a documented disability should inform me immediately at the beginning of the semester. You are required to obtain appropriate documentation and information regarding accommodations from the Office of Access and Learning Accommodation \(OALA\). Contact Information:  \(254\) 710-3605 - Paul L. Foster Success Center, 1st floor on the East Wing of Sid Richardson.
+Any student who needs academic accommodations related to a documented disability should inform me immediately at the beginning of the semester. You are required to obtain appropriate documentation and information regarding accommodations from the Office of Access and Learning Accommodation \(OALA\). See [www.baylor.edu/oala](http://www.baylor.edu/oala) or email [OALA@baylor.edu](mailto:OALA@baylor.edu) today if you have not done so already.
 
 ## Baylor University Title IX
 
-Sexual and Gender-Based Harassment and Interpersonal Violence Policy:
+_Civil Rights Policy and Sexual and Interpersonal Misconduct Policy_
 
-> Baylor University does not discriminate on the basis of sex or gender in any of its education or employment programs and activities, and it does not tolerate discrimination or harassment on the basis of sex or gender. If you or someone you know would like help related to an experience involving sexual or gender-based harassment, sexual assault, sexual exploitation, stalking, intimate partner violence, or retaliation for reporting one of these type of prohibited conduct, please contact the Title IX Office at \(254\) 710-8454, or email, [TitleIX\_Coordinator@baylor.edu](mailto:TitleIX_Coordinator@baylor.edu) or report online at [www.baylor.edu/titleix](http://www.baylor.edu/titleix).
+Baylor University does not tolerate unlawful harassment or discrimination on the basis of sex, gender, race, color, disability, national origin, ancestry, age \(over 40\), citizenship, genetic information or the refusal to submit to a genetic test, past, current, or prospective service in the uniformed services, or any other characteristic protected under applicable federal, Texas, or local law \(collectively referred to as Protected Characteristics\).
 
-The Title IX office understands the sensitive nature of these situations and can provide information about available on- and off-campus resources, such as counseling and psychological services, medical treatment, academic support, university housing, and other forms of assistance that may be available. Staff members at the office can also explain your rights and procedural options if you contact the Title IX Office. You will not be required to share your experience. **If** **you or** **someone you know feels unsafe or** **may be in** **imminent danger, please call the Baylor Police** **Department \(254-710-2222\) or Waco** **Police Department \(9-1-1\) immediately.** For more information on the Title IX Office, the Sexual and Gender-Based Harassment and Interpersonal Violence policy, reporting, and resources available, please visit [www.baylor.edu/titleix](http://www.baylor.edu/titleix).
+If you or someone you know would like help related to an experience involving:
+
+1. Sexual or gender-based harassment, sexual assault, sexual exploitation, stalking, intimate partner violence, or retaliation for reporting one of these types of prohibited conduct, please visit [www.baylor.edu/titleix](http://www.baylor.edu/titleix), or contact us at \(254\) 710-8454, or [TitleIX\_Coordinator@baylor.edu](mailto:TitleIX_Coordinator@baylor.edu).
+2. Harassment \(excluding those issues listed in \#1\) or adverse action based on Protected Characteristics, please visit [www.baylor.edu/equity](http://www.baylor.edu/equity), or contact us at \(254\) 710-7100 or [Equity@baylor.edu](mailto:Equity@baylor.edu).
+
+The Office of Equity and Title IX understands the sensitive nature of these situations and can provide information about available on- and off-campus resources, such as counseling and psychological services, medical treatment, academic support, university housing, advocacy services, and other forms of assistance that may be available. Staff members at the office can also explain your rights and procedural options. You will not be required to share your experience. **If you or someone you know feels unsafe or may be in imminent danger, please call the Baylor Police Department \(254-710-2222\) or Waco Police Department \(9-1-1\) immediately.**
+
+Except for Confidential Resources, all University Employees are designated Responsible Employees and thereby mandatory reporters of potential sexual and interpersonal misconduct violations. Confidential Resources who do not have to report include those working in the Counseling Center, Health Center and the University Chaplain, Dr. Burt Burleson.
 
 ## Military Student Advisory
 
