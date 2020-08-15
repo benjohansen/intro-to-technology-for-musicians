@@ -28,8 +28,6 @@ This course includes fundamentals of: computer science, sound synthesis, notatio
 * [Spring 2020 Final Exam Schedule](https://benjohansen.gitbook.io/musictech/course-schedule#final-exam-times)
   * [Final Exam Questions](https://benjohansen.gitbook.io/musictech/final-exam-questions)
 
-{% page-ref page="course-schedule.md" %}
-
 ## Required Attendance Outside of Scheduled Class Time
 
 None.

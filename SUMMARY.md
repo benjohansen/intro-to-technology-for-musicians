@@ -5,7 +5,6 @@
 ## MUS1331
 
 * [Course Details](mus1331/course-details.md)
-* [Course Schedule](mus1331/course-schedule.md)
 
 ## 10 Units <a id="units"></a>
 
