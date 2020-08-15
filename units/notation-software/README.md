@@ -1,4 +1,4 @@
-# Notation \(MIDI\) & Virtual Instruments
+# 6. Notation \(MIDI\) & Virtual Instruments
 
 What is XML? = [https://www.w3schools.com/xml/xml\_whatis.asp](https://www.w3schools.com/xml/xml_whatis.asp)
 

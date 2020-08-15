@@ -1,4 +1,4 @@
-# Computer Hardware
+# 1. Computer Hardware
 
 1. **What makes a computer a computer?**
 2. What form must data be in for a computer to be able to process it?
