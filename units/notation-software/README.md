@@ -8,8 +8,7 @@
    * What is XML? = [https://www.w3schools.com/xml/xml\_whatis.asp](https://www.w3schools.com/xml/xml_whatis.asp)
    * What is MusicXML? = [https://www.musicxml.com/](https://www.musicxml.com/)
 3. Describe the difference between a sampler and a synthesizer.
-4. Describe the difference between subtractive and additive synthesis.
-5. What is a MIDI sequencer?
+4. What is a MIDI sequencer?
 
 
 
