@@ -9,14 +9,11 @@
 
 ## 10 Units <a id="units"></a>
 
-* [1. Computer Hardware](units/computer-hardware/README.md)
-  * [Computer Hardware old](units/computer-hardware/computer-hardware-old.md)
-* [2. Software](units/software/README.md)
-  * [Command Line Activity](units/software/command-line-activity.md)
-  * [Hour of Code](units/software/hour-of-code.md)
-  * [Presenting with Slides](units/software/presenting-with-slides.md)
-* [3. Networks](units/networks/README.md)
-  * [Create a Website: GitHub Pages](units/networks/create-a-website.md)
+* [1. Computer Hardware](units/computer-hardware.md)
+* [2. Software](units/software.md)
+* [3. Networks](units/networks-1/README.md)
+  * [Create a Website: GitHub Pages](units/networks-1/create-a-website.md)
+  * [3. Networks - old](units/networks-1/networks.md)
 * [4. Analog Audio](units/analog-audio/README.md)
   * [Physics of Sound](units/analog-audio/physics-of-sound.md)
   * [Audio Synthesis](units/analog-audio/audio-synthesis/README.md)

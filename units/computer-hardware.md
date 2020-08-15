@@ -23,6 +23,8 @@ Computer hardware resource = "15 Computer Topics" from [ComputerHope.com](https:
    * ![](https://bam.files.bbci.co.uk/bam/live/content/z87yvcw/large)
      * graphic credit = [https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/2](https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/2)
 8. Sensors
+   * keyboard = on/off switches
+   * mouse = CMOS sensor \(like digital camera\)
    * What is the “Internet of Things” \(IoT\)?
      * [Introduction to IoT](https://www.leverege.com/iot-ebook/what-is-iot) \(article\)
      * [Arduino projects](https://create.arduino.cc/projecthub/projects/tags/iot)

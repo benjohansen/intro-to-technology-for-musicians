@@ -1,4 +1,4 @@
-# 3. Networks
+# 3. Networks - old
 
 * [How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) \(40min worth of videos\)
   * [Internet Service Providers](https://www.speedcheck.org/#chapter2)

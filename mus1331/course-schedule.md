@@ -42,9 +42,9 @@
       <td style="text-align:left"><a href="../lesson-plans/class03.md">Jan 22/23</a>
       </td>
       <td style="text-align:left">Crouch</td>
-      <td style="text-align:left"><a href="../units/software/hour-of-code.md">Hour of Code</a>
+      <td style="text-align:left"><a href>Hour of Code</a>
       </td>
-      <td style="text-align:left"><a href="../units/networks/create-a-website.md">Create a Website (add audio and Scratch)</a>
+      <td style="text-align:left"><a href="../units/networks-1/create-a-website.md">Create a Website (add audio and Scratch)</a>
       </td>
     </tr>
     <tr>
