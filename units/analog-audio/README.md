@@ -1,5 +1,7 @@
 # 4. Analog Audio
 
+> The air around and in your ears is made up of molecules of various types: oxygen, nitrogen, carbon dioxide, carbon monoxide, and others that we probably don’t want to think about. Between the molecules in the air is … nothing. This means that the air molecules can be pushed together, or compressed, into a smaller space. A property of air known as elasticity causes the molecules that have been compressed together to spring apart again. \[Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)\]
+
 1. What does the equal-loudness contour \(originally called the _Fletcher—Munson curve_\) refer to? What does this have to do with Pink Noise vs. White Noise?
    * What unit is used to indicate a ratio of the following?: _silence to the perceived loudness of a sound_ \[for humans\] ... provide at least 5 examples of the loudness levels of things/environments.
    * What is the frequency range of human hearing?
