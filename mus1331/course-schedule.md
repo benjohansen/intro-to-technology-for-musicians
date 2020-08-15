@@ -26,7 +26,7 @@
         <td style="text-align:left"></td>
         <td style="text-align:left">
           <ul>
-            <li><a href="../units/digital-audio/audio-recording/audio-recording-assignment.md"><b>Audio Recording Assignment</b></a>&lt;b&gt;&lt;/b&gt;</li>
+            <li><a href="../units/5.-digital-audio/digital-audio-old/audio-recording/audio-recording-assignment.md"><b>Audio Recording Assignment</b></a>&lt;b&gt;&lt;/b&gt;</li>
             <li><b>watch </b><a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-"><b>How Computers Work</b></a><b> (27min)</b>
             </li>
           </ul>
@@ -147,7 +147,7 @@
       <td style="text-align:left">Mar 2/3</td>
       <td style="text-align:left">Crouch</td>
       <td style="text-align:left">mix podcast assignment in Logic (during class)</td>
-      <td style="text-align:left">record content for <a href="../units/digital-audio/audio-recording/podcast-assignment.md#recording-process">Podcast Assignment</a>
+      <td style="text-align:left">record content for <a href="../units/5.-digital-audio/digital-audio-old/audio-recording/podcast-assignment.md#recording-process">Podcast Assignment</a>
       </td>
     </tr>
     <tr>
