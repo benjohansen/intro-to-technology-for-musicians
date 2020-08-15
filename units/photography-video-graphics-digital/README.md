@@ -1,4 +1,4 @@
-# 8. Video & Graphics
+# 8. Photography, Video, & Graphics \(digital\)
 
 1. Bold words in the following two bullets will be blanks for you to fill in on a test.
    * Video monitors \(computer screens\) are dimensioned in **pixels** and printers print on paper that is dimensioned in **inches**. That is why the **dpi \(dots per inch\)** specification of an image means nothing to a web browser displaying an image, but it determines the resolution and size that an image will print.

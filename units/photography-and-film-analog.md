@@ -1,4 +1,4 @@
-# 7. Film & Photography \(analog\)
+# 7. Photography & Film \(analog\)
 
 1. What are the camera settings that give you control of exposure? What do each of them do?
    * Understanding how still photography works will greatly help you understand how video works. Begin by watching this 4min video about how exposure works = [Shutter speed, Aperture and ISO: What do these mean and how do cameras work?](https://www.youtube.com/watch?v=zd9oNggNqjQ)
