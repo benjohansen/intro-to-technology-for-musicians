@@ -23,10 +23,10 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
      * [SPEAR](http://www.klingbeil.com/spear/)
      * [Sonic Visualizer](https://www.sonicvisualiser.org/)
 5. What are the terms aperiodic and periodic used to describe in the sound medium? What is something that produces an aperiodic waveform? What is something that produces a periodic waveform?
-6. Define complex tone \(or complex wave form\) by comparing it to a sine wave.
+   * Define complex tone \(or complex wave form\) by comparing it to a sine wave.
    * Define "overtone" and "harmonic." - [Overtones and Harmonics](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/otone.html)
    * Define "timbre."
-7. **Draw a diagram of a voltage-controlled \[analog\] synthesizer including signal/voltage paths \(control voltage, gate, trigger\). Include the following components:** 
+6. **Draw a diagram of a voltage-controlled \[analog\] synthesizer including signal/voltage paths \(control voltage, gate, trigger\). Include the following components:** 
    * **1V/octave keyboard controller**
    * **VCO \(oscillator\)**
    * **EG \(envelop generator with ADSR\)**
@@ -35,13 +35,45 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
    * **VCA \(amplifier\)**
    * **mixer**
    * **output**
-8. Describe the difference between subtractive and additive synthesis.
-9. What is proper gain staging \(or proper gain structure\) for live sound? \(talk about the steps you would take to find the proper level for each part of the system — from mic to speaker\)
-   * What does it mean to attenuate a signal? What word is used to describe the opposite of attenuating a signal?
-   * Explain what a preamp does. What is the name of the knob used to control this? Define clipping \(or distortion\). Create a drawing that illustrates how a signal is distorted by clipping.
-   * **What is feedback and what are some ways to avoid/lesson it?** 
-   * Define pan.
-   * Define EQ.
+7. Describe the difference between subtractive and additive synthesis.
+8. What is proper gain staging \(or proper gain structure\) for live sound? Explain what each part of the system does including pan, EQ \(shapes tone\) and auxiliary sends. Define clipping \(or distortion\) and what it means to attenuate and boost the signal.
+   1. turn off amplifiers \(main speakers and stage monitors are often "active" which means they have amplifiers inside the speaker\)
+   2. on the mixer:
+      1. set channel volume faders and main outs to Unity \(ØdB\)
+      2. set the preamp gain knob to lowest setting
+      3. with headphones \(or just visually\) set proper gain structure for each channel:
+         1. press PFL/SOLO button on the channel
+         2. engage HPF if source has no low end \(always engage for vocals\)
+         3. slowly bring up preamp gain knob as performer sounds into the mic until the VU meter averages **around -18dB** and never peaks at higher than -6dB
+         4. unSOLO the track and perform these three steps with the next channel, etc.
+   3. after all channels have been setup individually, have everyone perform together
+   4. with volume knob of amplifiers \(main speakers and stage monitors\) turned all the way down, slowly turn up volume knobs on amplifiers until you reach the desired volume in the space
+9. **What is feedback and what are some ways to avoid/lesson it?**
+   * reasons for feedback:
+     * mic too close to PA speaker
+     * mic too far from source being amplified
+     * too many mics
+   * ways to minimize feedback issues:
+     * experiment with the placement of a microphone
+       * the closer the microphone is to the source the more the preamp gain can be lowered
+       * placing the speakers between the microphone and the audience \(speakers along the front of the stage\) can greatly lesson feedback issues because the microphone will not pickup its own amplified signal
+     * use directional mics to isolate sounds being picked up
+     * add acoustic treatment \(absorption\) to especially "live" rooms with many hard surfaces
+     * add an audience! \(rooms without an audience sound very different than rooms with no audience\)
+     * use a spectral analyzer to identify feedback frequencies and fine tune EQ
 10. What are some differences between condenser and dynamic microphones?
     * What does a microphone’s polar pattern tell you about how it functions? List and draw a few polar patterns.
+
+{% hint style="warning" %}
+Analog equipment is different than digital equipment. Analog equipment has a completely different \(much higher\) headroom. The "magic" -18dB target is really for the digital world \(0dB is more of a target for the analog world\), but developing a habit of aiming for -18dB is best when you work with both analog and digital equipment \(especially if you are combining the two\).
+{% endhint %}
+
+{% hint style="info" %}
+* **mic level** = a few thousandths of a volt; 1-50mV \(requires a preamp to boost to line level\)
+* **instrument level** = between mic and line level in strength; 70-150mV \(the level that comes out of guitar is instrument level and must be amplified by a preamp\)
+* **line level** = about 1000 times the level of mic level
+  * consumer line level = -10dB \(320mV\)
+  * professional line level = +4dB \(1-1.5V\)
+* **speaker level** = the level that comes out of an amplifier \(no max voltage limit\)
+{% endhint %}
 

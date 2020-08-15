@@ -42,7 +42,7 @@ In order from performer’s mouth or instrument ⇨ audience
 ## **Setup system and run sound check \(proper gain staging … also known as proper gain structure\):**
 
 {% hint style="warning" %}
-Powering on/off = turn amplifiers \(powered speakers\) **on last** and **off first**
+Turn powered speakers \(amplifiers\) **on last** and **off first.**
 {% endhint %}
 
 1. turn off amplifiers \(main speakers and stage monitors are often "active" which means they have amplifiers inside the speaker\)
