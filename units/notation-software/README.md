@@ -9,6 +9,8 @@
    * What is MusicXML? = [https://www.musicxml.com/](https://www.musicxml.com/)
 3. Describe the difference between a sampler and a synthesizer.
 4. What is a MIDI sequencer?
+5. During analog-to-digital conversion, quantization is necessary in a specific stage of the conversion. Describe when/why quantization is used in ADC \*and\* how quantization is used with MIDI data. \(hint: what is usually quantized in MIDI?\)
+6. Discuss the difference between a MIDI file and a WAV file. What type of information is stored in each file?
 
 
 
