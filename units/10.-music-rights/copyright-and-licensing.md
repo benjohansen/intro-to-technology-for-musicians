@@ -1,4 +1,4 @@
-# 10. Music Rights \(Copyright & Licensing\)
+# Copyright & Licensing
 
 This page was created with the assistance of [Clayton Crenshaw](https://www.baylor.edu/music/index.php?id=952188), Music Liaison Librarian, Baylor University \(revised Feb2018\). This is simply an informal guide and does not in any way represent legal advise!
 

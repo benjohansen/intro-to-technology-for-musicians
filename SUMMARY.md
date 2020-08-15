@@ -45,8 +45,9 @@
   * [Graphics](units/video-and-graphics/graphics/README.md)
     * [Vector \(2D & 3D\) Activity](units/video-and-graphics/graphics/vector-2d-and-3d-activity.md)
 * [9. Electroacoustic Music](units/9.-electroacoustic-music.md)
-* [10. Music Rights \(Copyright & Licensing\)](units/copyright-and-licensing/README.md)
-  * [Copyright & Licensing Resources](units/copyright-and-licensing/resources.md)
+* [10. Music Rights](units/10.-music-rights/README.md)
+  * [Copyright & Licensing](units/10.-music-rights/copyright-and-licensing.md)
+  * [Copyright & Licensing Resources](units/10.-music-rights/resources.md)
 
 ## Final Exam
 
