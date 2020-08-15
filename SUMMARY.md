@@ -15,6 +15,7 @@
 * [5. Digital Audio](units/5.-digital-audio/README.md)
   * [Podcast Assignment](units/5.-digital-audio/podcast-assignment.md)
   * [Audio Recording Assignment](units/5.-digital-audio/audio-recording-assignment.md)
+  * [Assignment \(audio mixing\)](units/5.-digital-audio/assignment-audio-mixing.md)
 * [6. Notation \(MIDI\) & Virtual Instruments](units/notation-software/README.md)
   * [MIDI Exercise](units/notation-software/midi-exercise.md)
   * [Introduction to Notation Software Exercise](units/notation-software/introduction-to-notation-software-exercise.md)
@@ -48,9 +49,6 @@
 * [Software Suggestions](appendix/software-suggestions.md)
 * [Hardware Suggestions](appendix/hardware-suggestions.md)
 * [Audio Recording](appendix/audio-recording.md)
-* [bit depth](appendix/bit-depth/README.md)
-  * [Audio Editing](appendix/bit-depth/audio-editing/README.md)
-    * [Mixing Assignment](appendix/bit-depth/audio-editing/mixing-assignment.md)
 
 ## Under Construction
 
