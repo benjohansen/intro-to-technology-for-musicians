@@ -18,7 +18,7 @@ This course includes fundamentals of: computer science, sound synthesis, notatio
 
 ## When/Where
 
-* Spring 2020 class meeting times:
+* Fall 2020 class meeting times:
   * Section 1 = Mondays and Wednesdays 1:00-2:15pm
   * Section 2 = Tuesdays and Thursdays 12:30-1:45pm
 * **Locations:**
