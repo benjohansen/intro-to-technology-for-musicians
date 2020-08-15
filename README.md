@@ -33,6 +33,10 @@ None.
 
 You must follow the School of Music's COVID Protocols = [https://www.baylor.edu/music/coronavirus](https://www.baylor.edu/music/coronavirus)
 
+{% hint style="danger" %}
+You must wear a face mask and respect social distancing when meeting with your instructor in person.
+{% endhint %}
+
 ## Course Materials
 
 Online Course-Guide = [https://benjohansen.gitbook.io/musictech/](https://benjohansen.gitbook.io/musictech/)
