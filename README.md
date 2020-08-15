@@ -96,16 +96,20 @@ By the end of this course, you will be able to confidently, judiciously, and ski
 
 ## Attendance
 
+During this unprecedented time of a global pandemic, class attendance must be approached differently from the way it would in a standard semester. If you are sick or have any symptoms \(even if they are slight\) that might relate to COVID-19, please stay home to protect yourself, your classmates, and your professors. As your instructor, I will expect that you work with me to enable you to receive any necessary course content \(including class lectures\) and complete any assignments, quizzes, or exams that you may miss due to being sick or having COVID-19-related symptoms. I also expect you to notify me prior to class if you will be missing for COVID-19 or any other health-related reason. If you are well, have no symptoms, and are not required to remain at home for any COVID-19 or other health-related reason, you should attend class and abide by all of the University’s health protocols. Attendance during this time may take many forms due to the various course formats being offered this fall. Be sure to pay careful attention to the additional details below that describe how attendance and class participation will be incorporated into my course.
+
+Importantly, Baylor’s Health Services department on the Waco campus no longer provides notes to “excuse” students from missed classes. Please do not ask Health Services for such documentation.
+
 The following is straight from the School of Music Undergraduate Handbook:
 
 > School of Music policy requires that to earn credit in a course a student must be officially enrolled by the end of the second full week of the semester and attend at least 75% of all class meetings. Faculty members may establish additional attendance requirements as outlined in course syllabi. Any student who is not present for at least 75% of the scheduled class sessions for any course will automatically receive a grade of “F” in the course. Any University-related activity necessitating an absence from class **will count** as an absence when determining whether a student has attended the required 75% of class meetings.
 
 {% hint style="warning" %}
-Missing 20min of any portion of a class meeting will result in a 1/2 absence.
+Missing 20min of any portion of a class meeting during the official class meeting time, will result in a 1/2 absence \(for example, leaving a Zoom virtual class meeting 20min early\). This is waved if the reason for missing has to do with COVID-19.
 {% endhint %}
 
 {% hint style="danger" %}
-Attendance is not calculated in your grade, _**but**_ you must attend at least 75% of class meetings in order to be eligible pass the course.
+Attendance is not calculated in your grade, _**but**_ you must attend at least 75% of class meetings in order to be eligible pass the course. This is waved if the reason for missing class meetings has to do with COVID-19. Your grade, though, is still dependent on completing assignments.
 {% endhint %}
 
 ## Grading
@@ -126,7 +130,7 @@ Your final grade will be calculated out of the following. Notice half your grade
 * C- = 70-72
 * F  =  0-69
 
-Late projects/assignments will receive half credit. No exceptions. So, find a way to turn in an assignment if you know you will be missing class.
+Late projects/assignments will receive half credit.
 
 ## Academic Success
 
