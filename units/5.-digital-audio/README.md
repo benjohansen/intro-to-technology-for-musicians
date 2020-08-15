@@ -2,6 +2,7 @@
 
 1. **Explain analog-to-digital conversion \(ADC\) and digital-to-analog conversion \(DAC\) using the following terms in your answer: sample rate, bit depth, voltage, samples, audio interface, and speakers.**
    * [How Digital Audio Works](https://docs.cycling74.com/max8/tutorials/02_mspdigitalaudio#Digital_representation_of_sound) \(MSP documentation by Cycling'74\)
+   * [https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
    * What is a sample? = [https://www.sweetwater.com/insync/sample/](https://www.sweetwater.com/insync/sample/)
 2. Bold words in the following two bullets will be blanks for you to fill in on a test.
    * An analog signal is a **continuous** signal; analog signal values are known for **all moments in time.**

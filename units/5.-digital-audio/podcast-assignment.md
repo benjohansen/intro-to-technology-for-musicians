@@ -25,16 +25,16 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 2. Open Audacity
 3. Make sure you set the input device to the Focusrite Scarlett and the number of channels to 1 \(mono\).
 
-   ![](../../../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png) 
+   ![](../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png) 
 
 4. Record yourself using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp ... see diagram below\)
 5. To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the \[preamp\] gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
 
-   ![](../../../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png) 
+   ![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png) 
 
 6. Export as an uncompressed \(lossless\) audio file to edit later.
 
-![](../../../../.gitbook/assets/img_1679-81.jpg)
+![](../../.gitbook/assets/img_1679-81.jpg)
 
 ## Mixing/Mastering Process
 
@@ -76,7 +76,7 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 **Aim for -14LUFS \(integrated\) and -1TP** to prepare your tracks for streaming services \(Youtube = -13LUFS, Spotify = -14LUFS, iTunes = -16LUFS, etc.\)
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 "_Both of these songs have the same apparent loudness, but the second track has been turned down considerably to make this happen."_ \(pic above and quote from "[Current Trends in Mastering](https://www.warpacademy.com/current-trends-in-mastering/)"\)
 

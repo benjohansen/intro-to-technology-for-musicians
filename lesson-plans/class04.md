@@ -11,7 +11,7 @@ Cover Finale Exam Questions for = **Computer Networks \(& Website Development\)*
 * hans video \(on screen\)
 * berkley video \(on screen\)
 
-Assign [Synthesis Exercise](../units/analog-audio/synthesis-exercise.md) Part 1
+Assign [Synthesis Exercise](../units/analog-audio/assignment-analog-audio.md) Part 1
 
 * ableton learning synths site \(on their own\)
 

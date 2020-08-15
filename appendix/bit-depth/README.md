@@ -1,14 +1,6 @@
-# Digital Audio old
+# bit depth
 
-What is a sample? = [https://www.sweetwater.com/insync/sample/](https://www.sweetwater.com/insync/sample/)
-
-{% hint style="info" %}
-Resource = [How Digital Audio Works](https://docs.cycling74.com/max8/tutorials/02_mspdigitalaudio#Digital_representation_of_sound) \(MSP documentation by Cycling'74\)
-{% endhint %}
-
-{% embed url="https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html" %}
-
-## What is bit depth? See the chart below to understand the values:
+See the chart below to understand the values of bit depth:
 
 | quality | number of bits | number of values represented | Description \(short scale\) | Prefix Name |
 | :--- | ---: | ---: | :--- | :--- |

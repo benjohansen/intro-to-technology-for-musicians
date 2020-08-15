@@ -1,4 +1,4 @@
-# Synthesis Exercise \(3 parts\)
+# Assignment \(analog audio\)
 
 ## Part 1
 
