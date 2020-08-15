@@ -122,10 +122,7 @@ Attendance is not calculated in your grade, _**but**_ you must attend at least 7
 
 ## Grading
 
-Your final grade will be calculated out of the following. Notice half your grade is based on technology experiences \(creative technology projects\) and half your grade is based on quantitative measures \(final exam\).
-
-* 50% Creative Technology Projects
-* 50% Cumulative Final Exam \(provided at the end of this syllabus\)
+Your final grade will be calculated based on your creative technology assignments. While your grade is based on technology experiences \(creative technology projects\), quantitative measures will ensure you retain important information past this semester course by verbally asking each student one of the 100 questions from the 10 units each class period.
 
 ### Grade Scale:
 
@@ -138,7 +135,7 @@ Your final grade will be calculated out of the following. Notice half your grade
 * C- = 70-72
 * F  =  0-69
 
-Late projects/assignments will receive half credit.
+Late assignments will receive half credit.
 
 ## Academic Success
 
