@@ -2,7 +2,7 @@
 
 Computer hardware resource = "15 Computer Topics" from [ComputerHope.com](https://www.computerhope.com/issues/ch001262.htm)
 
-1. **What makes a computer a computer?**
+1. **What makes a computer a computer? \(4 things\)**
    * [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) \(27min of short videos in a playlist\)
    * [Fetch \[Decode\] Execute Cycle: What's Your Computer Actually Doing?](https://www.youtube.com/watch?v=Z5JC9Ve1sfI) \(9min video\)
 2. What form must data be in for a computer to be able to process it?
@@ -14,6 +14,8 @@ Computer hardware resource = "15 Computer Topics" from [ComputerHope.com](https:
 3. **What is a transistor, what did it replace, and why is it the most important invention of the 20th Century?**
 4. Draw a block diagram that shows how the parts of a computer connect. Include labels for: motherboard, CPU, GPU, RAM \(memory\), storage, 
 5. What are pixels?
+   * [https://youtu.be/4x48aCX1uK8](https://youtu.be/4x48aCX1uK8) \(Jim Campbell\)
+   * [https://www.sfmoma.org/artist/jim\_campbell/](https://www.sfmoma.org/artist/jim_campbell/) \(Jim Campbell\)
    * [https://www.youtube.com/watch?v=3BJU2drrtCM](https://www.youtube.com/watch?v=3BJU2drrtCM)
 6. What is a computer "bus" ... what does an audio bus do? 
    * [https://en.wikipedia.org/wiki/Bus\_\(computing\)](https://en.wikipedia.org/wiki/Bus_%28computing%29)
