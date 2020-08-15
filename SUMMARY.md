@@ -2,10 +2,6 @@
 
 * [Introduction to Technology for Musicians](README.md)
 
-## MUS1331
-
-* [Course Details](mus1331/course-details.md)
-
 ## 10 Units <a id="units"></a>
 
 * [1. Computer Hardware](units/computer-hardware/README.md)
