@@ -37,31 +37,31 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
    * **output**
 7. Describe the difference between subtractive and additive synthesis.
 8. What is proper gain staging \(or proper gain structure\) for live sound? Explain what each part of the system does including pan, EQ \(shapes tone\) and auxiliary sends. Define clipping \(or distortion\) and what it means to attenuate and boost the signal.
-   1. turn off amplifiers \(main speakers and stage monitors are often "active" which means they have amplifiers inside the speaker\)
-   2. on the mixer:
-      1. set channel volume faders and main outs to Unity \(ØdB\)
-      2. set the preamp gain knob to lowest setting
-      3. with headphones \(or just visually\) set proper gain structure for each channel:
-         1. press PFL/SOLO button on the channel
-         2. engage HPF if source has no low end \(always engage for vocals\)
-         3. slowly bring up preamp gain knob as performer sounds into the mic until the VU meter averages **around -18dB** and never peaks at higher than -6dB
-         4. unSOLO the track and perform these three steps with the next channel, etc.
-   3. after all channels have been setup individually, have everyone perform together
-   4. with volume knob of amplifiers \(main speakers and stage monitors\) turned all the way down, slowly turn up volume knobs on amplifiers until you reach the desired volume in the space
-9. **What is feedback and what are some ways to avoid/lesson it?**
-   * reasons for feedback:
-     * mic too close to PA speaker
-     * mic too far from source being amplified
-     * too many mics
-   * ways to minimize feedback issues:
-     * experiment with the placement of a microphone
-       * the closer the microphone is to the source the more the preamp gain can be lowered
-       * placing the speakers between the microphone and the audience \(speakers along the front of the stage\) can greatly lesson feedback issues because the microphone will not pickup its own amplified signal
-     * use directional mics to isolate sounds being picked up
-     * add acoustic treatment \(absorption\) to especially "live" rooms with many hard surfaces
-     * add an audience! \(rooms without an audience sound very different than rooms with no audience\)
-     * use a spectral analyzer to identify feedback frequencies and fine tune EQ
-10. What are some differences between condenser and dynamic microphones?
+   * **\*First\*** turn off amplifiers \(main speakers and stage monitors are often "active" which means they have amplifiers inside the speaker\)
+   * on the mixer
+     1. set channel volume faders and main outs to Unity \(ØdB\)
+     2. set the preamp gain knob to lowest setting
+     3. with headphones \(or just visually\) set proper gain structure for each channel:
+        1. press PFL/SOLO button on the channel
+        2. engage HPF if source has no low end \(always engage for vocals\)
+        3. slowly bring up preamp gain knob as performer sounds into the mic until the VU meter averages **around -18dB** and never peaks at higher than -6dB
+        4. unSOLO the track and perform the three steps above with the next channel, etc.
+   * **\*Last\*** \(after all channels have been setup individually\) have everyone perform together and slowly bring up the volume on the amplifiers \(main speakers\) until you like the volume level.
+9. with volume knob of amplifiers \(main speakers and stage monitors\) turned all the way down, slowly turn up volume knobs on amplifiers until you reach the desired volume in the space
+10. **What is feedback and what are some ways to avoid/lesson it?**
+    * reasons for feedback:
+      * mic too close to PA speaker
+      * mic too far from source being amplified
+      * too many mics
+    * ways to minimize feedback issues:
+      * experiment with the placement of a microphone
+        * the closer the microphone is to the source the more the preamp gain can be lowered
+        * placing the speakers between the microphone and the audience \(speakers along the front of the stage\) can greatly lesson feedback issues because the microphone will not pickup its own amplified signal
+      * use directional mics to isolate sounds being picked up
+      * add acoustic treatment \(absorption\) to especially "live" rooms with many hard surfaces
+      * add an audience! \(rooms without an audience sound very different than rooms with no audience\)
+      * use a spectral analyzer to identify feedback frequencies and fine tune EQ
+11. What are some differences between condenser and dynamic microphones?
     * What does a microphone’s polar pattern tell you about how it functions? List and draw a few polar patterns.
 
 {% hint style="warning" %}
