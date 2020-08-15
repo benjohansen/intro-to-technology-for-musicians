@@ -1,5 +1,9 @@
 # 1. Computer Hardware
 
+Computer hardware resource = "15 Computer Topics" from [ComputerHope.com](https://www.computerhope.com/issues/ch001262.htm)
+
+
+
 1. **What makes a computer a computer?**
    * [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) \(27min of short videos in a playlist\)
    * [Fetch \[Decode\] Execute Cycle: What's Your Computer Actually Doing?](https://www.youtube.com/watch?v=Z5JC9Ve1sfI) \(9min video\)
