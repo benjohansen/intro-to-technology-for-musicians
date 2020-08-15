@@ -35,8 +35,7 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
    * **VCA \(amplifier\)**
    * **mixer**
    * **output**
-7. Describe the difference between subtractive and additive synthesis.
-8. What is proper gain staging \(or proper gain structure\) for live sound? Explain what each part of the system does including pan, EQ \(shapes tone\) and auxiliary sends. Define clipping \(or distortion\) and what it means to attenuate and boost the signal.
+7. What is proper gain staging \(or proper gain structure\) for live sound? Explain what each part of the system does including pan, EQ \(shapes tone\) and auxiliary sends. Define clipping \(or distortion\) and what it means to attenuate and boost the signal.
    * **\*First\*** turn off amplifiers \(main speakers and stage monitors are often "active" which means they have amplifiers inside the speaker\)
    * on the mixer
      1. set channel volume faders and main outs to Unity \(ØdB\)
@@ -46,23 +45,28 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
         2. engage HPF if source has no low end \(always engage for vocals\)
         3. slowly bring up preamp gain knob as performer sounds into the mic until the VU meter averages **around -18dB** and never peaks at higher than -6dB
         4. unSOLO the track and perform the three steps above with the next channel, etc.
-   * **\*Last\*** \(after all channels have been setup individually\) have everyone perform together and slowly bring up the volume on the amplifiers \(main speakers\) until you like the volume level.
-9. with volume knob of amplifiers \(main speakers and stage monitors\) turned all the way down, slowly turn up volume knobs on amplifiers until you reach the desired volume in the space
-10. **What is feedback and what are some ways to avoid/lesson it?**
-    * reasons for feedback:
-      * mic too close to PA speaker
-      * mic too far from source being amplified
-      * too many mics
-    * ways to minimize feedback issues:
-      * experiment with the placement of a microphone
-        * the closer the microphone is to the source the more the preamp gain can be lowered
-        * placing the speakers between the microphone and the audience \(speakers along the front of the stage\) can greatly lesson feedback issues because the microphone will not pickup its own amplified signal
-      * use directional mics to isolate sounds being picked up
-      * add acoustic treatment \(absorption\) to especially "live" rooms with many hard surfaces
-      * add an audience! \(rooms without an audience sound very different than rooms with no audience\)
-      * use a spectral analyzer to identify feedback frequencies and fine tune EQ
-11. What are some differences between condenser and dynamic microphones?
-    * What does a microphone’s polar pattern tell you about how it functions? List and draw a few polar patterns.
+   * **\*Last\*** \(after all channels have been setup individually\) have everyone perform together and with volume knob of amplifiers \(main speakers and stage monitors\) turned all the way down, slowly turn up volume knobs on amplifiers until you reach the desired volume in the space.
+8. **What is feedback and what are some ways to avoid/lesson it?**
+   * reasons for feedback:
+     * mic too close to PA speaker
+     * mic too far from source being amplified
+     * too many mics
+   * ways to minimize feedback issues:
+     * experiment with the placement of a microphone
+       * the closer the microphone is to the source the more the preamp gain can be lowered
+       * placing the speakers between the microphone and the audience \(speakers along the front of the stage\) can greatly lesson feedback issues because the microphone will not pickup its own amplified signal
+     * use directional mics to isolate sounds being picked up
+     * add acoustic treatment \(absorption\) to especially "live" rooms with many hard surfaces
+     * add an audience! \(rooms without an audience sound very different than rooms with no audience\)
+     * use a spectral analyzer to identify feedback frequencies and fine tune EQ
+9. What are some differences between condenser and dynamic microphones?
+   * What does a microphone’s polar pattern tell you about how it functions? List and draw a few polar patterns.
+10. Effect processors
+    * compressor = a dynamics processor that boosts quiet sounds and attenuates loud sounds above a set threshold level
+      * [https://youtu.be/5pXbd1QcdcU](https://youtu.be/5pXbd1QcdcU)
+    * limiter = a dynamics processor that is much like a compressor with a compression ratio of infinity:1 \(not signals can go louder than a set threshold\); many times, limiters are combined with compressors as an added safety net.
+      * [https://youtu.be/l85nH\_kWfK0](https://youtu.be/l85nH_kWfK0)
+    * special effects processors = add ambience \(reverb\), flange, delay, distortion, etc.
 
 {% hint style="warning" %}
 Analog equipment is different than digital equipment. Analog equipment has a completely different \(much higher\) headroom. The "magic" -18dB target is really for the digital world \(0dB is more of a target for the analog world\), but developing a habit of aiming for -18dB is best when you work with both analog and digital equipment \(especially if you are combining the two\).
@@ -75,5 +79,13 @@ Analog equipment is different than digital equipment. Analog equipment has a com
   * consumer line level = -10dB \(320mV\)
   * professional line level = +4dB \(1-1.5V\)
 * **speaker level** = the level that comes out of an amplifier \(no max voltage limit\)
+{% endhint %}
+
+{% hint style="success" %}
+Resource = “[Microphone Techniques for Live Sound Reinforcement](https://baylor.box.com/shared/static/g1rxbu1vysmfx2u530gwjdc9rhoyjrij.pdf)” a [Shure Educational Publication](https://www.shure.com/en-US/support/educational)
+{% endhint %}
+
+{% hint style="info" %}
+[Microphone Polar Patterns](https://en.wikipedia.org/wiki/Microphone#Polar_patterns)
 {% endhint %}
 

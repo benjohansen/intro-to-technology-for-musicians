@@ -13,7 +13,6 @@
 * [4. Analog Audio](units/analog-audio/README.md)
   * [Audio Synthesis](units/analog-audio/audio-synthesis/README.md)
     * [Synthesis Exercise \(3 parts\)](units/analog-audio/audio-synthesis/synthesis-exercise.md)
-  * [Analog Sound Reinforcement](units/analog-audio/sound-reinforcement.md)
 * [5. Digital Audio](units/5.-digital-audio/README.md)
   * [Digital Audio old](units/5.-digital-audio/digital-audio-old/README.md)
     * [Audio Recording](units/5.-digital-audio/digital-audio-old/audio-recording/README.md)
