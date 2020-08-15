@@ -9,7 +9,8 @@
 
 ## 10 Units <a id="units"></a>
 
-* [1. Computer Hardware](units/computer-hardware.md)
+* [1. Computer Hardware](units/computer-hardware/README.md)
+  * [Assignment \(computer hardware\)](units/computer-hardware/assignment-computer-hardware.md)
 * [2. Software](units/software.md)
 * [3. Networks](units/networks-1.md)
 * [4. Analog Audio](units/analog-audio/README.md)
