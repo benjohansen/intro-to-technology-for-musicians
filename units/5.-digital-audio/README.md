@@ -4,9 +4,10 @@
    * [How Digital Audio Works](https://docs.cycling74.com/max8/tutorials/02_mspdigitalaudio#Digital_representation_of_sound) \(MSP documentation by Cycling'74\)
    * [https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
    * What is a sample? = [https://www.sweetwater.com/insync/sample/](https://www.sweetwater.com/insync/sample/)
-2. Bold words in the following two bullets will be blanks for you to fill in on a test.
-   * An analog signal is a **continuous** signal; analog signal values are known for **all moments in time.**
-   * A digital signal is a **discrete** signal; digital signals are only known at **certain specific times.**
+2. An analog signal is a **continuous** signal; analog signal values are known for **all moments in time.**
+
+   A digital signal is a **discrete** signal; digital signals are only known at **certain specific times.**
+
 3. State the Nyquist Sample Theorem \(include the following term in your answer: Nyquist frequency\).
 4. Define bit rate,  network buffer size, and codec \(terms used when streaming audio\).
 5. Define and discuss when you use lossless audio files \(and give examples of lossless file types\) and when you would use lossy audio files \(and give examples of lossy file types\).
