@@ -11,9 +11,7 @@
 
 * [1. Computer Hardware](units/computer-hardware.md)
 * [2. Software](units/software.md)
-* [3. Networks](units/networks-1/README.md)
-  * [Create a Website: GitHub Pages](units/networks-1/create-a-website.md)
-  * [3. Networks - old](units/networks-1/networks.md)
+* [3. Networks](units/networks-1.md)
 * [4. Analog Audio](units/analog-audio/README.md)
   * [Physics of Sound](units/analog-audio/physics-of-sound.md)
   * [Audio Synthesis](units/analog-audio/audio-synthesis/README.md)
