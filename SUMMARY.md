@@ -45,7 +45,7 @@
     * [Live Streaming Video \(+ Audio\)](units/video-and-graphics/video-recording/live-streaming-video-+-audio.md)
   * [Graphics](units/video-and-graphics/graphics/README.md)
     * [Vector \(2D & 3D\) Activity](units/video-and-graphics/graphics/vector-2d-and-3d-activity.md)
-* [9. Copyright & Licensing Resources](units/resources.md)
+* [Copyright & Licensing Resources](units/resources.md)
 * [Music Rights \(Copyright & Licensing\)](units/copyright-and-licensing.md)
 
 ## Final Exam
