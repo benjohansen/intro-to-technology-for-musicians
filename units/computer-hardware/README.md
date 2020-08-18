@@ -31,7 +31,7 @@ Computer hardware resource = "15 Computer Topics" from [ComputerHope.com](https:
 
    graphic credit = [https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/2](https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/2)
 
-9. What are sensors?
+9. What are sensors? \(convert what into what?\)
    * keyboard = on/off switches
    * mouse = CMOS sensor \(like digital camera\)
    * What is the “Internet of Things” \(IoT\)?
@@ -40,5 +40,6 @@ Computer hardware resource = "15 Computer Topics" from [ComputerHope.com](https:
    * What are microcontrollers and what products do you use every day that have microcontrollers in them? Are microcontrollers computers?
      * [Microcontroller \(Arduino\) vs. SoC \(Raspberry Pi\)](https://appcodelabs.com/microcontroller-microprocessor-socs) \(2,612 words / 20 minutes\)
    * What are SoCs and what products use SoCs? How are they different from microcontrollers? Are SoCs computers?
-10. What is the use of an audio interface? What are some benefits to using a dedicated audio interface rather than the built in audio inputs and outputs on a computer?
+10. How do you calculate the current \(in amps\) for all the gear hooked to one circuit breaker in a room?
+    * [https://www.tigoe.com/pcomp/code/circuits/understanding-electricity/](https://www.tigoe.com/pcomp/code/circuits/understanding-electricity/)
 

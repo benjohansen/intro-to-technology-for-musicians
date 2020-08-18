@@ -4,11 +4,12 @@
    * [How Digital Audio Works](https://docs.cycling74.com/max8/tutorials/02_mspdigitalaudio#Digital_representation_of_sound) \(MSP documentation by Cycling'74\)
    * [https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
    * What is a sample? = [https://www.sweetwater.com/insync/sample/](https://www.sweetwater.com/insync/sample/)
+   * State the Nyquist Sample Theorem \(include the following term in your answer: Nyquist frequency\).
 2. An analog signal is a **continuous** signal; analog signal values are known for **all moments in time.**
 
    A digital signal is a **discrete** signal; digital signals are only known at **certain specific times.**
 
-3. State the Nyquist Sample Theorem \(include the following term in your answer: Nyquist frequency\).
+3. What is the use of an audio interface? What are some benefits to using a dedicated audio interface rather than the built in audio inputs and outputs on a computer?
 4. Define bit rate,  network buffer size, and codec \(terms used when streaming audio\).
 5. Define and discuss when you use lossless audio files \(and give examples of lossless file types\) and when you would use lossy audio files \(and give examples of lossy file types\).
 6. How do the acoustics and noise present in the recording space effect mic placement when recording? \(For instance: Where would you place the mic if you didn’t like the space and didn’t want the characteristics of the space to be apparent in the recording?\)
