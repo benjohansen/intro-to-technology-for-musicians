@@ -42,7 +42,11 @@
   * [Copyright & Licensing](units/10.-music-rights/copyright-and-licensing.md)
   * [Copyright & Licensing Resources](units/10.-music-rights/resources.md)
 
-## Final Exam
+## Questions
+
+---
+
+* [MUS1331 Questions](mus1331-questions.md)
 
 ## Appendix
 

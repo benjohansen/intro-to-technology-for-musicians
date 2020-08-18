@@ -12,7 +12,7 @@ Computer hardware resource = "15 Computer Topics" from [ComputerHope.com](https:
    * Is a paper piano roll an analog or digital medium of storage?
    * List 2 different mediums on which media and/or information has been stored in analog format and 2 different mediums on which binary \(digital\) data has been stored.
 3. What is a transistor, what did it replace, and why is it the most important invention of the 20th Century?
-4. Draw a block diagram that shows how the parts of a computer connect. Include labels for: Control Unit, Arithmetic Logic Unit, RAM \(main memory\), Storage \(aux storage\), input, and output. 
+4. Draw a block diagram that shows how the parts of a computer connect. Include labels for: CPU, Control Unit, Arithmetic Logic Unit, RAM \(main memory\), Storage \(aux storage\), input, and output. 
 
    ![](../../.gitbook/assets/image%20%282%29.png) 
 
@@ -31,7 +31,7 @@ Computer hardware resource = "15 Computer Topics" from [ComputerHope.com](https:
 
    graphic credit = [https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/2](https://www.bbc.co.uk/bitesize/guides/zws8d2p/revision/2)
 
-9. Sensors
+9. What are sensors?
    * keyboard = on/off switches
    * mouse = CMOS sensor \(like digital camera\)
    * What is the “Internet of Things” \(IoT\)?
