@@ -44,10 +44,6 @@
 
 ## Final Exam
 
----
-
-* [MUS1331 Final Exam Questions](final-exam-questions.md)
-
 ## Appendix
 
 * [Software Suggestions](appendix/software-suggestions.md)
