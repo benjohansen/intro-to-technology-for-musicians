@@ -1,7 +1,13 @@
 # 2. Software
 
-1. When is BIOS used, what is its function, and where is it located? \(use the following terms in your answer: operating system, ROM\)
-2. What is “the shell”? What is a program you can use to access “the shell”?
+1. What is an operating system?
+   * What are the three main operating systems?
+   * What are some mobile device operating systems?
+   * What operating system runs on a Raspberry Pi?
+   * Does an Arduino have an operating system?
+     * hint = no ... Setup ... Loop
+2. When is BIOS used, what is its function, and where is it located? \(use the following terms in your answer: operating system, ROM\)
+3. What is “the shell”? What is a program you can use to access “the shell”?
    * “Simply put, **the shell** is a program that takes commands from the keyboard and gives them to the operating system to perform.” \[[http://linuxcommand.org/lc3\_lts0010.php](http://linuxcommand.org/lc3_lts0010.php)\]
    * command line \(Mac = Terminal; PC = Command Prompt\)
    * navigate to folder or file \(**c**hange **d**irectory or [**cd** command](https://en.wikipedia.org/wiki/Cd_%28command%29)\)
@@ -19,16 +25,16 @@
    * make the computer talk \(**say**\)
    * [Apple Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac)
    * [Apple developer reference](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-3. Define software \(use the following terms in your answer: algorithm, instructions\).
+4. Define software \(use the following terms in your answer: algorithm, instructions\).
    * [What is an algorithm?](https://en.wikiversity.org/wiki/What_is_an_Algorithm)
-4. Define programming language.
+5. Define programming language.
    * Hour of Code:
      * Complete 1-4 \(hello, shapes, color, interact\) = [https://hello.processing.org/](https://hello.processing.org/)
      * make an app \(Android and iOS\) = [https://hourofcode.com/codehsjsapp](https://hourofcode.com/codehsjsapp)
-5. Describe the difference between “open” and “proprietary” file formats and how that plays into “digital obsolescence”.
-6. When working in an application, when do you save your work?
-7. What is Artificial Intelligence \(AI\)?
-8. What are some tips for presenting using slide software like PowerPoint?
+6. Describe the difference between “open” and “proprietary” file formats and how that plays into “digital obsolescence”.
+7. When working in an application, when do you save your work?
+8. What is Artificial Intelligence \(AI\)?
+9. What are some tips for presenting using slide software like PowerPoint?
    * **Use a short URL**. If using Google Slides, “share” the presentation publicly and create a short URL you can memorize \(bit.ly, tiny.cc, etc.\) so you can walk up and present without needing to log into Google
    * **No more than six words on a slide. EVER.** There is no presentation so complex that this rule needs to be broken. \([Seth Godin](http://sethgodin.typepad.com/seths_blog/2007/01/really_bad_powe.html)\)
      * you may actually have to break this rule ... but challenge yourself to stick to this rule

@@ -36,9 +36,9 @@
    * What is the “Internet of Things” \(IoT\)?
      * [Introduction to IoT](https://www.leverege.com/iot-ebook/what-is-iot) \(article\)
      * [Arduino projects](https://create.arduino.cc/projecthub/projects/tags/iot)
-   * What are microcontrollers and what products do you use every day that have microcontrollers in them? Are microcontrollers computers?
+   * What are microcontrollers and what products do you use every day that have microcontrollers in them? Are microcontrollers computers? How are SoCs different than microcontrollers?
      * [Microcontroller \(Arduino\) vs. SoC \(Raspberry Pi\)](https://appcodelabs.com/microcontroller-microprocessor-socs) \(2,612 words / 20 minutes\)
-   * What are SoCs and what products use SoCs? How are they different from microcontrollers? Are SoCs computers?
+     * [https://www.freecodecamp.org/news/hardware-fundamentals-what-exactly-is-a-microcontroller-8a502a3650dc/](https://www.freecodecamp.org/news/hardware-fundamentals-what-exactly-is-a-microcontroller-8a502a3650dc/)
 10. How do you calculate the current \(in amps\) for all the gear hooked to one circuit breaker in a room?
     * [https://www.tigoe.com/pcomp/code/circuits/understanding-electricity/](https://www.tigoe.com/pcomp/code/circuits/understanding-electricity/)
 
