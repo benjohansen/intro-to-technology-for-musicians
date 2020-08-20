@@ -14,7 +14,7 @@ This technology course, designed specifically for musicians, balances quantitati
 
 There are **no technological skill prerequisites** _and_ I do not assume you have any technology skills or knowledge. 
 
-This course includes fundamentals of: computer science, sound synthesis, notation software, sound reinforcement, digital audio recording/mixing/editing, copyright/licensing, graphic design, photography, and videography with the means to empower musicians with digital and media literacy.
+This course includes fundamentals of: computer hardware, software, networks, analog and digital audio, notation software, virtual instruments, photography & film \(analog\), photography/graphics & video \(digital\), electroacoustic music, and music rights with the means to empower musicians with digital and media literacy.
 
 ## When
 
