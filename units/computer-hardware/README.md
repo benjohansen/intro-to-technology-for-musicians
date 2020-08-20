@@ -4,7 +4,7 @@
    * [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) \(27min of short videos in a playlist\)
    * [Fetch \[Decode\] Execute Cycle: What's Your Computer Actually Doing?](https://www.youtube.com/watch?v=Z5JC9Ve1sfI) \(9min video\)
    * "15 Computer Topics" from [ComputerHope.com](https://www.computerhope.com/issues/ch001262.htm)
-2. What form must data be in for a computer to be able to process it?
+2. What form must data be in for a computer to be able to store and process it?
    * [Understanding Binary](https://www.youtube.com/watch?v=vc-9uASeU7I) \(video\)
      * denary = base 10 \(0, 1, 2, 3, 4, 5, 6, 7, 8, 9\)
      * binary = base 2 \(0, 1\)
