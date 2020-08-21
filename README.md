@@ -4,6 +4,13 @@ description: Baylor University MUS1331 Fall 2020 course syllabus and online cour
 
 # Introduction to Technology for Musicians
 
+## Due Dates:
+
+* Due TBA
+  * Watch [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) \(27min of short videos in a playlist\)
+  * Complete [Computer Hardware Assignment](units/computer-hardware/assignment-computer-hardware.md)
+* Due TBA
+
 ## Instructor
 
 [**Dr. Ben Johansen**](https://www.baylor.edu/music/johansen)\*\*\*\*
