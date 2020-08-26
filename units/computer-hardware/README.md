@@ -11,6 +11,7 @@
    * Is a paper piano roll an analog or digital medium of storage?
    * List 2 different mediums on which media and/or information has been stored in analog format and 2 different mediums on which binary \(digital\) data has been stored.
 3. What is a transistor, what did it replace, and why is it the most important invention of the 20th Century?
+   * think of a transistor as a switch that opens and closes an electrical gate ... with a very small amount of electricity, a transistor can allow or stop large amounts of electricity from going through it
 4. Draw a block diagram that shows how the parts of a computer connect. Include labels for: CPU, Control Unit, Arithmetic Logic Unit, RAM \(main memory\), storage \(aux storage\), input, and output. 
 
    ![](../../.gitbook/assets/image%20%282%29.png) 
