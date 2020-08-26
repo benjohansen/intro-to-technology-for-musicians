@@ -41,5 +41,5 @@
      * [Microcontroller \(Arduino\) vs. SoC \(Raspberry Pi\)](https://appcodelabs.com/microcontroller-microprocessor-socs) \(2,612 words / 20 minutes\)
      * [https://www.freecodecamp.org/news/hardware-fundamentals-what-exactly-is-a-microcontroller-8a502a3650dc/](https://www.freecodecamp.org/news/hardware-fundamentals-what-exactly-is-a-microcontroller-8a502a3650dc/)
 10. How do you calculate the current \(in amps\) for all the gear hooked to one circuit breaker in a room?
-    * [https://www.tigoe.com/pcomp/code/circuits/understanding-electricity/](https://www.tigoe.com/pcomp/code/circuits/understanding-electricity/)
+    * [https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
 
