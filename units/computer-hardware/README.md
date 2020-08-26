@@ -42,4 +42,5 @@
      * [https://www.freecodecamp.org/news/hardware-fundamentals-what-exactly-is-a-microcontroller-8a502a3650dc/](https://www.freecodecamp.org/news/hardware-fundamentals-what-exactly-is-a-microcontroller-8a502a3650dc/)
 10. How do you calculate the current \(in amps\) for all the gear hooked to one circuit breaker in a room?
     * [https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
+    * calculator = [https://www.rapidtables.com/calc/electric/Watt\_to\_Amp\_Calculator.html](https://www.rapidtables.com/calc/electric/Watt_to_Amp_Calculator.html)
 
