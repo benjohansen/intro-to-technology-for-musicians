@@ -13,7 +13,6 @@
 3. What is a transistor, what did it replace, and why is it the most important invention of the 20th Century?
    * think of a transistor as a switch that opens and closes an electrical gate ... with a very small amount of electricity, a transistor can allow or stop large amounts of electricity from going through it
    * how a vacuum tube amplifies = [https://www.youtube.com/watch?v=kRSiTog2-No](https://www.youtube.com/watch?v=kRSiTog2-No)
-   * 
 4. Draw a block diagram that shows how the parts of a computer connect. Include labels for: CPU, Control Unit, Arithmetic Logic Unit, RAM \(main memory\), storage \(aux storage\), input, and output. 
 
    ![](../../.gitbook/assets/image%20%282%29.png) 
