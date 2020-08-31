@@ -13,6 +13,8 @@ description: Baylor University MUS1331 Fall 2020 course syllabus and online cour
     * section 2 = [https://baylor.box.com/s/25ubh8dl2x8ii86inlyt5oor6es1vsx7](https://baylor.box.com/s/25ubh8dl2x8ii86inlyt5oor6es1vsx7)
 * Due Mon/Tue \(August 31 / September 1\)
   * Complete [Computer Hardware Assignment](units/computer-hardware/assignment-computer-hardware.md)
+  * 1 question anonymous survey = [https://forms.gle/iWAftFq7Hwp6ZefUA](https://forms.gle/iWAftFq7Hwp6ZefUA)
+    * see responses = [https://bit.ly/31NUQyt](https://bit.ly/31NUQyt)
 
 ## Instructor
 
