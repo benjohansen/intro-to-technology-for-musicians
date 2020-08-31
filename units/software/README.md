@@ -29,8 +29,7 @@
 4. Define software \(use the following terms in your answer: algorithm, instructions\).
    * [What is an algorithm?](https://en.wikiversity.org/wiki/What_is_an_Algorithm)
 5. Define programming language.
-   * Hour of Code:
-     * Complete 1-4 \(hello, shapes, color, interact\) = [https://hello.processing.org/](https://hello.processing.org/)
+   * examples = JavaScript, C, C++, Python, Ruby, etc.
    * What is a function?
      * [https://www.codeanalogies.com/javascript-functions-explained](https://www.codeanalogies.com/javascript-functions-explained)
 6. What is machine language?
