@@ -44,6 +44,7 @@
 
 9. What is the “Internet of Things” \(IoT\)?
    * [Introduction to IoT](https://www.leverege.com/iot-ebook/what-is-iot) \(article\)
+     * example live data = [https://thingspeak.com/channels/12397](https://thingspeak.com/channels/12397)
    * [Arduino projects](https://create.arduino.cc/projecthub/projects/tags/iot)
    * What are microcontrollers and what products do you use every day that have microcontrollers in them? Are microcontrollers computers? How are SoCs different than microcontrollers?
      * [Microcontroller \(Arduino\) vs. SoC \(Raspberry Pi\)](https://appcodelabs.com/microcontroller-microprocessor-socs) \(2,612 words / 20 minutes\)
