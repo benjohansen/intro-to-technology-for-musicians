@@ -28,17 +28,20 @@
        * [Apple developer reference](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
 4. Define software \(use the following terms in your answer: algorithm, instructions\).
    * [What is an algorithm?](https://en.wikiversity.org/wiki/What_is_an_Algorithm)
-5. Define programming language.
+5. Define programming language \(high-level\) and machine language \(low-level\).
    * examples = JavaScript, C, C++, Python, Ruby, etc.
    * What is a function?
      * [https://www.codeanalogies.com/javascript-functions-explained](https://www.codeanalogies.com/javascript-functions-explained)
-6. What is machine language?
-   * high-level programming languages
-   * low-level programming languages
-   * IDE
+6. What is opensource software?
+   * [https://opensource.com/resources/what-open-source](https://opensource.com/resources/what-open-source)
 7. Describe the difference between “open” and “proprietary” file formats and how that plays into “digital obsolescence”.
 8. When working in an application, when do you save your work?
 9. What is Artificial Intelligence \(AI\)?
+   * [http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
+   * What is machine learning? \(a subset of AI\)
+     * [https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/](https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/)
+   * Is AR related to AI?
+     * AR = augmented reality
 10. What are some tips for presenting using slide software like PowerPoint?
     * **Use a short URL**. If using Google Slides, “share” the presentation publicly and create a short URL you can memorize \(bit.ly, tiny.cc, etc.\) so you can walk up and present without needing to log into Google
     * **No more than six words on a slide. EVER.** There is no presentation so complex that this rule needs to be broken. \([Seth Godin](http://sethgodin.typepad.com/seths_blog/2007/01/really_bad_powe.html)\)
