@@ -31,7 +31,8 @@
 5. Define programming language.
    * Hour of Code:
      * Complete 1-4 \(hello, shapes, color, interact\) = [https://hello.processing.org/](https://hello.processing.org/)
-     * make an app \(Android and iOS\) = [https://hourofcode.com/codehsjsapp](https://hourofcode.com/codehsjsapp)
+   * What is a function?
+     * [https://www.codeanalogies.com/javascript-functions-explained](https://www.codeanalogies.com/javascript-functions-explained)
 6. What is machine language?
    * high-level programming languages
    * low-level programming languages
