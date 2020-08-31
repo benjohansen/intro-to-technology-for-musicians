@@ -7,7 +7,7 @@ description: Baylor University MUS1331 Fall 2020 course syllabus and online cour
 ## Due Dates:
 
 * Due Wed/Thur \(Sept 2/3\)
-  * 
+  * Complete [Software Assignment](units/software/assignment-software.md)
 * Due Mon/Tue \(August 31 / September 1\)
   * Complete [Computer Hardware Assignment](units/computer-hardware/assignment-computer-hardware.md)
   * 1 question anonymous survey = [https://forms.gle/iWAftFq7Hwp6ZefUA](https://forms.gle/iWAftFq7Hwp6ZefUA)
