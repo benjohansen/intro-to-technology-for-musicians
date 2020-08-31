@@ -41,7 +41,16 @@
    * What are microcontrollers and what products do you use every day that have microcontrollers in them? Are microcontrollers computers? How are SoCs different than microcontrollers?
      * [Microcontroller \(Arduino\) vs. SoC \(Raspberry Pi\)](https://appcodelabs.com/microcontroller-microprocessor-socs) \(2,612 words / 20 minutes\)
      * [https://www.freecodecamp.org/news/hardware-fundamentals-what-exactly-is-a-microcontroller-8a502a3650dc/](https://www.freecodecamp.org/news/hardware-fundamentals-what-exactly-is-a-microcontroller-8a502a3650dc/)
-10. How do you calculate the current \(in amps\) for all the gear hooked to one circuit breaker in a room?
-    * [https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
-    * calculator = [https://www.rapidtables.com/calc/electric/Watt\_to\_Amp\_Calculator.html](https://www.rapidtables.com/calc/electric/Watt_to_Amp_Calculator.html)
+10. How do you calculate the Current \(in Amps\) for everything plugged into one circuit breaker in a room? \(you do this so you won't plug in more gear than the breaker has electricity to support\)
+    * What is a circuit breaker?
+      * [https://youtu.be/gDBUqeqx5t4](https://youtu.be/gDBUqeqx5t4)
+      * [https://youtu.be/fGqgNLPTcao](https://youtu.be/fGqgNLPTcao)
+    * What is the max Amp load for most circuit breakers?
+      * 15-20amps
+    * What is Voltage \(measured in Volts\), Current \(measured in Amps\), and Electrical Power \(measured in Watts\)?
+      * [https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
+    * How do you calculate Amps when only given Watts?
+      * You need to know how many volts you are using. Is it plugged into a 120V plug \(99% of stuff you will be using\) or a 240V plug \(that which your dryer plugs into\)?
+      * Watts = Volts \* Amps
+        * [https://www.rapidtables.com/calc/electric/Watt\_to\_Amp\_Calculator.html](https://www.rapidtables.com/calc/electric/Watt_to_Amp_Calculator.html) \(the power factor is probably 1\)
 
