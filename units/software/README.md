@@ -1,31 +1,32 @@
 # 2. Software
 
-1. What is an operating system?
+1. When is BIOS used, what is its function, and where is it located? \(use the following terms in your answer: operating system, ROM\)
+2. What is an operating system?
    * What are the three main operating systems?
    * What are some mobile device operating systems?
    * What operating system runs on a Raspberry Pi?
    * Does an Arduino have an operating system?
      * the code that is loaded is a program Arduino calls a _sketch_
        * there are two functions in every Arduino sketch = `setup()` and `loop()`
-2. When is BIOS used, what is its function, and where is it located? \(use the following terms in your answer: operating system, ROM\)
 3. What is “the shell”? What is a program you can use to access “the shell”?
    * “Simply put, **the shell** is a program that takes commands from the keyboard and gives them to the operating system to perform.” \[[http://linuxcommand.org/lc3\_lts0010.php](http://linuxcommand.org/lc3_lts0010.php)\]
    * command line \(Mac = Terminal; PC = Command Prompt\)
-   * navigate to folder or file \(**c**hange **d**irectory or [**cd** command](https://en.wikipedia.org/wiki/Cd_%28command%29)\)
-     * **cd** to get back to your user folder
-     * **cd /** to get to root\)
-     * ~ means you are in the user’s home folder
-     * / means you are in the root of the hard drive
-     * **pwd** provides the full path of the current directory you are in
-   * **afplay \[filename\]** to play an audio file ... to stop command+c
-   * see contents of a director \([**ls**](https://en.wikipedia.org/wiki/Ls)\) = short for the word "list"
-   * create a folder \(**mkdir** “thisnewfolder”\)
-   * create a file \(**touch mytextfile.txt**\)
-   * open an application from the Applications folder \(**open Dictionary.app**\)
-   * open an application from anywhere \(**open -a Dictionary.app**\)
-   * make the computer talk \(**say**\)
-   * [Apple Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac)
-   * [Apple developer reference](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+     * Terminal \(on a Mac\)
+       * navigate to folder or file \(**c**hange **d**irectory or [**cd** command](https://en.wikipedia.org/wiki/Cd_%28command%29)\)
+         * **cd** to get back to your user folder
+         * **cd /** to get to root\)
+         * ~ means you are in the user’s home folder
+         * / means you are in the root of the hard drive
+         * **pwd** provides the full path of the current directory you are in
+       * **afplay \[filename\]** to play an audio file ... to stop command+c
+       * see contents of a director \([**ls**](https://en.wikipedia.org/wiki/Ls)\) = short for the word "list"
+       * create a folder \(**mkdir** “thisnewfolder”\)
+       * create a file \(**touch mytextfile.txt**\)
+       * open an application from the Applications folder \(**open Dictionary.app**\)
+       * open an application from anywhere \(**open -a Dictionary.app**\)
+       * make the computer talk \(**say**\)
+       * [Apple Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac)
+       * [Apple developer reference](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
 4. Define software \(use the following terms in your answer: algorithm, instructions\).
    * [What is an algorithm?](https://en.wikiversity.org/wiki/What_is_an_Algorithm)
 5. Define programming language.
