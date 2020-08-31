@@ -1,13 +1,13 @@
 # 2. Software
 
-1. When is BIOS used, what is its function, and where is it located? \(use the following terms in your answer: operating system, ROM\)
-2. What is an operating system?
+1. **When is BIOS used, what is its function, and where is it located?**
+2. **What is an operating system?**
    * What are the three main operating systems?
    * What are some mobile device operating systems?
    * What operating system runs on a Raspberry Pi?
    * Does an Arduino have an operating system?
      * the code that is loaded is a program Arduino calls a _sketch ..._ there are two functions in every Arduino sketch = `setup()` and `loop()`
-3. What is “the shell”? What is a program you can use to access “the shell”?
+3. **What is “the shell”?** What is a program you can use to access “the shell”?
    * “Simply put, **the shell** is a program that takes commands from the keyboard and gives them to the operating system to perform.” \[[http://linuxcommand.org/lc3\_lts0010.php](http://linuxcommand.org/lc3_lts0010.php)\]
    * command line \(Mac = Terminal; PC = Command Prompt\)
      * Terminal \(on a Mac\)
@@ -26,23 +26,23 @@
        * make the computer talk \(**say**\)
        * [Apple Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac)
        * [Apple developer reference](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-4. Define software \(use the following terms in your answer: algorithm, instructions\).
+4. **Define software** \(use the following terms in your answer: algorithm, instructions\).
    * [What is an algorithm?](https://en.wikiversity.org/wiki/What_is_an_Algorithm)
-5. Define programming language \(high-level\) and machine language \(low-level\).
+5. **Define programming language** \(high-level\) and machine language \(low-level\).
    * examples = JavaScript, C, C++, Python, Ruby, etc.
    * What is a function?
      * [https://www.codeanalogies.com/javascript-functions-explained](https://www.codeanalogies.com/javascript-functions-explained)
-6. What is opensource software?
+6. **What is open source software?**
    * [https://opensource.com/resources/what-open-source](https://opensource.com/resources/what-open-source)
-7. Describe the difference between “open” and “proprietary” file formats and how that plays into “digital obsolescence”.
-8. When working in an application, when do you save your work?
-9. What is Artificial Intelligence \(AI\)?
+7. **Describe the difference between “open” and “proprietary” file formats and how that plays into “digital obsolescence.”**
+8. **When working in an application, when do you save your work?**
+9. **What is Artificial Intelligence \(AI\)?**
    * [http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
    * What is machine learning? \(a subset of AI\)
      * [https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/](https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/)
    * Is AR related to AI?
      * AR = augmented reality
-10. What are some tips for presenting using slide software like PowerPoint?
+10. **What are some tips for presenting using slide software like PowerPoint?**
     * **Use a short URL**. If using Google Slides, “share” the presentation publicly and create a short URL you can memorize \(bit.ly, tiny.cc, etc.\) so you can walk up and present without needing to log into Google
     * **No more than six words on a slide. EVER.** There is no presentation so complex that this rule needs to be broken. \([Seth Godin](http://sethgodin.typepad.com/seths_blog/2007/01/really_bad_powe.html)\)
       * you may actually have to break this rule ... but challenge yourself to stick to this rule
