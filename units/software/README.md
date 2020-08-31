@@ -6,8 +6,7 @@
    * What are some mobile device operating systems?
    * What operating system runs on a Raspberry Pi?
    * Does an Arduino have an operating system?
-     * the code that is loaded is a program Arduino calls a _sketch_
-       * there are two functions in every Arduino sketch = `setup()` and `loop()`
+     * the code that is loaded is a program Arduino calls a _sketch ..._ there are two functions in every Arduino sketch = `setup()` and `loop()`
 3. What is “the shell”? What is a program you can use to access “the shell”?
    * “Simply put, **the shell** is a program that takes commands from the keyboard and gives them to the operating system to perform.” \[[http://linuxcommand.org/lc3\_lts0010.php](http://linuxcommand.org/lc3_lts0010.php)\]
    * command line \(Mac = Terminal; PC = Command Prompt\)
