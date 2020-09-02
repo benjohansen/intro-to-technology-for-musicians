@@ -6,13 +6,15 @@ description: Baylor University MUS1331 Fall 2020 course syllabus and online cour
 
 ## Due Dates:
 
+* Due Mon/Tue \(Sept 7/8\)
+  * Complete [Network Assignment](units/networks/assignment-networks.md)
 * Due Wed/Thur \(Sept 2/3\)
   * Complete [Software Assignment](units/software/assignment-software.md)
-* Due Mon/Tue \(August 31 / September 1\)
+* Due Mon/Tue \(Aug 31 / September 1\)
   * Complete [Computer Hardware Assignment](units/computer-hardware/assignment-computer-hardware.md)
   * 1 question anonymous survey = [https://forms.gle/iWAftFq7Hwp6ZefUA](https://forms.gle/iWAftFq7Hwp6ZefUA)
     * see responses = [https://bit.ly/31NUQyt](https://bit.ly/31NUQyt)
-* Due Wed/Thur \(August 26/27\)
+* Due Wed/Thur \(Aug 26/27\)
   * Watch [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) \(27min of short videos in a playlist\)
   * Record a sound you find especially extraordinary \(using any device you want\), create an account on [https://freesound.org/](https://freesound.org/), upload the sound, and be prepared to share the URL with the class.
     * section 1 = [https://baylor.box.com/s/ke38esv8h5ht09xhvi4hf2umg7h1h258](https://baylor.box.com/s/ke38esv8h5ht09xhvi4hf2umg7h1h258)
