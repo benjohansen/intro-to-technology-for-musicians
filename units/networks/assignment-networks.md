@@ -1,6 +1,10 @@
 # Assignment \(networks\)
 
-## Create a Github "Webpage"
+## 1. Watch the following videos:
+
+* [How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) \(40min worth of videos\)
+
+## 2. Create a Github "Webpage"
 
 {% hint style="danger" %}
 Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ on PC\) as many times as you need to zoom in on this page.
