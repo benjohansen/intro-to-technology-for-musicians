@@ -10,6 +10,7 @@
   * [Assignment \(software\)](units/software/assignment-software.md)
 * [3. Networks](units/networks/README.md)
   * [Assignment \(networks\)](units/networks/assignment-networks.md)
+  * [During Class](units/networks/during-class.md)
 * [4. Analog Audio](units/analog-audio/README.md)
   * [Assignment \(analog audio\)](units/analog-audio/assignment-analog-audio.md)
 * [5. Digital Audio](units/5.-digital-audio/README.md)
