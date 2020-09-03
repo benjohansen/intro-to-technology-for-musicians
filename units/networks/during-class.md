@@ -63,6 +63,10 @@
   * View &gt; Developer &gt; Developer Tools
   * right click on the reload button and a menu will drop down
 
+{% hint style="warning" %}
+[https://support.zendesk.com/hc/en-us/articles/219161157-Options-to-clear-cache-and-cookies](https://support.zendesk.com/hc/en-us/articles/219161157-Options-to-clear-cache-and-cookies)
+{% endhint %}
+
 ## How to add a Scratch
 
 Add Scratch \(Free, browser-based visual programming language developed by the MIT Media Lab\)
