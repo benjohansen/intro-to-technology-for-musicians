@@ -89,3 +89,8 @@ Screen shots below are difficult to see ... so press Command+ on a Mac \(Ctrl+ o
    </html>
    ```
 
+9. Add your URL to your site to the Boxnote:
+
+* section 1 = [https://baylor.box.com/s/ke38esv8h5ht09xhvi4hf2umg7h1h258](https://baylor.box.com/s/ke38esv8h5ht09xhvi4hf2umg7h1h258)
+* section 2 = [https://baylor.box.com/s/25ubh8dl2x8ii86inlyt5oor6es1vsx7](https://baylor.box.com/s/25ubh8dl2x8ii86inlyt5oor6es1vsx7)
+
