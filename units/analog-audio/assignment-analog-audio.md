@@ -15,7 +15,7 @@
 
 1. find a free royalty-free image for which to design sound = [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/), [JayMantri](https://jaymantri.com/), etc.
 2. install the [Chrome Audio Capture](https://chrome.google.com/webstore/detail/chrome-audio-capture/kfokdmfpdnokpmpbjhjbcabgligoelgp) extension \(or record browser audio another way of your choosing\)
-3. record a short atmospheric moment you create using the [**playground**](https://learningsynths.ableton.com/en/playground) ****that best matches the photo you chose.
+3. record a short atmospheric moment you create using the [**playground**](https://learningsynths.ableton.com/en/playground) ****that best matches the photo you chose \(note: you can play notes by typing on your keyboard\).
 4. add the mp3 to your github pages site
 5. add the image to your github pages site
 
