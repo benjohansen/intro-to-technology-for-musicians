@@ -11,7 +11,7 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
 1. What does the equal-loudness contour \(originally called the _Fletcher—Munson curve_\) refer to? What does this have to do with Pink Noise vs. White Noise?
    * What unit is used to indicate a ratio of the following?: _silence to the perceived loudness of a sound_ \[for humans\] ... provide at least 5 examples of the loudness levels of things/environments.
    * What is the frequency range of human hearing?
-2. **Provide a drawing that illustrates a time-domain waveform representation of a sound wave \(label the following on your drawing: compression, rarefaction, zero crossing, wavelength, and amplitude\).**
+2. **Provide a drawing that illustrates a time-domain waveform representation of a sound wave \(label the following on your drawing: compression, rarefaction, wavelength, amplitude, and zero crossing\).**
 3. Describe how a sound is initially created by \*your\* instrument and all it goes through \(transductions\) for another person to perceive it in their brain \(that means you’ll have to also include how the ear works\).
    * [Daniel Russell's acoustics page](https://www.acs.psu.edu/drussell/Demos/waves-intro/waves-intro.html) has many great animations
    * [How Digital Audio Works](https://docs.cycling74.com/max8/tutorials/02_mspdigitalaudio) \(MSP documentation by Cycling'74; the beginning discusses how sound works\)
@@ -24,6 +24,7 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
      * [Sonic Visualizer](https://www.sonicvisualiser.org/)
 5. What are the terms aperiodic and periodic used to describe in the sound medium? What is something that produces an aperiodic waveform? What is something that produces a periodic waveform?
    * Define complex tone \(or complex wave form\) by comparing it to a sine wave.
+     * [here is how a square wave is created](https://3.bp.blogspot.com/-CQXzUQenjKs/Whwr_LtHumI/AAAAAAAAB_c/tL3rrYgBbr8NFq6-Qmb_yGQRmj0xPDy-QCLcBGAs/s1600/Figure%2B2.png)
    * Define "overtone" and "harmonic" ... and "partial" - [Overtones and Harmonics](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/otone.html)
      * partial = any of the sine waves that make up a complex wave form
      * harmonic = when the fundamental is divided by this number, it is a positive whole number
