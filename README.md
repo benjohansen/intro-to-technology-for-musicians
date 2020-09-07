@@ -6,6 +6,8 @@ description: Baylor University MUS1331 Fall 2020 course syllabus and online cour
 
 ## Due Dates:
 
+* Due Wed/Thur \(Sept 9/10\)
+  * Complete [Analog Synth Assignment](units/analog-audio/assignment-analog-synth.md)
 * Due Mon/Tue \(Sept 7/8\)
   * Complete [Network Assignment](units/networks/assignment-networks.md)
 * Due Wed/Thur \(Sept 2/3\)

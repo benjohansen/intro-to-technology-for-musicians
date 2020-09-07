@@ -1,4 +1,4 @@
-# Assignment \(analog audio\)
+# Assignment \(analog synth\)
 
 ### Part 1 = Learn about synthesis
 
