@@ -8,7 +8,7 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
 
 * [This Box folder](https://baylor.box.com/s/rrqiyvm3mj4utohgwjyccxohrg6lmmq7) contains a number of resources for students enrolled in this course.
 
-1. What does the equal-loudness contour \(originally called the _Fletcher—Munson curve_\) refer to? What does this have to do with Pink Noise vs. White Noise?
+1. What does the [equal-loudness contour](http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/eqloud.html) \(originally called the _Fletcher—Munson curve_\) refer to? What does this have to do with Pink Noise vs. White Noise?
    * What unit is used to indicate a ratio of the following?: _silence to the perceived loudness of a sound_ \[for humans\] ... provide at least 5 examples of the loudness levels of things/environments.
    * What is the frequency range of human hearing?
 2. **Provide a drawing that illustrates a time-domain waveform representation of a sound wave \(label the following on your drawing: compression, rarefaction, wavelength, amplitude, and zero crossing\).**
