@@ -74,4 +74,5 @@
 * [Class06](lesson-plans/class06.md)
 * [Class07](lesson-plans/class07.md)
 * [long video](lesson-plans/long-video.md)
+* [scratch](lesson-plans/scratch.md)
 
