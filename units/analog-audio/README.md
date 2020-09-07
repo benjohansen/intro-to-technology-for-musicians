@@ -24,7 +24,10 @@ Hosken, _Introduction to Music Technology_ \(Routledge, 2011\)
      * [Sonic Visualizer](https://www.sonicvisualiser.org/)
 5. What are the terms aperiodic and periodic used to describe in the sound medium? What is something that produces an aperiodic waveform? What is something that produces a periodic waveform?
    * Define complex tone \(or complex wave form\) by comparing it to a sine wave.
-   * Define "overtone" and "harmonic." - [Overtones and Harmonics](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/otone.html)
+   * Define "overtone" and "harmonic" ... and "partial" - [Overtones and Harmonics](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/otone.html)
+     * partial = any of the sine waves that make up a complex wave form
+     * harmonic = when the fundamental is divided by this number, it is a positive whole number
+     * overtone = any partial above the fundamental \(simply excludes the fundamental\)
    * Define "timbre."
 6. **Draw a diagram of a voltage-controlled \[analog\] synthesizer including signal/voltage paths \(control voltage, gate, trigger\).**
    * **Include the following components:** 
