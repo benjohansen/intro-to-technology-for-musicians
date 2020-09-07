@@ -3,8 +3,9 @@
 ### Part 1 = Learn about synthesis
 
 1. Watch [**Hans & Clint \| Masters At Work**](https://www.youtube.com/watch?v=NdG5dEfAcxQ) ****\(6min video\)
-2. Using Chrome = complete [**Learning Synths \(Ableton interactive learning\)**](https://learningsynths.ableton.com/)**.**
-3. With great patience and focus, slowly work your way through understanding \*how\* the instrument in the [**playground**](https://learningsynths.ableton.com/en/playground) works in the following manner:
+2. Watch [**Synthesizer Basics \(Berkley\)**](https://www.youtube.com/watch?v=c3udLCvoCC0) ****\(10min video\)
+3. Using Chrome = complete [**Learning Synths \(Ableton interactive learning\)**](https://learningsynths.ableton.com/)**.**
+4. With great patience and focus, slowly work your way through understanding \*how\* the instrument in the [**playground**](https://learningsynths.ableton.com/en/playground) works in the following manner:
    * click on the menu in the bottom right \(four squares\)
      * Preset: Default
      * Sequence: Midtone
