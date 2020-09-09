@@ -13,6 +13,7 @@
   * [During Class](units/networks/during-class.md)
 * [4. Analog Audio](units/analog-audio/README.md)
   * [Assignment \(analog synth\)](units/analog-audio/assignment-analog-synth.md)
+  * [Assignment \(mic differences experiment\)](units/analog-audio/assignment-mic-differences-experiment.md)
 * [5. Digital Audio](units/5.-digital-audio/README.md)
   * [Podcast Assignment](units/5.-digital-audio/podcast-assignment.md)
   * [Audio Recording Assignment](units/5.-digital-audio/audio-recording-assignment.md)
