@@ -7,7 +7,7 @@ Learning Outcome = understand the differences between dynamic and condenser mics
 1. setup a Shure SM57 \(dynamic\) and a Rode M5 \(small diaphragm condenser\) so that both diaphragms are very close to each other facing the same direction
 2. when you record:
    * record both microphones simultaneously with the preamps for each mic set such that the amplitude of both waveforms recorded look very similar \(advanced = target averaging around -18db if you can\)
-   * try to make the waveforms of every recording look the same 
+   * try to make the waveforms of every recording look similar in amplitude \(vertically, similar width\) no matter the distance
    * take note of the following for your [response](https://benjohansen.gitbook.io/musictech/units/analog-audio/assignment-mic-differences-experiment#response):
      * what you have to do with the preamp when you move the mics further from the source
      * what happens with background noise with each mic
