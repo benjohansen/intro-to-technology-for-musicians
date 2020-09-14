@@ -13,6 +13,7 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
     * add proper EQ for your voice \(there are \*many\* articles online\)
     * add a compressor \(there are \*many\* articles online\)
   * at least one virtual instrument played and recorded in Reaper \(sampler or synthesizer\)
+    * View &gt; Virtual MIDI keyboard \(and note choices when you right click the virtual midi keyboard\)
   * at least five samples from freesound.org
   * at least one musical recording you record yourself
 * **all material must not be protected by copyright \(CC0 for freesound.org\)**
