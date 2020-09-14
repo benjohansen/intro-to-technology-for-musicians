@@ -15,26 +15,23 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
   * at least one musical recording you record yourself
 * **all material must not be protected by copyright \(CC0 for freesound.org\)**
 
-## Recording Process
+## Recording Your Voice
 
-{% hint style="info" %}
-[Reserve an Audio Booth](https://techpoint.libcal.com/spaces?lid=4700) in the Moody Media Lab
-{% endhint %}
+1. plug your interface into the computer and setup your interface with either the SM57 dynamic mic or Rode M5 with pop filter \(if using the Rode, turn on 48V phantom power\)
+2. download and install Reaper = [http://reaper.fm/download.php](http://reaper.fm/download.php)
+3. open Reaper
+4. make sure your audio interface is selected in the device section of Reaper's preferences
+5. add a new track
+6. force the track to record in mono
 
-1. Login to the computer
-2. Open Audacity
-3. Make sure you set the input device to the Focusrite Scarlett and the number of channels to 1 \(mono\).
+   ![](../../.gitbook/assets/screen-shot-2020-09-14-at-11.58.03-am.png) 
 
-   ![](../../.gitbook/assets/screen-shot-2019-10-21-at-3.15.21-pm-83.png) 
+7. record enable the track \(use headphones or make sure you turn off monitoring on the track\)
+8. to have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the \[preamp\] gain on your interface so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
 
-4. Record yourself using the provided broadcast dynamic mic \(plugged into the Cloud Lifter amplifier to provide it with more gain before it goes to the Focusrite's preamp ... see diagram below\)
-5. To have proper gain staging \([video](https://www.youtube.com/watch?time_continue=8&v=UvclmTMmGv0), [article](https://www.soundonsound.com/techniques/gain-staging-your-daw-software)\), set the \[preamp\] gain on the Focusrite so your ceiling is -6dB \(peak below -6dB … not near 0dB\) and average the recording around -18dB.
+   ![](../../.gitbook/assets/screen-shot-2020-09-14-at-12.12.56-pm.png)
 
-   ![](../../.gitbook/assets/screen-shot-2019-05-20-at-12.11.58-pm-70.png) 
-
-6. Export as an uncompressed \(lossless\) audio file to edit later.
-
-![](../../.gitbook/assets/img_1679-81.jpg)
+9. press record
 
 ## Mixing/Mastering Process
 
@@ -54,10 +51,10 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
    4. select the mistake and press delete
    5. finally pull the regions together to fill the silence gap
 
-### We will do the following during class together:
+## We will do the following _during_ class together:
 
 * **Apply the proper loudness level conversion** for streaming audio online
-  1. Add the following Audio FX \(plugins\) to the "stereo out" track in the order given \(top down\):
+  1. Add the following Audio FX \(plugins\) to the "MASTER" track in the order given \(top down\):
      * gain plugin
      * Level Meter \(select True Peak and drag yellow line to -1\)
      * Loudness Meter \(drag yellow line to -14\)
@@ -68,7 +65,7 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
   1. File &gt; Bounce &gt; Project or Section ...
      * MP4: ACC
      * Normalize: Off
-  2. rename your file your name and [**upload it here**](https://baylor.app.box.com/upload-widget/view/w031wuulcloqijaa46nxcaxi9h6qysb2/105726715968).
+  2. rename your file your name and ...
 
 ## Loudness
 
