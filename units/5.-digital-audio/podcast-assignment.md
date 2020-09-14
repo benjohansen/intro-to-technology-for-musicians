@@ -37,9 +37,8 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 
 9. press record
 
-## Mixing/Mastering Process
 
-1. 
+
 ## We will do the following _during_ class together:
 
 * **Apply the proper loudness level conversion** for streaming audio online
