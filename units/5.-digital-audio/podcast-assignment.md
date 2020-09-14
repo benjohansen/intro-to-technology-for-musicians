@@ -12,7 +12,7 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
   * recording of you discussing a topic of your choice \(you may even interview someone\)
     * add proper EQ for your voice \(there are \*many\* articles online\)
     * add a compressor \(there are \*many\* articles online\)
-  * recording of the Helm virtual instrument \(download and install before opening Reaper = [https://tytel.org/helm/](https://tytel.org/helm/) \)
+  * recording of the Helm virtual instrument which records MIDI data \(download and install before opening Reaper = [https://tytel.org/helm/](https://tytel.org/helm/) \)
     * View &gt; Virtual MIDI keyboard \(and note choices when you right click the virtual midi keyboard\)
     * keep synth around -18db too
   * at least five samples from freesound.org
