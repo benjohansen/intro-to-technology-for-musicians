@@ -10,6 +10,8 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 * use Reaper for recording, mixing, and mastering \(and for adding the virtual instrument\)
 * add all of the following to create a podcast \(check out [Radiolab](https://www.wnycstudios.org/podcasts/radiolab) if you are unsure how to incorporate sound effects and music\)
   * recording of you discussing a topic of your choice \(you may even interview someone\)
+    * add proper EQ for your voice
+    * add a compressor
   * at least one virtual instrument played and recorded in Reaper \(sampler or synthesizer\)
   * at least five samples from freesound.org
   * at least one musical recording you record yourself
@@ -35,22 +37,7 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 
 ## Mixing/Mastering Process
 
-1. Open Logic Pro and make it function as Logic rather than GarageBand
-   * click "ok" for Logic to access the microphone
-   * choose "empty project"
-   * add a track of any type \(you will delete this track after you add the stems\)
-   * In the top left of Logic … go to **Logic Pro X** &gt; Preferences &gt; Advanced Tools …
-   * put a checkmark on “Show Advanced Tools”
-   * click the “Enable All” button at the bottom and close the window
-2. Save \(somewhere you can find it, like the Desktop\) … and save often; Logic saves everything, including imported audio, in one convenient folder \(called a package\) ... when you are done with a working session and need to leave the school lab, completely close Logic and right click on the package of the project you are working on and choose "compress" - then you can upload that .zip file to Box or Google Drive, etc.
-3. mix your tracks together so that the volume is consistent across the entire podcast \(horizontally as you transition, for example, from your virtual instrument to your speaking\)  
-4.  remove mistakes in your speaking:
-   1. select the region
-   2. place the playhead at the beginning of the mistake in the region and press ⌘t
-   3. place the playhead to the end of the mistake and press ⌘t
-   4. select the mistake and press delete
-   5. finally pull the regions together to fill the silence gap
-
+1. 
 ## We will do the following _during_ class together:
 
 * **Apply the proper loudness level conversion** for streaming audio online
