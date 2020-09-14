@@ -10,8 +10,8 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 * use Reaper for recording, mixing, and mastering \(and for adding the virtual instrument\)
 * add all of the following to create a podcast \(check out [Radiolab](https://www.wnycstudios.org/podcasts/radiolab) if you are unsure how to incorporate sound effects and music\)
   * recording of you discussing a topic of your choice \(you may even interview someone\)
-    * add proper EQ for your voice
-    * add a compressor
+    * add proper EQ for your voice \(there are \*many\* articles online\)
+    * add a compressor \(there are \*many\* articles online\)
   * at least one virtual instrument played and recorded in Reaper \(sampler or synthesizer\)
   * at least five samples from freesound.org
   * at least one musical recording you record yourself
