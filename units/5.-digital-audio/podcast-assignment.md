@@ -37,7 +37,10 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 
 9. press record
 
+## Edit/Mix
 
+* In Reaper:
+  * place the playhead where you want to cut the audio region and press "s" to split
 
 ## We will do the following _during_ class together:
 
