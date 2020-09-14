@@ -7,13 +7,13 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 ## Project Requirements
 
 * 2-5min in length for the total podcast
-* use Audacity in the recording booth
-* use Logic or Reaper during the mixing and mastering \(and for adding the virtual instrument\)
-* mix and master the project in Logic Pro or Reaper
-* add the following:
-  * recording of you discussing a topic of your choice
-  * at least one virtual instrument sound that cleverly fit seamlessly with the podcast speaking \(sound effect or musical … sampler or synthesizer\)
-  * at least one recording of yourself performing on your main instrument and cleverly fit it in with your podcast speaking/content
+* use Reaper for recording, mixing, and mastering \(and for adding the virtual instrument\)
+* add all of the following to create a podcast \(check out [Radiolab](https://www.wnycstudios.org/podcasts/radiolab) if you are unsure how to incorporate sound effects and music\)
+  * recording of you discussing a topic of your choice \(you may even interview someone\)
+  * at least one virtual instrument played and recorded in Reaper \(sampler or synthesizer\)
+  * at least five samples from freesound.org
+  * at least one musical recording you record yourself
+* **all material must not be protected by copyright \(CC0 for freesound.org\)**
 
 ## Recording Process
 

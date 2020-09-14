@@ -18,7 +18,6 @@
   * [Podcast Assignment](units/5.-digital-audio/podcast-assignment.md)
   * [Audio Recording Assignment](units/5.-digital-audio/audio-recording-assignment.md)
   * [Assignment \(audio mixing\)](units/5.-digital-audio/assignment-audio-mixing.md)
-  * [Assignment \(dynamic vs condenser\)](units/5.-digital-audio/assignment-dynamic-vs-condenser.md)
 * [6. Notation \(MIDI\) & Virtual Instruments](units/notation-software/README.md)
   * [Assignment \(notation\)](units/notation-software/assignment-notation.md)
   * [MIDI Exercise](units/notation-software/midi-exercise.md)
