@@ -37,6 +37,15 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
 
 9. press record
 
+{% hint style="info" %}
+## Interviews
+
+You can add two tracks and set one to record from your first mic input on your interface and the other track to record your second mic plugged into the second mic input of your interface.
+
+To do this = simply **\*right\*** click on the record enable button \(red button\) on the track ... under  "Input: Mono" choose **Input 1** for one of the tracks then choose **Input 2** for the other track.   
+You'll want to record enable both tracks before pressing record to start your interview \(make sure you set the gain of both inputs on the interface correctly before recording!\)
+{% endhint %}
+
 ## Edit/Mix
 
 * In Reaper:
