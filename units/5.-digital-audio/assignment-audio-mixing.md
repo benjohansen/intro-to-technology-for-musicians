@@ -16,7 +16,7 @@ Here is a video I created including most of the steps below = [https://youtu.be/
    * automate volume of each track where creatively compelling \([here's a great video explaining how](https://bit.ly/2y7EXqo)\)
    * adjust panning to many of the tracks to give more space to all the mono files
    * \[optional\] add a reverb plugin \(FX\) to the master or to individual tracks to provide depth \(Reaper has a reverb plugin called [ReaVerb](https://www.soundonsound.com/techniques/reaverb-part-1)\)
-     * [OpenAir's website](https://openairlib.net/?page_id=36) has impulse responses you can use to exicute convolution reverb within the ReaVerb plugin when choosing "File"
+     * [OpenAir's website](https://openairlib.net/?page_id=36) has impulse responses you can use to execute convolution reverb within the ReaVerb plugin when choosing "File"
 8. \[optional\] you can also download and add a free [Youlean Loudness Meter plugin](https://youlean.co/youlean-loudness-meter/) to the master output to monitor loudness like we did for your podcast assignment \(target around -14LUFS and -1TruePeak for most streaming content ... [here is a tutorial for the Youlean plugin](https://bit.ly/39lvto5)\)
 9. \[optional\] If you want to learn more about mixing, [here is a great resource for digging a little deeper](https://www.landr.com/en/how-to-mix).
 10. When you are done, go to File &gt; Render, render as the MP3 format, and upload to this assignment.
