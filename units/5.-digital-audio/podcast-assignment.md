@@ -15,7 +15,8 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
   * recording of the Helm virtual instrument which records MIDI data \(download and install before opening Reaper = [https://tytel.org/helm/](https://tytel.org/helm/) \)
     * View &gt; Virtual MIDI keyboard \(and note choices when you right click the virtual midi keyboard\)
     * keep synth around -18db too
-  * at least five samples from freesound.org
+  * at least five \*different\* samples \(sounds\) from freesound.org
+    * you may get your material from a site other than freesound.org, but the material must be free to use without need to provide attribution
   * at least one musical recording you record yourself
 * **all material must not be protected by copyright \(CC0 for freesound.org\)**
 
@@ -36,6 +37,8 @@ description: 'record, mix, and master a micro-podcast (topic of your choice)'
    ![](../../.gitbook/assets/screen-shot-2020-09-14-at-12.12.56-pm.png)
 
 9. press record
+
+   ![](../../.gitbook/assets/screen-shot-2020-09-21-at-9.33.30-am.png) 
 
 {% hint style="info" %}
 ## Interviews
