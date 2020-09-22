@@ -64,7 +64,7 @@ You'll want to record enable both tracks before pressing record to start your in
   2. press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
      * "Integrated" on the Loudness Meter should be less than -14dB \(raise or lower the gain plugin accordingly and analyze again\)
      * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
-* **Export** as a compressed \(lossy\) audio format \(AAC is better sounding compression than MP3\)
+* **Export** as the compressed \(lossy\) audio format MP3
   1. File &gt; Bounce &gt; Project or Section ...
      * MP4: ACC
      * Normalize: Off
