@@ -16,7 +16,6 @@
   * [Assignment \(mic differences experiment\)](units/analog-audio/assignment-mic-differences-experiment.md)
 * [5. Digital Audio](units/5.-digital-audio/README.md)
   * [Podcast Assignment](units/5.-digital-audio/podcast-assignment.md)
-  * [Audio Recording Assignment](units/5.-digital-audio/audio-recording-assignment.md)
   * [Assignment \(audio mixing\)](units/5.-digital-audio/assignment-audio-mixing.md)
 * [6. Notation \(MIDI\) & Virtual Instruments](units/notation-software/README.md)
   * [Assignment \(notation\)](units/notation-software/assignment-notation.md)
