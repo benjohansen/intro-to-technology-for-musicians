@@ -58,17 +58,17 @@ You'll want to record enable both tracks before pressing record to start your in
 
 * **Apply the proper loudness level conversion** for streaming audio online
   1. Add the following Audio FX \(plugins\) to the "MASTER" track in the order given \(top down\):
-     * gain plugin
-     * Level Meter \(select True Peak and drag yellow line to -1\)
-     * Loudness Meter \(drag yellow line to -14\)
-  2. press "start" on the Loudness Meter and play your piece all the way through, then press "pause"
-     * "Integrated" on the Loudness Meter should be less than -14dB \(raise or lower the gain plugin accordingly and analyze again\)
-     * the Level Meter should never go above -1dB for True Peak \(raise or lower the gain plugin accordingly\)
-* **Export** as the compressed \(lossy\) audio format MP3
-  1. File &gt; Bounce &gt; Project or Section ...
-     * MP4: ACC
-     * Normalize: Off
-  2. rename your file your name and ...
+     * gain plugin \(JS: Volume Adjustment\)
+     * level and loudness meter
+       * you'll have to download and install the Free Youlean Loudness Meter = [https://youlean.co/youlean-loudness-meter/](https://youlean.co/youlean-loudness-meter/)
+  2. You'll need to play through your entire podcast watching the True Peak and LUFs meters
+     * "Integrated" on the Loudness Meter should be less than -14dB \(raise or lower the JS: Voliume Adjustment plugin on the master track above the Youlean meter accordingly and analyze again\)
+     * the level meter should never go above -1dB for True Peak \(raise or lower the JS: Volume Adjustment plugin on the master track above the Youlean meter accordingly and analyze again\)
+* **Render** as the compressed \(lossy\) audio format MP3
+  1. File &gt; Render &gt;
+     * choose the "Output" \(where you want to save the file and what name it should have\)
+     * Format: MP3
+     * Mode: Max Bitrate/Quality
 
 ## Loudness
 
