@@ -6,8 +6,9 @@ description: Baylor University MUS1331 Fall 2020 course syllabus and online cour
 
 ## Due Dates:
 
-* Due Mon/Tue \(Sept 21/22\)
-  * Complete the [Podcast Assignment](units/5.-digital-audio/podcast-assignment.md)
+* Due Mon/Tue \(Sept 28/29\)
+  * Complete the [Audio Mixing Assignment](units/5.-digital-audio/assignment-audio-mixing.md)
+  * Complete the [Podcast Assignment](units/5.-digital-audio/podcast-assignment.md) **\*and\*** add to your Github website as instructed
 * Due Mon/Tue \(Sept 14/15\)
   * Complete the [Mic Experiment](units/analog-audio/assignment-mic-differences-experiment.md)
 * Due Wed/Thur \(Sept 9/10\)
