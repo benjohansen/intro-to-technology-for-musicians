@@ -69,6 +69,11 @@ You'll want to record enable both tracks before pressing record to start your in
      * choose the "Output" \(where you want to save the file and what name it should have\)
      * Format: MP3
      * Mode: Max Bitrate/Quality
+* **Now add your podcast to your Github site \*on a new page\***
+  * you'll need to create a new page \(podcast.html\)
+  * you'll need to add a link to the new page from your homepage [**using the href attribute**](https://www.w3schools.com/tags/att_a_href.asp)\*\*\*\*
+  * you'll need to upload your mp3 to Github \(in the same folder as your index.html and podcast.html\)
+  * you'll need to add the ****[**audio tag**](https://www.w3schools.com/tags/tag_audio.asp) ****to your podcast.html page
 
 ## Loudness
 
