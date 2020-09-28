@@ -2,7 +2,7 @@
 description: 'record, mix, and master a micro-podcast (topic of your choice)'
 ---
 
-# Podcast Assignment
+# Assignment \(podcast\)
 
 ## Project Requirements
 
