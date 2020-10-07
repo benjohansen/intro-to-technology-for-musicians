@@ -1,4 +1,4 @@
-# 8. Photography/Graphics & Video \(digital\)
+# 7. Photography/Graphics & Video \(digital\)
 
 1. Video monitors \(computer screens\) are dimensioned in **pixels** and printers print on paper that is dimensioned in **inches**. That is why the **dpi \(dots per inch\)** specification of an image means nothing to a web browser displaying an image, but it determines the resolution and size that an image will print.
    * [This site](https://www.scantips.com/lights/pixels.html%C2%A0) goes pretty deep and is very "techy" ... but it will greatly help you understand what is going on with digital images. At very least, you should read a little of it. If it interests you, read it more methodically.

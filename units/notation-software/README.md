@@ -1,4 +1,4 @@
-# 6. Notation \(MIDI\) & Virtual Instruments
+# 8. Notation \(MIDI\) & Virtual Instruments
 
 
 
