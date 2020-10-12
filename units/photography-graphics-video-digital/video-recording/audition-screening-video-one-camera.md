@@ -50,4 +50,8 @@
 #### Save/Export
 
 1. Choose the "Deliver" tab at the bottom
+2. Choose the settings for YouTube
+3. add to queue
+4. render
+5. upload to Box using this link \(add your name to the file name!\) = [https://baylor.app.box.com/f/013c1360e3f0485dbdaed4a75acb071a](https://baylor.app.box.com/f/013c1360e3f0485dbdaed4a75acb071a) 
 
