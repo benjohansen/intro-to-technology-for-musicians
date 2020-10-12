@@ -6,6 +6,8 @@ description: Baylor University MUS1331 Fall 2020 course syllabus and online cour
 
 ## Due Dates:
 
+* Due Wed/Thur \(Oct. 14/15\)
+  * Complete [One Camera + External Mic using DaVinci Resolve](units/photography-graphics-video-digital/video-recording/audition-screening-video-one-camera.md) \(at least 10sec long\)
 * Due Mon/Tue \(Oct. 5 by 11:49pm\)
   * Complete the [Stereo Recording Assignment](units/5.-digital-audio/assignment-stereo-recording.md)
 * Due Mon/Tue \(Sept 28/29\)
