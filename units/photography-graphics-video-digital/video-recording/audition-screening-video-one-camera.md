@@ -41,7 +41,7 @@
    * choose the Effect Library tab at the top
    * under Toolbox, choose Video Transitions
    * drag the "Dip to Color Dissolve" to the beginning and end of your video
-   * select what you just added \(on the video track\) and change color from white to black on the settings in the right sidebar
+   * select the transition that you just added \(on the video track\) and change color from white to black on the settings in the right sidebar \(you may have to select the "inspector" tab\)
 
 #### Get Audio Loudness Set
 
