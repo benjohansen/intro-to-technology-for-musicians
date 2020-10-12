@@ -17,9 +17,39 @@
 
 ## DaVinci Resolve Editing \(free from Blackmagicdesign\)
 
-{% hint style="danger" %}
-coming soon
-{% endhint %}
+1. open DaVinci Resolve
+2. create a new project
+3. click on the "Edit" tab at the bottom if the screen
+
+#### Auto Sync Audio
+
+1. drag your video file and your audio file into the media pool
+   * if asked, change the project to match the frame rate of the media
+2. select both files \(video and audio\)
+3. right click on the files and choose "Auto Sync Audio &gt; Based on Waveform and Append Tracks"
+4. drag the video file \(only\) onto the timeline
+5. mute the first audio track \(that is the track recorded with the inferior on-camera microphones\)
+
+#### Conduct further editing
+
+1. use Blade Edit Tool \(press "b"\)  to split track where you want the video to begin and end
+   * slice the track where you want the video to begin
+   * use the Selection Tool \(press "a"\) to select the part you want to delete \(from beginning to where you just sliced\)
+   * hold down Shift and press delete
+   * use Blade Edit Tool to cut off the end of the video as well, select it and delete it
+2. fade in from black and fade out to black
+   * choose the Effect Library tab at the top
+   * under Toolbox, choose Video Transitions
+   * drag the "Dip to Color Dissolve" to the beginning and end of your video
+   * select what you just added \(on the video track\) and change color from white to black on the settings in the right sidebar
+
+#### Get Audio Loudness Set
+
+1. watch this video = [https://www.youtube.com/watch?v=SyWFLS4VWvA](https://www.youtube.com/watch?v=SyWFLS4VWvA)
+
+#### Save/Export
+
+1. Choose the "Deliver" tab at the bottom
 
 ## **Premiere Pro Editing** \($$ from Adobe\)
 
