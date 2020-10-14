@@ -27,7 +27,7 @@ First, checkout the tips for recording using multiple cameras:
      11. _**after**_ you have played through the hole thing and changed camera angles \(in number 10 above\), you may want to adjust _**when**_ a camera change occurs \(you may have been a bit late or early\) ... so in Selection Mode ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LroRRcyiuzPub4SVHLq%2F-Ltfz1B_V9CX8fGkDKLv%2F-Ltg-Bxe6cyz04PY-S28%2FPinClipart-74.png?alt=media&token=4c90c6ca-325f-44b6-b91c-6215de029ea2) hover between two clips until you see the Roll Edit cursor ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LroRRcyiuzPub4SVHLq%2F-Ltfz1B_V9CX8fGkDKLv%2F-Ltg-HPODRZEO9ps-fPL%2Froll-edit-cursor-72.png?alt=media&token=64408e8b-abde-4865-8d3b-3fad9c5216c7) click and drag left or right
      12. When you are done: Deliver tab at bottom and choose YouTube 720 or 1080 \(1080 is what it was shot in ... but if your internet or computer is slow, choose 720 to save time\).
      13. Upload the video to YouTube \(or Vimeo\) and make the video privacy "unlisted" \(that makes is unsearchable by the public, but makes the video shareable by link only\).
-     14. Submit the URL to the YouTube video to complete this assignment.
+     14. [Email me](https://www.baylor.edu/music/index.php?id=951763) the URL of your video on YouTube.
 
 {% hint style="info" %}
 To expand multicam clip to edit cameras/audio individually \(to color grade or adjust sync\):
