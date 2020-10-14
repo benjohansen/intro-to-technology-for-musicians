@@ -13,6 +13,7 @@ First, checkout the tips for recording using multiple cameras:
    * [https://www.youtube.com/watch?v=QIqWjQKgmEo](https://www.youtube.com/watch?v=QIqWjQKgmEo)
 3. Part 2 = Direct \(edit\) the multicamera video recording \(3 cameras\) along with the stereo rendered file from Reaper using DaVinci Resolve.
    * [https://www.youtube.com/watch?v=52Sq5NZAq\_A](https://www.youtube.com/watch?v=52Sq5NZAq_A)
+   * Here are the instructions from the video written out:
      1. open Resolve.
      2. choose the Media tab at bottom, then Import media \(drag the audio and video files in\)
      3. Select all media, right click, select “New Multicam Clip Using Selected Clips…” and choose “Sound” as the Angle Sync
