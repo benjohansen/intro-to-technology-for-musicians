@@ -6,7 +6,7 @@ First, watch the following introductions, examples, and tutorials:
 
 1. [History of split screen](https://bit.ly/3aELwip)
 2. [Example of Split Screen](https://bit.ly/3464uvT)
-   * tripod required
+   * tripod required \(or you must secure the camera so it doesn't move \*at all\* when stopping and starting recording\)
    * use the “crop” video effect in Resolve
    * [tutorial for split screen](https://bit.ly/2JqcY7q)
 3. [Example of MultiScreen](https://bit.ly/3dCqEdi)
