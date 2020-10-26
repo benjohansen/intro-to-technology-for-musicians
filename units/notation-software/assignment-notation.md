@@ -19,10 +19,7 @@ Devote as much time for this project as you want for the sake of your future. Th
   4. Dorico generated PDF of the score \(it will be a file with a `.pdf` file extension\)
 
 {% hint style="info" %}
-There are other **free notation software applications** we will not be using for this assignment, but I'd like you to be aware of:
-
-* download and use on your computer = [musescore.org](https://musescore.org/en) & [musink.net](https://musink.net/)
-* use in the browser = [noteflight.com](https://www.noteflight.com/) & [flat.io](https://flat.io/)
+If your computer is a bit low on performance power \(if Resolve did not run well on your computer\), then let me know and we'll come up with a solution. I want you to compare two notation applications \(ideally MuseScore and Dorico\), but you may have to replace using Dorico with [noteflight.com](https://www.noteflight.com/) or [flat.io](https://flat.io/)
 {% endhint %}
 
 ## MuseScore
