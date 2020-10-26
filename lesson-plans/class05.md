@@ -15,7 +15,7 @@ description: intro to Logic
 
 What is MIDI?
 
-### [**MIDI Exercise**](../units/notation-software/midi-exercise.md)\*\*\*\*
+### [**MIDI Exercise**](../midi-exercise.md)\*\*\*\*
 {% endhint %}
 
 * **start with ES E \(virtual instrument\)**

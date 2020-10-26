@@ -35,8 +35,6 @@
     * [Vector \(2D & 3D\) Activity](units/photography-graphics-video-digital/graphics/vector-2d-and-3d-activity.md)
 * [8. Notation \(MIDI\) & Virtual Instruments](units/notation-software/README.md)
   * [Assignment \(notation\)](units/notation-software/assignment-notation.md)
-  * [MIDI Exercise](units/notation-software/midi-exercise.md)
-  * [Introduction to Notation Software Exercise](units/notation-software/introduction-to-notation-software-exercise.md)
   * [Dorico Reference](units/notation-software/dorico-reference.md)
   * [MuseScore Reference](units/notation-software/musescor-reference.md)
 * [9. Electroacoustic Music](units/9.-electroacoustic-music.md)
@@ -60,6 +58,8 @@
 
 ---
 
+* [MIDI Exercise](midi-exercise.md)
+* [Introduction to Notation Software Exercise](introduction-to-notation-software-exercise.md)
 * [Email Etiquette](email-etiquette.md)
 * [iPad](ipad.md)
 * [Simple Programming Problems](simple-programming-problems.md)

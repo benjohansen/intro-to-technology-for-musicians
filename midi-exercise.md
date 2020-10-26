@@ -33,17 +33,17 @@
 
 ## message format
 
-![note on](../../.gitbook/assets/midi-note-on.png)
+![note on](.gitbook/assets/midi-note-on.png)
 
-![pitch bend](../../.gitbook/assets/midi-pitch-ben.png)
+![pitch bend](.gitbook/assets/midi-pitch-ben.png)
 
 ## AM Synth \(Amplitude Modulation Synthesizer\)
 
 recreate the patch below \(turn on digital signal processing \(DSP\) and play the MIDI keyboard / turn knobs\):
 
-![](../../.gitbook/assets/pd_am-monophonic.png)
+![](.gitbook/assets/pd_am-monophonic.png)
 
-{% file src="../../.gitbook/assets/am.pd.zip" caption="AM Synth Pure Data patch \(no MIDI control like the above\)" %}
+{% file src=".gitbook/assets/am.pd.zip" caption="AM Synth Pure Data patch \(no MIDI control like the above\)" %}
 
 ## FM \(Frequency Modulation\)
 
@@ -51,7 +51,7 @@ recreate the patch below \(turn on digital signal processing \(DSP\) and play th
 How can you control the FM patch below with MIDI?
 {% endhint %}
 
-![](../../.gitbook/assets/screen-shot-2020-01-30-at-12.23.34-pm.png)
+![](.gitbook/assets/screen-shot-2020-01-30-at-12.23.34-pm.png)
 
-{% file src="../../.gitbook/assets/fm.pd.zip" caption="FM Synth Pure Data patch" %}
+{% file src=".gitbook/assets/fm.pd.zip" caption="FM Synth Pure Data patch" %}
 

@@ -1,7 +1,5 @@
 # 8. Notation \(MIDI\) & Virtual Instruments
 
-
-
 1. What is an example of a “proprietary” music notation file format? What is an “open” music notation file format that can be exported/imported between different music notation software applications?
    * Why can't you open a MuseScore file in Dorico? How can you open a file created in MuseScore in any other notation software program?
 2. What type of graphic file do you export from notation software for use in word processor \(such as Microsoft Word\) or a graphics application \(such as Adobe Illustrator\) so that it prints crisply and sharply no matter how large the image is made?
@@ -13,12 +11,6 @@
 6. Discuss the difference between a MIDI file and a WAV file. What type of information is stored in each file?
 
 
-
-
-
-
-
-What is MusicXML? = [https://www.musicxml.com/](https://www.musicxml.com/)
 
 #### Free notation software
 

@@ -18,6 +18,13 @@ Devote as much time for this project as you want for the sake of your future. Th
   3. Dorico file of the score \(it will be a file with a `.dorico` file extension\)
   4. Dorico generated PDF of the score \(it will be a file with a `.pdf` file extension\)
 
+{% hint style="info" %}
+There are other **free notation software applications** we will not be using for this assignment, but I'd like you to be aware of:
+
+* download and use on your computer = [musescore.org](https://musescore.org/en) & [musink.net](https://musink.net/)
+* use in the browser = [noteflight.com](https://www.noteflight.com/) & [flat.io](https://flat.io/)
+{% endhint %}
+
 ## MuseScore
 
 1. Download and install MuseScore = [https://musescore.org/en](https://musescore.org/en)
