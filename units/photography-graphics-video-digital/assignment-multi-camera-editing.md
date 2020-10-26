@@ -38,3 +38,12 @@ To expand multicam clip to edit cameras/audio individually \(to color grade or a
 * to exit expanded view: double click timeline name in bottom left \(e.g. Timeline &lt; Multicam\)
 {% endhint %}
 
+{% hint style="warning" %}
+I'm still researching this! If Resolve just will not run well because you have a low performance laptop, you may be able to use [Shotcut](https://shotcut.org/).
+
+* the following can actually be applied to both split screen and multiscreen projects = [https://youtu.be/fL4yjMVZlfg](https://youtu.be/fL4yjMVZlfg)
+* you may also need to run in proxy mode to help your computer work easier = [https://youtu.be/PzHutxve2T0](https://youtu.be/PzHutxve2T0)
+{% endhint %}
+
+
+
