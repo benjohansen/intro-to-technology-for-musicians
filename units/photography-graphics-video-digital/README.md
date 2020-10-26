@@ -24,6 +24,7 @@
 ### Editing Software Suggestions
 
 * ​[DaVinci Resolve \(Links to an external site.\)](https://www.blackmagicdesign.com/products/davinciresolve/) by BlackMagicDesign \(free \) - [training for DaVinci Resolve \(Links to an external site.\)](https://www.blackmagicdesign.com/products/davinciresolve/training)​
+* [Shotcut](https://shotcut.org/) \(open source\) for "slow computers"
 * Adobe Premiere \($$\) - [video tutorials for Adobe Premiere \(Links to an external site.\)](https://helpx.adobe.com/in/premiere-pro/tutorials.html)​
 
 ### Recording the Concert
