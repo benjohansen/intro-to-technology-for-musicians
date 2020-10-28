@@ -4,6 +4,12 @@
 
 **Turn in your assignment by uploading it to Youtube or Vimeo \(it can be unlisted\) and** [**Email me**](https://www.baylor.edu/music/index.php?id=951763) **the URL of your video.**
 
+{% hint style="warning" %}
+If Resolve just will not run well because you have a low performance laptop, using [**Shotcut**](https://shotcut.org/) ****\(instead of Resolve\) may provide you with a better overall experience since it is marketed to run well on lower performing computers. I suggest you follow the settings provided in the following video to help your computer out even more = [https://youtu.be/PzHutxve2T0](https://youtu.be/PzHutxve2T0)
+
+* the following tutorial can actually be applied to both split screen and multiscreen projects = [https://youtu.be/fL4yjMVZlfg](https://youtu.be/fL4yjMVZlfg)
+{% endhint %}
+
 ### SplitScreen
 
 * [History of split screen](https://bit.ly/3aELwip)
