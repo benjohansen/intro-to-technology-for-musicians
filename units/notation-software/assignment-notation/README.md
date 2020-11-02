@@ -31,8 +31,8 @@ Remember: ["For experienced users, for whom the commands are stored in what we o
 {% hint style="success" %}
 Here are some scores for learning during class:
 
-* Abide With Me
-* Fugue in C major by J.S. Bach
+* [Abide With Me](http://openhymnal.org/Pdf/Abide_With_Me-Eventide.pdf) \(from openhymnal.org\)
+* [Fugue in C major by J.S. Bach](https://imslp.org/wiki/Fugue_in_C_major,_BWV_952_%28Bach,_Johann_Sebastian%29#IMSLP323148) \(from imslp.org\)
 {% endhint %}
 
 ## MuseScore
