@@ -26,6 +26,7 @@
   * `underscore`to extend note
   * press `return` to go to the next verse
   * To number verses, simply type the number \(e.g. 1.\) and a space before the first syllable by using `option` \(Mac\) or `ctrl` \(Windows\) plus spacebar. MuseScore will automatically align the numbers and first syllable correctly.
+* [Layouts and Parts](https://youtu.be/6OrSmHrDQg0) \("Breaks and Brackets" in side pallet\)
 * to export graphic
   * for entire page = File &gt; Export ... \(choose svg\)
   * for selection = [use the "image capture" tool](https://musescore.org/en/handbook/3/image-capture)
