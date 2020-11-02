@@ -19,6 +19,8 @@
   1. enter in the first note of the tie as usual
   2. select the value of the second note of the tie
   3. press `+` \(that will enter in the second note and t
+* [voices](https://musescore.org/en/handbook/voices) 
+  * **very helpful** = tools &gt; voices &gt; exchange voices ...
 * `esc` to get out of note input mode
 * [lyrics](https://musescore.org/en/handbook/lyrics) = select the note, then`command` \(Mac\) or `ctrl` \(Windows\) plus `l`
   * `underscore`to extend note
