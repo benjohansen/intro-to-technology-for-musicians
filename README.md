@@ -7,7 +7,7 @@ description: Baylor University MUS1331 Fall 2020 course syllabus and online cour
 ## Due Dates:
 
 * Due date yet to be determined:
-  * Complete [Notation Assignment](units/notation-software/assignment-notation.md)
+  * Complete [Notation Assignment](units/notation-software/assignment-notation/)
 * Due Mon/Tue \(Oct. 26/27\)
   * Complete [Music Video Assignment](units/photography-graphics-video-digital/assignment-music-video.md) \(email me a link to the video you post to YouTube or Vimeo\)
 * Due Mon/Tue \(Oct. 19/20\)

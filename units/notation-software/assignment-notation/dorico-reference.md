@@ -20,7 +20,7 @@
 
 ## [Write Mode](https://steinberg.help/dorico/v1/en/dorico/topics/first_steps/first_steps_your_first_notes_inputting_t.html) \[ctrl/cmd + 2\] = opposite of Finale
 
-![input keyboard shortcuts](../../.gitbook/assets/dorico-write-mode-shortcuts2.png)
+![input keyboard shortcuts](../../../.gitbook/assets/dorico-write-mode-shortcuts2.png)
 
 * Whenever you see the caret, you are inputting new music.
 * When you do not see the caret, you are editing existing music.
