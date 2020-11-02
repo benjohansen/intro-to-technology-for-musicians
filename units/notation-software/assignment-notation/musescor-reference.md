@@ -11,6 +11,7 @@
 ![MuseScore keyboard shortcuts for durations](../../../.gitbook/assets/image%20%284%29.png)
 
 * rest = select duration, then type `0`
+* shift a selected note and octave = hold down `command` \(Mac\) or `ctrl` \(Windows\) plus the up or down arrow
 * command+L adds lyrics
 * to export graphic
   * * for entire page = File &gt; Export ... \(choose svg\)
