@@ -1,11 +1,16 @@
 # Dorico Reference
 
-## Intro
+{% hint style="info" %}
+**Dorico at a glance:**
 
+* costs a lot of money
+* ultra professional looking scores
+* very intuitive
 * [Design philosophy and higher-level concepts](https://steinberg.help/dorico_pro/v2/en/dorico/topics/program_concepts/program_concepts_design_philosophy_c.html)
 * [Key musical concepts](https://steinberg.help/dorico_pro/v2/en/dorico/topics/program_concepts/program_concepts_key_musical_concepts_c.html)
 * [**"How to" Videos on Youtube**](https://www.youtube.com/channel/UCIOwP19omIVDSUq2rTGgHKw/playlists?view=50&sort=dd&shelf_id=7)
 * [Key Commands \(keyboard shortcuts\)](https://steinberg.help/dorico/v1/en/dorico/topics/introduction/introduction_dorico_key_commands_window_r.html)
+{% endhint %}
 
 ## [Setup Mode](https://steinberg.help/dorico/v1/en/dorico/topics/setup_mode/setup_mode_introduction_c.html) \[ctrl/cmd + 1\]
 
