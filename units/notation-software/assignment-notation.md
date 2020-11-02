@@ -22,10 +22,17 @@ Devote as much time for this project as you want for the sake of your future. Th
 If your computer is a bit low on performance power \(if Resolve did not run well on your computer\), then let me know and we'll come up with a solution. I want you to compare two notation applications \(ideally MuseScore and Dorico\), but you may have to replace using Dorico with [noteflight.com](https://www.noteflight.com/) or [flat.io](https://flat.io/)
 {% endhint %}
 
+{% hint style="warning" %}
+Remember: ["For experienced users, for whom the commands are stored in what we often call muscle memory, using the keyboard is always faster than using the mouse."](https://www.codementor.io/@igorpejic/it-s-time-to-stop-using-the-mouse-hg895pcbh)
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
 ## MuseScore
 
 1. Download and install MuseScore = [https://musescore.org/en](https://musescore.org/en)
-2. I've compiled some helpful hints on the page linked below for your reference \(some things I tend to forget and need often\).
+2. Watch the "Getting Started" tutorials = [https://musescore.org/en/tutorials](https://musescore.org/en/tutorials)
+3. Find helpful hints on the page linked below for your reference \(some things I tend to forget and need often\).
 
 {% page-ref page="musescor-reference.md" %}
 
@@ -40,7 +47,7 @@ If your computer is a bit low on performance power \(if Resolve did not run well
    * [Engrave Mode](https://www.youtube.com/playlist?list=PLoyaeouPUsdvy438lfsc78RZxhKTdOcKN)
    * [Page Layout Mode](https://www.youtube.com/playlist?list=PLoyaeouPUsdtQAPZqIiDYPNVCJEczPYaG)
    * [Play Mode](https://www.youtube.com/playlist?list=PLoyaeouPUsdt6H-SQgBH3_2-_qC-YxGHA)
-3. I've compiled some helpful hints on the page linked below for your reference \(some things I tend to forget and need often\).
+3. Find some helpful hints on the page linked below for your reference \(some things I tend to forget and need often\).
 
 {% page-ref page="dorico-reference.md" %}
 
