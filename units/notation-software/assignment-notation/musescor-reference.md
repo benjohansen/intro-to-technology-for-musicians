@@ -10,6 +10,8 @@
 
 ![MuseScore keyboard shortcuts for durations](../../../.gitbook/assets/image%20%284%29.png)
 
+* notation input: in general, setup note value before the pitch
+  * choose note input mode \(press `n`\), choose the duration, press the letter on your QWERTY or pitch on your MIDI keyboard ... the caret will then advance
 * rest = select duration, then type `0`
 * flat or sharp a note by first entering in the note \(which will enter in diatonically\), then press the up or down arrow right after entering it in
 * shift a selected note and octave = hold down `command` \(Mac\) or `ctrl` \(Windows\) plus the up or down arrow
