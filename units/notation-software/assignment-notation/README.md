@@ -24,6 +24,8 @@ If your computer is a bit low on performance power \(if Resolve did not run well
 
 {% hint style="warning" %}
 Remember: ["For experienced users, for whom the commands are stored in what we often call muscle memory, using the keyboard is always faster than using the mouse."](https://www.codementor.io/@igorpejic/it-s-time-to-stop-using-the-mouse-hg895pcbh)
+
+**So, for notation software = it's all about the caret!**
 {% endhint %}
 
 ![](../../../.gitbook/assets/image%20%283%29.png)
