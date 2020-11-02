@@ -8,8 +8,9 @@
 * [MuseScore 4 _will_ be geared more for composing](https://musescore.org/en/MuseScore4)
 {% endhint %}
 
+![MuseScore keyboard shortcuts for durations](../../../.gitbook/assets/image%20%284%29.png)
 
-
+* rest = select duration, then type `0`
 * command+L adds lyrics
 * to export graphic
   * * for entire page = File &gt; Export ... \(choose svg\)
