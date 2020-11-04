@@ -31,6 +31,7 @@
 * transpose a note by an octave:
   * Windows = ctrl+alt+arrow
   * Mac = option+command+arrow
+* [enharmonic respelling](https://steinberg.help/dorico/v1/en/dorico/topics/write_mode/write_mode_accidentals_respelling_t.html) = press \[ALT +\] or \[ALT - \]
 * [input rests](https://steinberg.help/dorico/v2/en/dorico/topics/write_mode/write_mode_rests_inputting_t.html) \[ space bar \] = press space bar instead of a pitch
   * OR press comma to toggle on/off rests .... choose a duration, then press a note on the MIDI keyboard or a letter \(A, B, C, D, E, F, G\) on the QWERTY keyboard to input a rest at the duration you chose
 * insert mode \[ i \] = ALL notes downstream on staff move \(not just in one measure like Finale\)
@@ -47,8 +48,6 @@
   * see [Key Commands](https://steinberg.help/dorico/v1/en/dorico/topics/introduction/introduction_dorico_key_commands_window_r.html) for more
 * delete extra measures:
   * Write &gt; Trim Flow
-* [enharmonic respelling](https://steinberg.help/dorico/v1/en/dorico/topics/write_mode/write_mode_accidentals_respelling_t.html) = press \[ALT +\] or \[ALT - \]
-* move a note by an octave division = press \[SHIFT ALT uparrow\]
 
 ## [Engrave Mode](https://steinberg.help/dorico/v1/en/dorico/topics/engrave_mode/engrave_mode_introduction_c.html) \[ctrl/cmd + 3\] = point & click to adjust items \( [video](https://www.youtube.com/watch?v=-BYsKNIhP9A&list=PLoyaeouPUsdvy438lfsc78RZxhKTdOcKN) \)
 
