@@ -24,6 +24,7 @@
 
 * Whenever you see the caret, you are inputting new music.
 * When you do not see the caret, you are editing existing music.
+* enter note input mode by selecting a measure or note or reset and pressing enter \(or shift+n\)
 * to leave note input \(caret\) press ESC
 * transpose a note by a half step:
   * Windows = shift+alt+arrow
@@ -45,6 +46,7 @@
   * \[Shift + M\] = add a meter starting at the selected note \( example = 4/4  ... or 4/4,1 if there is a pickup\)
   * \[Shift + K\] = add a key signature \( example = Eb \)
   * \[Shift + L\] = add lyrics \([video](https://www.youtube.com/watch?v=IfhDVl-vRRo&list=PLoyaeouPUsdsnltPMEyV6pzuHh6cs9-Cp&index=10)\)
+    * [verse numbers](https://steinberg.help/dorico_pro/v3/en/dorico/topics/notation_reference/notation_reference_lyrics/notation_reference_lyrics_verse_numbers_hiding_showing_project_wide_t.html)
   * see [Key Commands](https://steinberg.help/dorico/v1/en/dorico/topics/introduction/introduction_dorico_key_commands_window_r.html) for more
 * delete extra measures:
   * Write &gt; Trim Flow
