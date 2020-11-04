@@ -6,17 +6,17 @@
 * costs a lot of money
 * ultra professional looking scores
 * very intuitive
-* [Design philosophy and higher-level concepts](https://steinberg.help/dorico_pro/v2/en/dorico/topics/program_concepts/program_concepts_design_philosophy_c.html)
-* [Key musical concepts](https://steinberg.help/dorico_pro/v2/en/dorico/topics/program_concepts/program_concepts_key_musical_concepts_c.html)
+* [Design philosophy and higher-level concepts](https://steinberg.help/dorico_pro/v3/en/dorico/topics/program_concepts/program_concepts_design_philosophy_c.html)
+  * [solo vs. section players](https://steinberg.help/dorico_pro/v3/en/dorico/topics/program_concepts/program_concepts_players_c.html)
 * [**"How to" Videos on Youtube**](https://www.youtube.com/channel/UCIOwP19omIVDSUq2rTGgHKw/playlists?view=50&sort=dd&shelf_id=7)
-* [Key Commands \(keyboard shortcuts\)](https://steinberg.help/dorico/v1/en/dorico/topics/introduction/introduction_dorico_key_commands_window_r.html)
+* [Key Commands \(keyboard shortcuts\)](https://steinberg.help/dorico_pro/v3/en/dorico/topics/user_interface/user_interface_key_commands_interactive_map_r.html)
 {% endhint %}
 
 ## [Setup Mode](https://steinberg.help/dorico/v1/en/dorico/topics/setup_mode/setup_mode_introduction_c.html) \[ctrl/cmd + 1\]
 
 * * Flows - remove instrument from a flow by deactivating \(uncheck\) the instrument under Players \(on left\)
   * Change how much will fit on a page \(make everything smaller or larger\):
-    * * Setup &gt; Layout Options ... Space Size \(equivalent to the Finale % Tool\)
+    * Setup &gt; Layout Options ... Space Size \(equivalent to the Finale % Tool\)
 
 ## [Write Mode](https://steinberg.help/dorico/v1/en/dorico/topics/first_steps/first_steps_your_first_notes_inputting_t.html) \[ctrl/cmd + 2\] = opposite of Finale
 
@@ -25,6 +25,12 @@
 * Whenever you see the caret, you are inputting new music.
 * When you do not see the caret, you are editing existing music.
 * to leave note input \(caret\) press ESC
+* transpose a note by a half step:
+  * Windows = shift+alt+arrow
+  * Mac = shift+option+arrow
+* transpose a note by an octave:
+  * Windows = ctrl+alt+arrow
+  * Mac = option+command+arrow
 * [input rests](https://steinberg.help/dorico/v2/en/dorico/topics/write_mode/write_mode_rests_inputting_t.html) \[ space bar \] = press space bar instead of a pitch
   * OR press comma to toggle on/off rests .... choose a duration, then press a note on the MIDI keyboard or a letter \(A, B, C, D, E, F, G\) on the QWERTY keyboard to input a rest at the duration you chose
 * insert mode \[ i \] = ALL notes downstream on staff move \(not just in one measure like Finale\)
