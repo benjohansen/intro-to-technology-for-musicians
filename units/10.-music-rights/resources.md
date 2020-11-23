@@ -1,6 +1,6 @@
 # Copyright & Licensing Resources
 
-Compiled by [Clayton Crenshaw](https://www.baylor.edu/music/index.php?id=952188), Music Liaison Librarian, Baylor University \(revised Feb2018\)
+Compiled by Clayton Crenshaw, former Music Liaison Librarian, Baylor University \(revised Feb2018\).
 
 ## **Copyright**
 

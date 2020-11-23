@@ -2,7 +2,7 @@
 
 This is simply an informal guide and does not in any way represent legal advise!
 
-[National Association for Music Education has a wonderful resource on copyright and licensing.](https://nafme.org/my-classroom/copyright/)
+[**National Association for Music Education has a wonderful resource on copyright and licensing.**](https://nafme.org/my-classroom/copyright/)\*\*\*\*
 
 ## **Copyright**
 
