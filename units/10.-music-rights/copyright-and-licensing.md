@@ -22,7 +22,11 @@ This is simply an informal guide and does not in any way represent legal advise!
 * So = a composer of a piece of music has the right to make a copy of their work and sell it to you ... you do not have the right to copy that piece of music you bought.
 * sifting process for using others’ works:
   * Is it in the Public Domain? \(in U.S. = cut-off for [public domain](https://en.wikipedia.org/wiki/Public_domain_in_the_United_States) moves forward every year; some later works are in the public domain too\)
-  * Is the planned use covered by an exception? \(performance exceptions for teaching, concerts, and worship\)
+  * Is the planned use covered by an exception?
+    * face-toface or distance learning instruction
+    * non-profit education school concerts \(only if admission is free\)
+      * shopping mall concert is **\*not\*** exempt because shops at mall gain indirect commercial advantage
+    * worship \(does **\*not\*** include dramatic works\)
   * Is the planned use covered by a Fair Use exception? \(complete a Fair Use Analysis\)
   * What type of permission or license will have to be acquired?
 
