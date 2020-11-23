@@ -10,7 +10,7 @@ This is simply an informal guide and does not in any way represent legal advise!
   * U.S. Constitution, Article I, Section 8:
 
     > The Congress shall have power . . . \[Clause 8:\] To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries;...
-* Create something in one of the following protected categories and record \(fix\) it in a “tangible medium of expression” to own copyright:
+* To own copyright = create something in one of the following protected categories and record \(fix\) it in a “tangible medium of expression”:
   * literary works
   * musical works
   * dramatic works
@@ -19,6 +19,7 @@ This is simply an informal guide and does not in any way represent legal advise!
   * motion pictures and other audiovisual works
   * sound recordings
   * architectural works
+* So = a composer of a piece of music has the right to make a copy of their work and sell it to you ... you do not have the right to copy that piece of music you bought.
 * sifting process for using others’ works:
   * Is it in the Public Domain? \(in U.S. = cut-off for [public domain](https://en.wikipedia.org/wiki/Public_domain_in_the_United_States) moves forward every year; some later works are in the public domain too\)
   * Is the planned use covered by an exception? \(performance exceptions for teaching, concerts, and worship\)
