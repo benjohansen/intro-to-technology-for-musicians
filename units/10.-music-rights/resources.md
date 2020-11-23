@@ -26,14 +26,13 @@ Compiled by Clayton Crenshaw, former Music Liaison Librarian, Baylor University 
 
 #### **Fair Use**
 
-* [Guidelines for Educational Uses of Music](http://copyright.musiclibraryassoc.org/Resources/EducationalUseOfPrintedMusic%22%20%5Ct%20%22_blank)
-* [Codes](http://cmsimpact.org/codes-of-best-practices/) of Best Practices – Center for Media and Social Impact
-* [Code of Best Practices in Fair Use for Online Video](http://www.cmsimpact.org/fair-use/best-practices/code-best-practices-fair-use-online-video%22%20%5Cl%20%22code)
-* [Fair Use Guidelines for Educational Multimedia](http://cms.bsu.edu/academics/libraries/collectionsanddept/copyright/fairuseteach/complyingwithteach/confuguidelines)  
-* [Cornell Fair Use Checklist](http://copyright.cornell.edu/policies/docs/Fair_Use_Checklist.pdf%22%20%5Ct%20%22_blank)
-* [Columbia Fair Use Checklist](https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html%22%20%5Cl%20%22Fair%20Use%20Checklist%22%20%5Ct%20%22_blank)
+* [Guidelines for Educational Uses of Music](https://www.musiclibraryassoc.org/mpage/copyright_geum)
+* [Codes of Best Practices](https://cmsimpact.org/codes-of-best-practices/) – Center for Media and Social Impact
+* [Code of Best Practices in Fair Use for Online Video](http://archive.cmsimpact.org/fair-use/best-practices/code-best-practices-fair-use-online-video)
+* \*\*\*\*[**Cornell Fair Use Checklist**](https://copyright.cornell.edu/sites/default/files/2016-10/Fair_Use_Checklist.pdf)\*\*\*\*
+* [Columbia Fair Use Checklist](https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html)
 * [Tales from the Public Domain: BOUND BY LAW?](http://web.law.duke.edu/cspd/comics/) \(Center for the Study of the Public Domain\)
-* [“Letting Us Rip: Our New Right to Fair Use of DVDs”](http://chronicle.com/blogs/profhacker/letting-us-rip-our-new-right-to-fair-use-of-dvds/25797) by Jason Mittell
+* ["But is Any of This Legal" by Jason Mittell](http://videographicessay.org/works/videographic-essay/but-is-any-of-this-legal)
 * Drummond, Tim. “Understanding Copyright and Fair Use in the Music Classroom.” Music Educators Journal 102, no. 2 \(December 2015\): 48–53.
   * [https://doi.org/10.1177/0027432115611233](https://doi.org/10.1177/0027432115611233)
 
@@ -55,7 +54,7 @@ Compiled by Clayton Crenshaw, former Music Liaison Librarian, Baylor University 
 
 #### **Forms**
 
-* [Harry Fox Agency: Request for Mechanical License](http://www.harryfox.com/documents/forms/m-license_laccountapp.pdf) \(for requests not available through Songfile\)
+* [Harry Fox Agency: Request for Mechanical License](https://secure.harryfox.com/public/userfiles/file/Licensee/m-license_laccountapp.pdf) \(for requests not available through Songfile\)
 * [Music Publishers Association Copyright Resource Center](http://www.mpa.org/content/copyright-resource-center)
 
 #### **Creative Commons**
@@ -75,24 +74,22 @@ Compiled by Clayton Crenshaw, former Music Liaison Librarian, Baylor University 
 * [ASCAP: Join ASCAP](http://www.ascap.com/join/)
 * [ASCAP: Licensing Help](http://www.ascap.com/licensing/licensingfaq.aspx%22%20%5Cl%20%22general)
 * [ASCAP: How to Make Money with Your Music on YouTube](https://www.ascap.com/help/royalties-and-payment/make-money-youtube)
-* [BMI: Licensing FAQ](http://www.bmi.com/licensing/%22%20%5Cl%20%22faqs)
+* [BMI: Licensing FAQ](https://www.bmi.com/licensing/#faqs)
 * [BMI: Resources for Creators](https://www.bmi.com/creators)
-* [SESAC:  FAQ page](https://www.sesac.com/Licensing/FAQsGeneral.aspx)
-* [SESAC: Obtain a SESAC License](https://www.sesac.com/Licensing/obtainlicense.aspx)
-* [CCLI: Church Copyright License](http://us.ccli.com/licenses-and-services/church-copyright-license/ccl-single/%22%20%5Cl%20%22coverage)
-* [CCLI: Streaming License](http://us.ccli.com/licenses-and-services/stream/%22%20%5Cl%20%22benefits)  \(bottom of page\)
+* [SESAC:  FAQ page](https://www.sesac.com/#!/music-creators-faq)
+* [CCLI: Church Copyright License](https://us.ccli.com/copyright-license/)
+* [CCLI: Streaming License](https://us.ccli.com/streaming/)  \(bottom of page\)
 * [Christian Copyright Solutions](http://www.christiancopyrightsolutions.com/)
 
 #### **Mechanical Licensing \(sound recordings\)**
 
 * [Harry Fox Agency](https://www.harryfox.com/)
 * [Songfile FAQs](https://secure.harryfox.com/songfile/faq.jsp)
-* [CCLI: Rehearsal License](http://us.ccli.com/licenses-and-services/rehearse/%22%20%5Cl%20%22benefits)  \(bottom of page\)
+* [CCLI: Rehearsal License](https://us.ccli.com/rehearsal-license-terms-of-agreement/)
 
 #### **Synchronization and Master Use Licensing \(audiovisual works\)**
 
-* [ASCAP: How to Acquire Music for Films](http://www.ascap.com/music-career/articles-advice/film-tv/How-To-Acquire-Music-For-Films.aspx)
+* [ASCAP: How to Acquire Music for Films](https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films)
 * [Easy Song Licensing: Master License](https://www.easysonglicensing.com/Pages/About/Types%20of%20Music%20Licenses/Master.aspx)
 * [Easy Song Licensing: Synchronization License](https://www.easysonglicensing.com/Pages/About/Types%20of%20Music%20Licenses/Synchronization.aspx)
-* [Harry Fox Agency: Do I Need a License to Use Music in My YouTube Video?](https://www.harryfox.com/license_music/youtube_license.html)
 

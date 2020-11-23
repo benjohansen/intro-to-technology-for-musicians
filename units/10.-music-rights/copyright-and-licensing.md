@@ -27,7 +27,7 @@ This is simply an informal guide and does not in any way represent legal advise!
     * non-profit education school concerts \(only if admission is free\)
       * shopping mall concert is **\*not\*** exempt because shops at mall gain indirect commercial advantage
     * worship \(does **\*not\*** include dramatic works\)
-  * Is the planned use covered by a Fair Use exception? \(complete a Fair Use Analysis\)
+  * Is the planned use covered by a Fair Use exception? \(complete a [Fair Use Analysis](https://copyright.cornell.edu/sites/default/files/2016-10/Fair_Use_Checklist.pdf)\)
   * What type of permission or license will have to be acquired?
 
 ## **Licensing**
