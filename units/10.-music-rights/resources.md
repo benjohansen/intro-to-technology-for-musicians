@@ -6,8 +6,8 @@ Compiled by [Clayton Crenshaw](https://www.baylor.edu/music/index.php?id=952188)
 
 #### **Baylor Resources**
 
-* [Baylor Copyright Guide](http://researchguides.baylor.edu/copyright%22%20%5Ct%20%22_blank)
-* [Baylor Copyright Pages for Students](http://www.baylor.edu/copyright/student/%22%20%5Ct%20%22_blank)
+* [Baylor Copyright Guide](https://researchguides.baylor.edu/copyright)
+* [Baylor Copyright Pages for Students](https://www.baylor.edu/copyright/student/)
 * [Baylor Intellectual Property Policy](https://www.baylor.edu/student_policies/index.php?id=32301)
 
 #### **Copyright Education**

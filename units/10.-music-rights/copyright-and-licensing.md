@@ -1,6 +1,8 @@
 # Copyright & Licensing
 
-This page was created with the assistance of [Clayton Crenshaw](https://www.baylor.edu/music/index.php?id=952188), Music Liaison Librarian, Baylor University \(revised Feb2018\). This is simply an informal guide and does not in any way represent legal advise!
+This is simply an informal guide and does not in any way represent legal advise!
+
+[National Association for Music Education has a wonderful resource on copyright and licensing.](https://nafme.org/my-classroom/copyright/)
 
 ## **Copyright**
 
@@ -28,11 +30,13 @@ This page was created with the assistance of [Clayton Crenshaw](https://www.bayl
 * Licensing is the mechanism by which to get written permission to use someone’s copyrighted music. There are different kinds of licenses to cover different kinds of uses, and there are a number of organizations that serve as the middleman in this process.
 * A license is a type of contract that describes what you can do with a copyrighted work and how much you will pay for the privilege. It’s important to know that a contract supersedes the copyright law. So, if you have a license that allows you to do either more or less than you could normally do under the law, it’s the license that you should follow.
 * Types of licenses you need depending on your project:
-  * live performance = you'll need a license from a Performing Rights Organizations \(PRO = ASCAP, BMI, SESAC, GMR\), they collect royalties on behalf of composers, songwriters, and music publishers when their works are performed publicly, then periodically pay everyone their fair share.
+  * live performance = you'll need a **public performance license** from a Performing Rights Organizations \(PRO = ASCAP, BMI, SESAC, GMR\), they collect royalties on behalf of composers, songwriters, and music publishers when their works are performed publicly, then periodically pay everyone their fair share.
     * Note: most performances in schools are covered by the Concert Performance Exception, so PROs will not be involved in those \(unless you charge admission, etc.\)
-  * audio recording = [mechanical license](https://www.easysonglicensing.com/pages/help/articles/music-licensing/what-is-a-mechanical-license.aspx)
-  * arranging = [music for all resource](https://www.musicforall.org/resources/copyright/request-permission-to-arrange-/-adapt) , [arrange for hire resource](https://arrangerforhire.com/music-arranging-copyright-licensing/)
-  * video project = [synchronization license](https://www.easysonglicensing.com/pages/help/articles/music-licensing/what-is-a-synchronization-license.aspx)
+  * audio recording = [**mechanical license**](https://www.easysonglicensing.com/pages/help/articles/music-licensing/what-is-a-mechanical-license.aspx) ****\(you need this from the composer,  publisher, or licensing agent like Harry Fox Agency to distribute recordings of someone else's musical composition ... [this resource explains it well](https://nafme.org/my-classroom/copyright/mechanical-licensing-you-what-you-need-to-know-before-recording-your-schools-performances/)\)
+  * arranging = **permission to arrange or adapt license**
+    * [music for all resource](https://www.musicforall.org/resources/copyright/request-permission-to-arrange-/-adapt)
+    * [arrange for hire resource](https://arrangerforhire.com/music-arranging-copyright-licensing/)
+  * video project = [**synchronization license**](https://www.easysonglicensing.com/pages/help/articles/music-licensing/what-is-a-synchronization-license.aspx)\*\*\*\*
 * “I want to use music for my project, but I am not sure what type of license I need” ... here is a resource to help with that = [https://www.harryfox.com/\#/faq](https://www.harryfox.com/#/faq) 
 * [Great blog posts about licensing and royalties](https://flypaper.soundfly.com/tag/royalties/)
 
