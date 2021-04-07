@@ -12,13 +12,15 @@
 
 * notation input: in general, setup note value before the pitch
   * choose note input mode \(press `n`\), choose the duration, press the letter on your QWERTY or pitch on your MIDI keyboard ... the caret will then advance
+  * chords = add a note above a note already entered: `shift` + pitch \(for example `shift` + `A`\)
+  * tuplets = before entering in the notes:`command` \(Mac\) or `ctrl` \(Windows\) plus the tuplet number
 * rest = select duration, then type `0`
 * flat or sharp a note by first entering in the note \(which will enter in diatonically\), then press the up or down arrow right after entering it in
 * shift a selected note and octave = hold down `command` \(Mac\) or `ctrl` \(Windows\) plus the up or down arrow
 * ties are odd =
   1. enter in the first note of the tie as usual
   2. select the value of the second note of the tie
-  3. press `+` \(that will enter in the second note and t
+  3. press `+` \(that will enter in the second note and tie\)
 * [voices](https://musescore.org/en/handbook/voices) 
   * **very helpful** = tools &gt; voices &gt; exchange voices ...
 * `esc` to get out of note input mode
