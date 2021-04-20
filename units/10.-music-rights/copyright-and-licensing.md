@@ -4,6 +4,8 @@ This is simply an informal guide and does not in any way represent legal advise!
 
 [**National Association for Music Education has a wonderful resource on copyright and licensing.**](https://nafme.org/my-classroom/copyright/)\*\*\*\*
 
+\*\*\*\*[**Music Copyright article by Splice.com**](https://splice.com/blog/music-copyright-breaking-down-the-biz/)\*\*\*\*
+
 ## **Copyright**
 
 * A simple definition of copyright is a “limited duration monopoly.”  For a period of time, copyright allows the creator to have exclusive rights to his or her works, and therefore it incentivizes creativity and promotes progress in the arts. 
